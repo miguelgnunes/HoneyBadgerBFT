@@ -1,4 +1,5 @@
 #!/bin/bash
+
 export LIBRARY_PATH=$LIBRARY_PATH:/usr/local/lib
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib 
 python -m HoneyBadgerBFT.commoncoin.generate_keys $N $(( t+1 )) > thsig$((N))_$((t)).keys

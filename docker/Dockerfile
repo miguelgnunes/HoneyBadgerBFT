@@ -25,8 +25,7 @@ RUN cd charm && git checkout 2.7-dev && ./configure.sh && python setup.py instal
 #RUN git clone https://github.com/amiller/HoneyBadgerBFT.git
 #COPY ../ /
 
-RUN git clone https://github.com/miguelgnunes/HoneyBadgerBFT.git
-RUN cd HoneyBadgerBFT && git checkout another-dev
+RUN git clone https://github.com/miguelgnunes/HoneyBadgerBFT.git && cd HoneyBadgerBFT && git checkout another-dev && git pull origin another-dev
 
 COPY ./start.sh /
 CMD sh /start.sh

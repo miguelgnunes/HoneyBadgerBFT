@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import struct
 
-from core.utils import Transaction
+from ..core.utils import Transaction
 
 __author__ = 'miguel'
 from gevent import monkey
@@ -9,18 +9,18 @@ monkey.patch_all()
 
 from gevent.queue import *
 from gevent import Greenlet
-from core.utils import bcolors, mylog, initiateThresholdSig
-from core.includeTransaction import honestParty
-from core.bkr_acs import initBeforeBinaryConsensus
+from ..core.utils import bcolors, mylog, initiateThresholdSig
+from ..core.includeTransaction import honestParty
+from ..core.bkr_acs import initBeforeBinaryConsensus
 import gevent
 import os
-from core.utils import myRandom as random
-from core.utils import ACSException, checkExceptionPerGreenlet, getSignatureCost, encodeTransaction, getKeys,  \
+from ..core.utils import myRandom as random
+from ..core.utils import ACSException, checkExceptionPerGreenlet, getSignatureCost, encodeTransaction, getKeys,  \
     deepEncode, deepDecode, randomTransaction, initiateECDSAKeys, initiateThresholdEnc, finishTransactionLeap
 
 import time
 import math
-from commoncoin.boldyreva_gipc import initialize as initializeGIPC
+from ..commoncoin.boldyreva_gipc import initialize as initializeGIPC
 
 from google.protobuf.internal import encoder
 import proto.envelopewrapper_pb2.py as envelopewrapper
