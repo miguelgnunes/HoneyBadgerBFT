@@ -1,4 +1,4 @@
-FROM ubuntu:latest 
+FROM ubuntu:trusty
 RUN apt-get update
 RUN apt-get -y install python-gevent
 RUN apt-get -y install git
@@ -10,6 +10,8 @@ RUN apt-get -y install flex
 RUN apt-get -y install bison
 RUN apt-get -y install libgmp-dev
 RUN apt-get -y install libssl-dev
+RUN pip install --upgrade setuptools
+RUN pip install --upgrade greenlet
 RUN pip install PySocks
 RUN pip install pycrypto
 RUN pip install ecdsa
@@ -20,8 +22,11 @@ RUN tar -xvf pbc-0.5.14.tar.gz
 RUN cd pbc-0.5.14 && ./configure && make && make install
 RUN git clone https://github.com/JHUISI/charm.git
 RUN cd charm && git checkout 2.7-dev && ./configure.sh && python setup.py install
-RUN git clone https://github.com/amiller/HoneyBadgerBFT.git
+#RUN git clone https://github.com/amiller/HoneyBadgerBFT.git
+#COPY ../ /
+
+RUN git clone https://github.com/miguelgnunes/HoneyBadgerBFT.git
 RUN cd HoneyBadgerBFT && git checkout another-dev
+
 COPY ./start.sh /
-COPY ./start_multiple.sh /
 CMD sh /start.sh
