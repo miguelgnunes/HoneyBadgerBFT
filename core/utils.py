@@ -18,7 +18,8 @@ from io import BytesIO
 
 nameList = open(os.path.dirname(os.path.abspath(__file__)) + '/../test/names.txt','r').read().strip().split('\n')
 
-TR_SIZE = 250
+# TR_SIZE = 250
+TR_SIZE = 1024
 SHA_LENGTH = 32
 PAIRING_SERIALIZED_0 = 28
 PAIRING_SERIALIZED_1 = 65 # 29  # 65
@@ -54,26 +55,24 @@ import os
 sys.path.append(os.path.abspath('../commoncoin'))
 
 
+id = 0
 class Transaction:  # assume amout is in term of short
     def __init__(self):
-        self.source='Unknown'
-        self.target = 'Unknown'
-        self.amount = 0
-        #### TODO: Define a detailed transaction
-
-    def __repr__(self):
-        return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
-
+        self.envelope = None
+        self.id = ++id
+    # def __repr__(self):
+    #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
+    #
     def __eq__(self, other):
         if isinstance(other, self.__class__):
-            return self.source == other.source and self.target == other.target and self.amount == other.amount
+            return self.id == other.id and self.envelope == other.envelope
         return False
 
     def __ne__(self, other):
         return not self.__eq__(other)
 
     def __hash__(self):
-        return hash(self.source) ^ hash(self.target) ^ hash(self.amount)
+        return hash(self.envelope) ^ hash(self.id)
 
 
 def randomTransaction(randomGenerator=random):

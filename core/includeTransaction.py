@@ -14,6 +14,8 @@ import random
 import itertools
 import gevent
 
+from google.protobuf.internal import encoder
+
 def calcSum(dd):
     return sum([x for _, x in dd.items()])
 
@@ -268,12 +270,13 @@ finishcount = 0
 lock.put(1)
 
 @greenletFunction
-def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
+def honestParty(pid, N, t, controlChannel, broadcast, receive, send, socket, B = -1):
     # RequestChannel is called by the client and it is the client's duty to broadcast the tx it wants to include
     if B < 0:
         B = int(math.ceil(N * math.log(N)))
     transactionCache = []
     finishedTx = set()
+    sentTx = set()
     proposals = []
     receivedProposals = False
     commonSet = []
@@ -361,11 +364,29 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             for rtx in recoveredSyncedTxList:
                 finishedTx.update(set(rtx))
 
+                for transaction in rtx:
+                    if transaction not in sentTx:
+                        sentTx.add(transaction)
+                        # send_envelope(socket, transaction.envelope)
+                        mylog("Sent back envelope %d to BFTProxy" % transaction.id, verboseLevel=-2)
+
             mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
             lock.get()
             finishcount += 1
             lock.put(1)
-            if finishcount >= N - t:  # convenient for local experiments
-                sys.exit()
+            # if finishcount >= N - t:  # convenient for local experiments
+            #     sys.exit()
     mylog("[%d] Now halting..." % (pid))
 
+
+def send_envelope(socket, env):
+    envelope = env.SerializeToString()
+    delimiter = encoder._VarintBytes(len(envelope))
+    message = delimiter + envelope
+    msg_len = len(message)
+    total_sent = 0
+    while total_sent < msg_len:
+        sent = socket.send(message[total_sent:])
+        if sent == 0:
+            raise RuntimeError('Socket connection broken')
+        total_sent = total_sent + sent
