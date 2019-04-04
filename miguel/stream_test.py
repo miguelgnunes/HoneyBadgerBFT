@@ -3,7 +3,7 @@ import struct
 
 from core.utils import Transaction
 
-__author__ = 'aluex'
+__author__ = 'miguel'
 from gevent import monkey
 monkey.patch_all()
 
