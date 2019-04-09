@@ -152,7 +152,7 @@ def client_test_freenet(N, t, options):
         th.start_later(random.random() * maxdelay)
         ts.append(th)
 
-    while True:
+    while j in range(20):
 
         transaction = Transaction()
         transaction.envelope = receive_envelope()
@@ -160,26 +160,26 @@ def client_test_freenet(N, t, options):
         for i in range(N):
             controlChannels[i].put(('IncludeTransaction', transaction))
 
-        try:
-            gevent.joinall(ts)
-        except ACSException:
-            gevent.killall(ts)
-        except finishTransactionLeap:  ### Manually jump to this level
-            print 'msgCounter', msgCounter
-            print 'msgTypeCounter', msgTypeCounter
-            # message id 0 (duplicated) for signatureCost
-            logChannel.put(StopIteration)
-            mylog("=====", verboseLevel=-1)
-            for item in logChannel:
-                mylog(item, verboseLevel=-1)
-            mylog("=====", verboseLevel=-1)
-            continue
-        except gevent.hub.LoopExit:  # Manual fix for early stop
-            while True:
-                gevent.sleep(1)
-            checkExceptionPerGreenlet()
-        finally:
-            print "Concensus Finished"
+    try:
+        gevent.joinall(ts)
+    except ACSException:
+        gevent.killall(ts)
+    except finishTransactionLeap:  ### Manually jump to this level
+        print 'msgCounter', msgCounter
+        print 'msgTypeCounter', msgTypeCounter
+        # message id 0 (duplicated) for signatureCost
+        logChannel.put(StopIteration)
+        mylog("=====", verboseLevel=-1)
+        for item in logChannel:
+            mylog(item, verboseLevel=-1)
+        mylog("=====", verboseLevel=-1)
+        continue
+    except gevent.hub.LoopExit:  # Manual fix for early stop
+        while True:
+            gevent.sleep(1)
+        checkExceptionPerGreenlet()
+    finally:
+        print "Concensus Finished"
 
 
 
