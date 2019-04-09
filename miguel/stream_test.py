@@ -153,7 +153,7 @@ def client_test_freenet(N, t, options):
         th.start_later(random.random() * maxdelay)
         ts.append(th)
 
-    for j in range(16):
+    for j in range(int(options.tx)):
 
         transaction = Transaction()
         transaction.envelope = receive_envelope()
