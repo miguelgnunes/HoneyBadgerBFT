@@ -63,6 +63,7 @@ class Transaction:  # assume amout is in term of short
     # def __repr__(self):
     #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
     #
+
     def __repr__(self):
         return bcolors.OKBLUE + "{{Transaction with id %d and envelope %s }}" % (self.id, self.envelope) + bcolors.ENDC
 
@@ -128,6 +129,11 @@ def encodeTransaction(tr, randomGenerator=None, length=TR_SIZE):
     return struct.pack(
         '<BBH', sourceInd, targetInd, tr.amount
     ) + os.urandom(TR_SIZE - 5) + '\x90'
+
+
+def encodeMyTransaction(tr):
+    encodedEnvelope = tr.envelope.SerializeToString()
+    return encodedEnvelope + os.urandom(TR_SIZE - len(encodedEnvelope))
 
 
 # assumptions:

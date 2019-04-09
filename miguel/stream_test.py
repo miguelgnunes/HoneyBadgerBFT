@@ -15,7 +15,7 @@ from ..core.bkr_acs import initBeforeBinaryConsensus
 import gevent
 import os
 from ..core.utils import myRandom as random
-from ..core.utils import ACSException, checkExceptionPerGreenlet, getSignatureCost, encodeTransaction, getKeys,  \
+from ..core.utils import ACSException, checkExceptionPerGreenlet, getSignatureCost, encodeTransaction, encodeMyTransaction, getKeys,  \
     deepEncode, deepDecode, randomTransaction, initiateECDSAKeys, initiateThresholdEnc, finishTransactionLeap
 
 import time
@@ -159,7 +159,7 @@ def client_test_freenet(N, t, options):
         transaction.envelope = receive_envelope()
 
         for z in range(N):
-            controlChannels[z].put(('IncludeTransaction', transaction))
+            controlChannels[z].put(('IncludeTransaction', {encodeMyTransaction(transaction)}))
 
     try:
         gevent.joinall(ts)
