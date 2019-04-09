@@ -63,6 +63,9 @@ class Transaction:  # assume amout is in term of short
     # def __repr__(self):
     #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
     #
+    def __repr__(self):
+        return bcolors.OKBLUE + "{{Transaction with id %d and envelope %s }}" % (self.id, self.envelope) + bcolors.ENDC
+
     def __eq__(self, other):
         if isinstance(other, self.__class__):
             return self.id == other.id and self.envelope == other.envelope
