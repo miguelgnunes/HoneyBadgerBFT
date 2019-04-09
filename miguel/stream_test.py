@@ -152,12 +152,12 @@ def client_test_freenet(N, t, options):
         th.start_later(random.random() * maxdelay)
         ts.append(th)
 
-    while j in range(20):
+    for j in range(20):
 
         transaction = Transaction()
         transaction.envelope = receive_envelope()
 
-        for i in range(N):
+        for z in range(N):
             controlChannels[i].put(('IncludeTransaction', transaction))
 
     try:
@@ -173,7 +173,7 @@ def client_test_freenet(N, t, options):
         for item in logChannel:
             mylog(item, verboseLevel=-1)
         mylog("=====", verboseLevel=-1)
-        continue
+        # continue
     except gevent.hub.LoopExit:  # Manual fix for early stop
         while True:
             gevent.sleep(1)
