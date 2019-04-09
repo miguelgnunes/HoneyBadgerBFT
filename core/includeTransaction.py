@@ -324,7 +324,7 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, port, B = -
             mylog("timestampB (%d, %lf)" % (pid, time.time()), verboseLevel=-2)
             if len(transactionCache) < B:  # Let's wait for many transactions. : )
                 time.sleep(0.5)
-                print "Not enough transactions", len(transactionCache)
+                print "Not enough transactions", len(transactionCache), "-", B
                 continue
 
             oldest_B = transactionCache[:B]
