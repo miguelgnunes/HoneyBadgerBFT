@@ -367,7 +367,7 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
                     if transaction not in sentTx:
                         sentTx.add(transaction)
                         # send_envelope(socket, transaction.envelope)
-                        mylog("Sent back envelope %s to BFTProxy" % transaction[100:], verboseLevel=-2)
+                        mylog("Sent back envelope %d to BFTProxy" % len(transaction), verboseLevel=-2)
 
             mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
             lock.get()

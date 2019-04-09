@@ -1,0 +1,765 @@
+timestampB (4, 1554830633.618320)
+timestampB (6, 1554830633.619068)
+timestampB (1, 1554830633.620344)
+timestampB (0, 1554830633.620495)
+timestampB (7, 1554830633.620567)
+timestampB (5, 1554830633.622190)
+timestampB (3, 1554830633.623047)
+timestampB (2, 1554830633.624770)
+Not enough transactions 1 - 16
+timestampB (4, 1554830634.123388)
+Not enough transactions 1 - 16
+timestampB (6, 1554830634.123816)
+Not enough transactions 1 - 16
+timestampB (1, 1554830634.125121)
+Not enough transactions 1 - 16
+timestampB (0, 1554830634.125356)
+Not enough transactions 1 - 16
+timestampB (7, 1554830634.125592)
+Not enough transactions 1 - 16
+timestampB (5, 1554830634.125692)
+Not enough transactions 1 - 16
+timestampB (3, 1554830634.127047)
+Not enough transactions 1 - 16
+timestampB (2, 1554830634.127118)
+Not enough transactions 2 - 16
+timestampB (4, 1554830634.624524)
+Not enough transactions 2 - 16
+timestampB (6, 1554830634.625961)
+Not enough transactions 2 - 16
+timestampB (1, 1554830634.626071)
+Not enough transactions 2 - 16
+timestampB (0, 1554830634.626153)
+Not enough transactions 2 - 16
+timestampB (7, 1554830634.626232)
+Not enough transactions 2 - 16
+timestampB (5, 1554830634.626309)
+Not enough transactions 2 - 16
+timestampB (3, 1554830634.627672)
+Not enough transactions 2 - 16
+timestampB (2, 1554830634.627894)
+Not enough transactions 3 - 16
+timestampB (4, 1554830635.125929)
+Not enough transactions 3 - 16
+timestampB (6, 1554830635.127490)
+Not enough transactions 3 - 16
+timestampB (1, 1554830635.127631)
+Not enough transactions 3 - 16
+timestampB (0, 1554830635.127693)
+Not enough transactions 3 - 16
+timestampB (7, 1554830635.127755)
+Not enough transactions 3 - 16
+timestampB (5, 1554830635.127824)
+Not enough transactions 3 - 16
+timestampB (3, 1554830635.129132)
+Not enough transactions 3 - 16
+timestampB (2, 1554830635.129205)
+Not enough transactions 4 - 16
+timestampB (4, 1554830635.626835)
+Not enough transactions 4 - 16
+timestampB (6, 1554830635.628401)
+Not enough transactions 4 - 16
+timestampB (1, 1554830635.628760)
+Not enough transactions 4 - 16
+timestampB (0, 1554830635.628968)
+Not enough transactions 4 - 16
+timestampB (7, 1554830635.629145)
+Not enough transactions 4 - 16
+timestampB (5, 1554830635.629322)
+Not enough transactions 4 - 16
+timestampB (3, 1554830635.630662)
+Not enough transactions 4 - 16
+timestampB (2, 1554830635.630738)
+Not enough transactions 5 - 16
+timestampB (4, 1554830636.133118)
+Not enough transactions 5 - 16
+timestampB (6, 1554830636.133340)
+Not enough transactions 5 - 16
+timestampB (1, 1554830636.133611)
+Not enough transactions 5 - 16
+timestampB (0, 1554830636.133792)
+Not enough transactions 5 - 16
+timestampB (7, 1554830636.133914)
+Not enough transactions 5 - 16
+timestampB (5, 1554830636.134076)
+Not enough transactions 5 - 16
+timestampB (3, 1554830636.134238)
+Not enough transactions 5 - 16
+timestampB (2, 1554830636.134400)
+Not enough transactions 6 - 16
+timestampB (4, 1554830636.638911)
+Not enough transactions 6 - 16
+timestampB (6, 1554830636.639264)
+Not enough transactions 6 - 16
+timestampB (1, 1554830636.639451)
+Not enough transactions 6 - 16
+timestampB (0, 1554830636.639586)
+Not enough transactions 6 - 16
+timestampB (7, 1554830636.639706)
+Not enough transactions 6 - 16
+timestampB (5, 1554830636.639788)
+Not enough transactions 6 - 16
+timestampB (3, 1554830636.639858)
+Not enough transactions 6 - 16
+timestampB (2, 1554830636.640016)
+Not enough transactions 7 - 16
+timestampB (4, 1554830637.141181)
+Not enough transactions 7 - 16
+timestampB (6, 1554830637.141453)
+Not enough transactions 7 - 16
+timestampB (1, 1554830637.141637)
+Not enough transactions 7 - 16
+timestampB (0, 1554830637.141839)
+Not enough transactions 7 - 16
+timestampB (7, 1554830637.141962)
+Not enough transactions 7 - 16
+timestampB (5, 1554830637.142037)
+Not enough transactions 7 - 16
+timestampB (3, 1554830637.142204)
+Not enough transactions 7 - 16
+timestampB (2, 1554830637.142366)
+Not enough transactions 8 - 16
+timestampB (4, 1554830637.645386)
+Not enough transactions 8 - 16
+timestampB (6, 1554830637.645644)
+Not enough transactions 8 - 16
+timestampB (1, 1554830637.645759)
+Not enough transactions 8 - 16
+timestampB (0, 1554830637.645840)
+Not enough transactions 8 - 16
+timestampB (7, 1554830637.645919)
+Not enough transactions 8 - 16
+timestampB (5, 1554830637.645997)
+Not enough transactions 8 - 16
+timestampB (3, 1554830637.646074)
+Not enough transactions 8 - 16
+timestampB (2, 1554830637.646152)
+Not enough transactions 9 - 16
+timestampB (4, 1554830638.146359)
+Not enough transactions 9 - 16
+timestampB (6, 1554830638.146502)
+Not enough transactions 9 - 16
+timestampB (1, 1554830638.146589)
+Not enough transactions 9 - 16
+timestampB (0, 1554830638.146668)
+Not enough transactions 9 - 16
+timestampB (7, 1554830638.146747)
+Not enough transactions 9 - 16
+timestampB (5, 1554830638.146824)
+Not enough transactions 9 - 16
+timestampB (3, 1554830638.146901)
+Not enough transactions 9 - 16
+timestampB (2, 1554830638.146978)
+Not enough transactions 10 - 16
+timestampB (4, 1554830638.647512)
+Not enough transactions 10 - 16
+timestampB (6, 1554830638.647632)
+Not enough transactions 10 - 16
+timestampB (1, 1554830638.647713)
+Not enough transactions 10 - 16
+timestampB (0, 1554830638.647791)
+Not enough transactions 10 - 16
+timestampB (7, 1554830638.647869)
+Not enough transactions 10 - 16
+timestampB (5, 1554830638.647946)
+Not enough transactions 10 - 16
+timestampB (3, 1554830638.648024)
+Not enough transactions 10 - 16
+timestampB (2, 1554830638.648101)
+Not enough transactions 11 - 16
+timestampB (4, 1554830639.149941)
+Not enough transactions 11 - 16
+timestampB (6, 1554830639.150127)
+Not enough transactions 11 - 16
+timestampB (1, 1554830639.150265)
+Not enough transactions 11 - 16
+timestampB (0, 1554830639.150395)
+Not enough transactions 11 - 16
+timestampB (7, 1554830639.150519)
+Not enough transactions 11 - 16
+timestampB (5, 1554830639.150630)
+Not enough transactions 11 - 16
+timestampB (3, 1554830639.150711)
+Not enough transactions 11 - 16
+timestampB (2, 1554830639.150788)
+Not enough transactions 12 - 16
+timestampB (4, 1554830639.652283)
+Not enough transactions 12 - 16
+timestampB (6, 1554830639.652476)
+Not enough transactions 12 - 16
+timestampB (1, 1554830639.652619)
+Not enough transactions 12 - 16
+timestampB (0, 1554830639.652710)
+Not enough transactions 12 - 16
+timestampB (7, 1554830639.652802)
+Not enough transactions 12 - 16
+timestampB (5, 1554830639.652885)
+Not enough transactions 12 - 16
+timestampB (3, 1554830639.652964)
+Not enough transactions 12 - 16
+timestampB (2, 1554830639.653041)
+Not enough transactions 13 - 16
+timestampB (4, 1554830640.155749)
+Not enough transactions 13 - 16
+timestampB (6, 1554830640.155999)
+Not enough transactions 13 - 16
+timestampB (1, 1554830640.156132)
+Not enough transactions 13 - 16
+timestampB (0, 1554830640.156245)
+Not enough transactions 13 - 16
+timestampB (7, 1554830640.156325)
+Not enough transactions 13 - 16
+timestampB (5, 1554830640.156404)
+Not enough transactions 13 - 16
+timestampB (3, 1554830640.156484)
+Not enough transactions 13 - 16
+timestampB (2, 1554830640.156561)
+Not enough transactions 14 - 16
+timestampB (4, 1554830640.660010)
+Not enough transactions 14 - 16
+timestampB (6, 1554830640.660201)
+Not enough transactions 14 - 16
+timestampB (1, 1554830640.660325)
+Not enough transactions 14 - 16
+timestampB (0, 1554830640.660416)
+Not enough transactions 14 - 16
+timestampB (7, 1554830640.660507)
+Not enough transactions 14 - 16
+timestampB (5, 1554830640.660596)
+Not enough transactions 14 - 16
+timestampB (3, 1554830640.660674)
+Not enough transactions 14 - 16
+timestampB (2, 1554830640.660750)
+Not enough transactions 15 - 16
+timestampB (4, 1554830641.165067)
+[4] proposing 2 transactions
+timestampIB (4, 1554830641.175679)
+Not enough transactions 15 - 16
+timestampB (6, 1554830641.176238)
+[6] proposing 2 transactions
+timestampIB (6, 1554830641.184795)
+Not enough transactions 15 - 16
+timestampB (1, 1554830641.185414)
+[1] proposing 2 transactions
+timestampIB (1, 1554830641.192888)
+Not enough transactions 15 - 16
+timestampB (0, 1554830641.193296)
+[0] proposing 2 transactions
+timestampIB (0, 1554830641.201025)
+Not enough transactions 15 - 16
+timestampB (7, 1554830641.201372)
+[7] proposing 2 transactions
+timestampIB (7, 1554830641.208928)
+Not enough transactions 15 - 16
+timestampB (5, 1554830641.209626)
+[5] proposing 2 transactions
+timestampIB (5, 1554830641.217400)
+Not enough transactions 15 - 16
+timestampB (3, 1554830641.218062)
+[3] proposing 2 transactions
+timestampIB (3, 1554830641.225483)
+Not enough transactions 15 - 16
+timestampB (2, 1554830641.225772)
+[2] proposing 2 transactions
+timestampIB (2, 1554830641.233537)
+timestampIE (0, 1554830643.556485)
+timestampIE2 (0, 1554830643.574051)
+timestampIE (5, 1554830643.578057)
+timestampIE2 (5, 1554830643.593274)
+timestampIE (7, 1554830643.595481)
+timestampIE2 (7, 1554830643.618088)
+timestampIE (2, 1554830643.618899)
+timestampIE2 (2, 1554830643.640016)
+timestampIE (3, 1554830643.651944)
+timestampIE2 (3, 1554830643.674547)
+timestampIE (1, 1554830643.704511)
+timestampIE2 (1, 1554830643.722112)
+timestampIE (4, 1554830643.722771)
+timestampIE2 (4, 1554830643.739202)
+timestampIE (6, 1554830644.158943)
+timestampIE2 (6, 1554830644.214762)
+timestampE (1, 1554830644.271695)
+Sent back envelope öMÀ]ïjFşÉkÎUB1D˜<E–ë]ú%<VpŠÛ²IÁD—™€É Rï>]´Ù/aXî†@§†ì{ÄG«¶§G+sxËz¯tåz¢Ë4vh·Æ ŒıåğPHõaR¨Û¡ĞÚ%¨¨	"­“8Àm:rÕ¼#šÒ¥çã:3°\Cv©,$t®À& )sÇÈ qõf5ìá£w³à/ç‚‘nÕÙ(…}y§•–øZS±üµİX{ßæß„«Ù(õj^jX²$287ï¤¡ÄD­¨CÍiİ‚Ïø™wÎ¸ş,VC«Ç›$-®±oQ)¦"E,•õ€sF¯S—*ÜşRˆÉo;lëô°¤õ¤‚&íH#…™ôèìĞ`†gÅ‡@—Ÿ¿ÁÔ
+:?E§2Î@1]B&â,÷x1ËVLAÌçBÚc61Œ¹¦³›Ş4&ë;g¨Ãó.jÊ€ÔyzÄí:iÓb2UéÉÊPŸ2Û +“àNÌİNÆ€J/˜À¿¬¤`ñ‡üI¼ûa’e‡$’@à(X/,é`dşgA%œÏB °'”L	×şšÃO'üqİ²	I0QéÄñàjï^¼ÀÚq/ß¶’Äf<ı´şåí1hM/®92Z#¹n+íü¿úº3U™×r„à¯W×
+ º†~C’Ì:™DÊÒáêõøBzÛ¤d*s—½Dáª|NzÅ+øŞü7æÒÂ_èîYÍ¾ü$óZ>M3O\ğd›{™Ë›hZ— Ğ
+¯OğKãìØÊÒ?d¹×Li”¹ªxU}”v]QÌëƒ¯$éÍ¹¤Ëêê÷øPmDFŒ~éÙ$Ã«tHof„]†Q¬®üÍuìëQM~_dÓÁè»¯ŒõÂÉéö"øŠbÍ×ØØá„oê&Kk÷_ïá ;¼ëˆtDÀÄ ÑÃ'“JÔÜº=23"¥FM+A£o½†N–]h	ìmİ‰ğ-®¯„ç·ğˆ•µÂÄt“Ò¢÷Vù"
+±ã\ùˆ°“µ’¶ß+ø—ˆETYšåª¡˜i	¿EÖ4…8"/«úKE£zê@Öp2´ÚÒöN‰Ú¦Yä1Hß±Ñ$ÑÑi;ZÂœ2óz¨#kÔÆ¦ÿg2nÎsXCL>|jÇ#9~Å‹ßBzıÌ~3„·úñGÏñ.À_X#BÒÇÙİæugC:N¤Oq¹Â to BFTProxy
+Sent back envelope  `ÿú&hˆÀí5¸“`¾ê.A\¤^Ûe¢_çÜ‘)V}Ş|„º>˜c/tÏX˜ƒ­ÉöÈäı'ÊkÓ»_5ê‘cF…ü1%‘¼NıÔAù®â–Mó`Ràã:'jë&âÍõßi2&g8n}Ã@ïŠRuÉt0C²é>8Â¯`¢+íh—×Hå²4Ü>’@ûÂZAĞ»Ç²¼P\µdO3—C§ÿ¶/©.ªLFpó¢7X¨èÊé!Ä:—™Û]šÿÍ•O¨*0"ô'Ì'‘0Ê>´§8Ş›ßø9ü®xè9Øœ’¼¦{³øİ…@+è_%Â‚Â±ª S°Oß¼9Qá0W?T}.÷ˆé$Ë »ÊëR[)¿èZç3Qó˜‚•hâÏEçÁhïÈöù¨¥]ƒUÚF¿Ÿ0­Ïys¢<·Nã¸;ùÙ´KƒXÂÎó Ñ:Aê:Ê–ñWıĞCÌâ¹¦Œÿ·*Ûò· ˆo}Ùf îØuA„ä<X“˜VÌux·’¦oššùRZ±X‹İ1{#éÆí9’óÀÛ¼SaB­ˆwZ¦_k:˜D³´•¨Gõ[×n1µ	.É¬ì–y™šDÑ‡"à¶?GAwiì£rÁı¶‚ê?© ^°g¿–P¤}S…;+7F`¿Y•{…UQId²L§€zÆˆx)…{×ñn¤¦Ä|ÌóO˜EÅG3E-¼([ê3jë„ÈÛâèm!œF"cXïk·„ì.?T_^nÃ B*ùW Å‹¸#44¥Ge1
+›şÓöáØ´	$6*ØŞ¶d–§ç#!ÎèÓ%ç¦=¬„1t”sÉğÉ±™`ƒ}¼[H§êr\“ß«O¸=Ó{îâÎ¢Ûx«Œ«†¿IÓ`–õ7ê ĞÌîş•W"if ›~h¶7ğ= ÚÂÈg‡Ut4W! ş5ì“W…¨¼ÛM
+¡c±±¬ÿ¸Œ'7â`U¯·z:½ö<Ã€G›E›3¢”zB-Öd‹{„ù†ÎyµSÉó{“ÃI‹´•¿|Úé¦E‡u¹´çä3yÔ`=~œd-úÂ—œt,Ô£N f2¯nÚó|µİ@—¹Ğv95…ş >M$UUP";,mrFá>Ê­å›bl‚’pš»\ ØoÌÿK^°¯rPZf	Ö~o0]·Õ'OÍÂ~)õí˜ to BFTProxy
+Sent back envelope ‡?PQò
+ıÚ/ªşÏ'«ÆğCüvFĞ+ôóÙm®73ÿ”TÚxŒ/W4“áı|dÅ±ßòƒfŸc!šÅádF>ùàÉŸÇ§—9kµ<¥@|()¹Ê4|I|£ó›‹_Ö8S{|‡/e®¾üw¡ô5eYé}æ4…úŒTšï;jNE1šr¥\×‡"¿É×H(ñ*¤Ät÷>­f†JÆ†œÜ~©¯²;®àÔ¤E;ïb¸X3®£7T²ç{®qˆÙÊ(Šİ‹‘/_ë­ ş}Ğ¥İãÁ8¥Ş«zâó0ÊÂ›Õ-¡!fÔÆ•zÕ]¾±^SÌÅ¤71U¿&œ(È˜+¡t*!m@ƒ4°ök‰¥¬p\"´ëœwŸKÕ / •-Jõ¦½L7ûò¢€¢oêUÿÃ>çÎ€H@leä:â5‡¬`M[¨ ¤j¸¿é‰ì'MùÑ¤¨¶ãõ]pÚuƒœ<0 +V—à9(6wâfúQ¢‡RÖÂŠ&ğ‘IÑæÎ–$?5;6æñ‡nÑD’öª-.Ûª* «Úªsuå“å»ØÂïŸ„šHé™u¡¸úã—ÑÎ‹…
+Íÿóoƒİ€¯ÜuZ¸ÈyïgÅ*•„oöLaŸGÍÓ‡+«ë«›Àã¨p±¥Yë£¡Ò¿Ğ5óõ6zÆ¯M.H>r s—¬r¶€UD§^ÄX:aVx-Pã«¬=(’rî[/˜æÁg‡Ş,÷ĞRjÖÎ„L*Àşl5b«Ÿøsíè{ªkH9($cE.ó¡Ğr×!KÍpP,#«S¢YÄj,œo 'ÒŸÅˆÚ)'m0&å=e†Ş°ñ¨„.‹ÒXdÈíÄÂiµu|6¿×Ùl÷!£Z,UbB
+|˜š*ÈåäĞ>å¼qòºfqÔ—/Âåò<ù{²‡ø'hu±Vˆä¯mƒ%ÆN*Òü‡51{¶=­6î¹œ¨£PR
+eFo#œaô$±ÛÆóLëYFX‡ú2¦—Øë!$WÛ'Ÿ‚Aô ĞßÃ®·@3¬bË¤Œ©¿HÜ†x” IOfâÌù&áÅ?;6ƒ§¿á¤ğË¢u6£kr¡@G§ºå>©½Ø ì¦¡¶êØbµ+ad.ÙŸ—zft×S‘E…}ÌŞw ©µ8±‚yHHı¦˜t¼8eW#?êHÜÛkğ€iiùUa¦ÀÄmúò­œ™y§¡ to BFTProxy
+Sent back envelope ‹ÃpŸ,„kÛ&3ÚSš¯‘wj}4®lypy‡ëé_?[†³?¥×xıò%çOŒÍÚP[ÔğK‚c¤5­+¶'¤PqGì­sUeéñç>Q.€n
+r'÷a	½wH Â¯QÒÁÈİãw)¼Ü§…ò‰'­…v&¢Ÿ®|=©if½(2YÖ)M¡õ!"Ñ]¤|ÃnäµP3©MŸÍ´'ä(¹*Wâ­Ÿ~RôÔUpÄ6~°à+€ı‘+Z’9Æ¿Z	ËÃŒw™Dáaeü®·àç³Ú6°´×X¾²ûm}O¶J³S"íõCŒcC?’>¯Ç¿¬tc äêÜõ–ÈÒ‘ZRMÀÚOãÖO4,QÂwê‚ÎAeŸ%íïC)äş5§¨&{ÅˆNvI¤£å‚\ÂæEÚ@Âí½XÌ–…€Z&üİ¨ç¶ko\mê-ótâ õYS$wKĞ9YCMĞÌ¢.¦ßöÎ ½OÈŠWXİòó×ÿ¸]fúİhØªÔ·N<6ğt@á¯ÙéÍ¬›v5/aÉá»fÖñ‰uë¥„PB<CÃÚEUó"–ã†ãüÁB_ ”Ş‡E^”¼«j#ğ$ÊòSwğk<ùrŞÅa§[»©sš·åÔ@`5Vn¯lgÃ›ªiÆ\zˆSÒM”`ğÄv,÷[‰ƒIcîã{åìŞëñîo3n¿ì}CQi úššR¨¢ğ°8vUo‰’˜N&î!ÀıUÓ»Y»aLê$$ 3ìGjÊk—®vlÜA6Üî¤a‰ˆÃŠ©]lÁí©L]nAú1s™\É’qİŸÕì(/É„íhZ_Äô76s‚°â1z°Ï·çâ¤åË¹ÖÜygA²ãˆœ) kÖÆ^¶#ÑÔU¸#$Ó	zóQ°T¾Âˆ3“E¢k^-åCÜW¾^± ŸïïïÆÙñÊÓæ7 ‡Œ§Š|s'®‡…=ì5`Sìí£ËÏZœ6lKˆ±b”f)¸ìé4 ‘¥ÔˆÕ´¨÷H«IgñÅ!n«  Do·"`tş›\ @LU	yHJ¬Û‹¯¾éboiï LÍË¾ş…ö¤¢kà›ÌH~òÙÄ7^×®áŞM.'&‡9On^9óÅÒü¡:nü´9ã
+’§Ş2ÆŒ»®•Åz~‰(©ùÜÕHú‘/ to BFTProxy
+Sent back envelope ÊÉ¹FëbZ&‰àš¡Ú2©£s>&Æl–²B¨úÃœÑÌş­ÂÁÉ¨Ó^ÌíÏw”|¥	NdNÄ>ÒLT¨…¡À¶–¦ÊãnFm •*(AzCßıNè, VkúµE@›Îšt$	£ğ¯œR«_?§ß!éŞ“RdÕLã2Ò$gı-×G!±6]ÄËøßw‰kÈ6ûúø1¿è]=#S+ ™A½£…ËD|ómu¸~eebI£,Vìd”@¨‰š÷pWá€Xq´pÑîâr	E’1–£©CÆMbuy±ä¢ä†Â.Cú¹9göËIs¹YÍÜØQÜã¶VRĞÏßï¡·òËS&Â“ßª¾’€ÀØ…ÆÕ$Á-Á/ÃH.ó)b§`¤_A¸àÍM_°9ê/>ö¯ñ¦í§P¼8ôæ«cæ?öTÄÑ‰E¯ñuŞÄò+Ù;½¯šóÁ	—ÀáÚJéÄN\{ë€ƒQ¨bcBá¡‹$W@~üùÕûî¸h‚oˆ­ÙÖ«ômîMjD@ù•G&§qÈL
+"äÿ\„s RÊ«–ÂšTØƒ‹«K¤mUaİ:t8!İ|ÉßmáfC€Ú¯6f;”3ò6•´mÇy_‚åu F¦¿¡É#x6'ôn¿6˜½6ynçT	Õã4F‚Û®ş:wn;È¡pŸÇÏÜÈoĞÓvo!‡ÊH)æ§äııÊŠmÈ',—–3ÜÌ÷ş5¾*?ĞæS¿¾ª¶Ùkï3¾Aƒ[©=ÑzºG8Ğ{tuüÒ–Ùšëí· |õV2·éWüÍt¥7G{v0¹zBïöN™+U6T@>Ñè WjpºGÇp˜$mø†¡¨å¿VÀ£x_M3A¡ W:…>#óè¿øâ”Ìƒ¯ŒˆNî@‘Í"ıQ¿ÁA/âÍGß&ÓòDEIÔ.T/õwÑÄ<¢0™Õ€u«I¥(„“3ã'—zˆ•åÌ¦Ó¿î0Úµÿ¿Úwòê3«.D‹O‰Ù$
+o+ä#hbš6¶.¥“ ö‘Ñ`\}3ÆuŞ#K˜ ‹˜@B’ImMd|jNDÁ›Óáb)%fkÄyÖ™'VÌÁÙ¾õa˜œëóö`HÀÂ¦>Zk\oğc÷ŒÍa÷‰äÿAö“¬ˆRaÆMœZ„W×å*|-Køœâú¨Ğçs­/„Â_:®Q5¡ to BFTProxy
+Sent back envelope ”ç%£äò®[½Tï>ìcZûÙvZªùSV/ŠMõŸä”õıüqInc ÚO&“ë4:†Î˜UH{MPä§¹Mğv¦ŸBt|yÀÑ,ÑÖ¥÷€WxÊhv$©W|z¿Õ9FPJ±?ÇÑÿƒI€¦ã<Nçí
+Öª¯ÅD»…+9idÕŠ¶·¹SwçÓûáÌIğb>^Ük¶tˆn óFEÀcé~Çf.,J³a€üóLP:Dl+²-AæéJù>€Öõ£àj	°õqf²8aG¬W~‹÷ï*ª!İP¨ÖÊBş&á½pNÔoe3Â+¡‚L$ãlçªÍ<x FNtŒeèÚ´K(±H''a[õÃÌÅK»0WàÛ¸ª¦‰‡ì‘ĞÅL­‚3O
+x˜ÁZZÍzÍR\Ú'Ø¯„B€9q9.§6¦OØÏ·GÕ°j7`•<ÒmâÍšøHVø(e6J~o…b=¸Ü°{ÒŸH%æqö»ÄÜªØ`~%›LÜiPÏ;‚D´7‰c
+‡£‹Ee¶ıª´½â‚ÚÚáIˆz„ˆÜŠøØ#–;™sŒİ‰mŠ	&Uu}8%Ó–0Ì:ĞAğà•hğ–.Ëa’°È¸1?l.¯cÀ£g‘+deÚ‚e&ÑÚ-à˜–ŸÄ+p
+¶8)î8âªÔV’ğ)g„Äjã%-‚»P{£HÈë•‰åç8.OBº#§ñ)óÇ×·‹QZM´N&ª§hı.?A6)"<¥p¼<Z8¸¦ë\S×“º Ë½¼ìÓQÓ÷9F&°Ïuš²/ï&5Ã“D9³Œí•6±«n†™]Iø°¦ÈÈôÎĞxnd¹JÿEfD¸ÍT
+Ì“âì¾i|vmë*`
+­o X®	•%\kPêÂ±F@òÙ‚È2}y=_€½[”ë»€=£­Ë°QÙ§z<éÂqlx¤elïù)ş–ÂŸÎÛJ4{úíŒ›ıa±ˆÄÁ
+\&=ëÔ}ÄÂ™©hV¤t)¨cĞ-0Å/+rÖ‘g/°Æ/dZØç•½ì:İNÍ²Œó—16N9
+$ZT;À¡Hi¶‘™ØJÿ|ºØ ]Ú¼Cm»ÏJ¯ÎHSUVÂ’~ÍO“£;Q½y¿búw… =´#©^YâN‹/98ó«éC5¥Èé$/*oïZ V{H to BFTProxy
+Sent back envelope cé“xRgéKZ6EŒçrÆ>(%
+Ïxı5¢	¥©$OmÉ“Ó5“r¸EèMZY8	·óGzAFÿ}lËPÔ
+ÍÀÚ ‚fÏ‘;<ÈÁ¼Ái½L†ğÂ²Ù¿AåökpôåHßÅ0øvÑÄ0l¸Ûñêıõ¥ò¯¨WUL‡Î÷ëz&hƒ÷ÿWo­,O#ãsÉĞ1ê}Â1I°­ÊOâp¾E§Mç¸Ô®"^e²rÇUŞÇNä½2ã±÷WÃ¥[FîÍß\J¶¥5ïøH:àz_ìp¾Ët´Z{FÏ8|:T†{­¸úÅÌ	,¾ä JÕ!ñ¹‡ &d¥sŠÔfë‘Õ.ˆåº.ÔòäÒ£–ÄçNS5ÇKwÛéÊİ·¤ñ°¯†#}.(ãËEİ¯«ŞEÇ³Oó{İÏ9ígÉ^qÕûC1_‚óçtsí{KuâRòÜJßÅ„*(;|
+»'™ÛÔnÒo`í.•‰`9m¦Š®»Éµ‡?Vmİ€; `»_ù%½^¾ml%Ûx¯¨ˆœ:*C/„¬fšPàQïÿÇÌæµãOÔ^^Z[˜K0n1‡½”j"o-åšô‰\yh«REI0]ÛÒc5[Æ“J¼’Œ<-š`~ Å=‘I Ji±ò‹àylqÀÇúz¢%ÎÙÛN{§À…qAÓ'ŞŒÆøSíĞÖd6@|©óï!jâ·$hU˜™]V¬Ò‰W>AGïy‡t»
+Y´ìO<#&ƒ
+¾—ÔmEÌˆ“d„}ÖRMy„½5GâÕOngtUãPpaÃx¼å	(²½Ù/õ-Ë}vÔü\èÀYõåı -z•à*IÓgú÷]òaşñÅLÌß%›ã´Ü
+Ñ¢O©†;¨*:$Öu¢šl‚IBìnkÚyÅP&8&cÀ¦¯H¹”åí«`{wpM¢¤®Ñó¹óø=f¹¯¾±ÖI‰¦j­5|®rl‚š³—‘C|—»EÔ*˜,Ç¼-ç{ï³Ì®qpq³/l ¸¸=ÓƒÃhOÒnqptá5mÚ†˜PlU:è>šaŸ®·hB,µJrõÿX=p–¯è84ÄW\Ş‰ù±^ÏÂ“©Ÿ›d7ZLwŒQÇßŞz]9P«N…™Ì›ubæuHégU‹ts!,r“Ó(±T—ñòáÑCÜO“7ç¸z£J:Ç1ÔDô° to BFTProxy
+Sent back envelope $ÿ^Ó8}ñM¶ÇPÜ¾à¥(—ÈLw„Ô}ÏÿÿGC‰ııZN÷_4:ÙÁ­s`-»B2>Ñãšgòì{
+qñ‰›GÊÂ
+î“˜Sò[¼38Ük¢Ã£×tÁ‚›ıõ" ™å6s]¼Æ_áK´–wğ~ù§I7ö›t]²…
+ôÍãË¦Õ¥¡QAÑïfó”´Ì3`°(ø|åë½lê¾Ôa|U,”lIÄŒz¬ˆ¼JõOÚäıÿaïåƒ]ˆlB”¼ }3P„‰Â;<‹)EóÁÕ-9(6ú»mİšIBw¾¾aU „¦îÕzBŠ¤ˆoê&ª|¾ù¬¶l€Ù+»ø)UÚoÌ7-Ã™mcå&eÓ†u’nlc¢Ñƒ3…6q)İöSëßOàB"N,Ü@Ô-nğEôZXØã–SÑn<*}¸74É(×@o*¤ïöY(éRKÅoCĞceB'ww{ëÚèP…Å¡¿”íËGnŒ÷šËÈ»ÂK!u^rF¿¥nQµÁs¢TZVø]{+èäÕd‘ÚV\jæÖ$‚0û({‘Òˆ¥š2*=ôİ’¹Ï|-‡[ZÌj8½k\á!·‘@ñ‘­<T-ÉÄãty€3ßòk$Çº9\‘Ú¿Ùnm?äÂı­eK |ßÊ)Öuı.»,Q¿Ç®¬-"NÛ7”ã'ƒxîÃyÔIb™ßÚÓ³—;o½œ1äZğä6ÒÃ)~k‘ú—:~NéĞXŠMG ú'V£rÆe4M>q‚E†ƒO#Vh€‘úlß–¢^$F­9…ÿ2);vE#:0…ôè$ñ®ûWÛğÎ¹×õ…ì
+y–µ6cş\Ik(ÅÓstôùz|ÀwÄµ“RZ…‡J]Ø×€0^ ^ôÎ> Œ”ã˜½OøÜÈ9ƒ!;)×N}zû>&íÇ=UR}üãî+ø×BÇ©<­ XÆØË¶Èw?ïm"õÚÖtä 	Í#ˆQ(LïÈÊ¹‹Õ“'$°â†LÕêê½ü¡¡toº°ø¡F&ş²–³,Ìà-hŒ.Ù³úwáäzµ¡åÌ+~bJ¹-…GãB:ÎsE4AâØÊ¹¿¶rä+Gü#³Š„EÿVœD‚í˜…`ÿdƒ#õ&0Ö o8Fb”‹ØŒr9ÃŞ«öÓFëlS to BFTProxy
+Sent back envelope 6.Fq‚‘Ì÷¨Ü‹Ó’Šè’²é=¤¥¯æZæºıÃÄÕ2»¤6¥7[÷ªRäÎì;lı)(ı0›Æ.—€iæEæö<ÃÕü©Ôİà{vCË²@}s…E4$µ²M®ˆŒ¡ñõuH‚ìmZÂ*:[y˜tÈ ±(|µŒ’›²t£’Ã¡qXzdk9Ğkß‘Í¥›•¿¢™­h”%ˆÑGµ$’¢ÂNõ%ËNB­ëAèB¬	­úVâWPÖÁ×e]×gõos)›a€p2òËbÜoS 9dM¡ªp(&}‚7‡À¤: éLµ•,İí‹'0wcº`K!‰±ıQ½Ùg¯/kãİ)$İŸ’C…]Ì²x„Ué4çÏóú°.]„.ÎÊÕ¶¶	äö +ö>êËJL˜““ª•®Ós6¹_£\NÒ#¶ÊÙæ²ášìÊê ÓÛºÔ ûç³™ö‹)ìF1Ÿ³xÚ‹]Ò¨Ó£Iay•×Z«3ğâU#§&^œ<w€O¯”¿Eà{)¶uY³íÂ(mÈùıA-ø«rº-pĞóÄ%'ü%˜scâ[­3’Â¤\¦º!YsÛşP®vç­Çh­ÀECU¾/_Ú.f(°ÂüpÒIs".UÉ	€V=ŞæÂ4Xp…‰Ğ3À¨(5§Q8g²‘§+ÛÛå€f±2¥.z½ØâÊI˜ >q³üoÍÏ¿òùş~î‡$ıõùŸÔv–şGµ³á™já…ˆ	w[Ô4Uq—:ö|öN¢Œ7°G½‘,æA°7#à7¸H˜v&±¹sÌO»b\ÖlÀšMÂ¥sşe£kê_XFÓ¿B‘èï®Bğ@’•e×zg€¯äL'xí¤y’ë‡?Î$7b	Şl¹gö&uÎ¶™øvy2~ÅœM¥rL¸XZÚ W9Nêêİ|§2©ºÕ˜†ê3¼¬Mg·#JºZqÉF„xr>ëÏ‘ğ‚N6¶¢Á?JE¾€-¸Ëİ~&¡Õ•ù¨Ë]ˆŸÛuÛxhÊÓÜ… CÒÈ_–ä‹X‘ƒøÀWË±Ï½äHGx bÊj¬‰äì²q@â]ı›©‰¤]°¿st#,'î‡Æ<­aÍµ·3£e fœqóùmKxà>f2_z æÛôİŠZ­Ó¾j.ëËØí9©ãï£,>|y€5Á}Ó¶_ to BFTProxy
+Sent back envelope ƒ@Øüu¹{ŠÀ¥¯dx	ˆÌA„=s/Êa/XÁ¯UÂ¬ó©Ö'ÙöâOö>Ÿ)[ªš„éÁïJo+r–‰Ø&¤qaŞ»£)Ü1lØWÇ×G)Ã Ü´ø‡MQEã‰"•}Ég¨II+%¿À(Ó+j\–Ì~)¿vù¿ô‡æ|¶Ì©äuÖ>0\w<NU”NîNñQ“*K€tú)™“ÑŒØr‰±>æÃ:^3k©“ l¨j’¥„ZpA8ù¿Aû2×úwĞÑÌÜthª™TŒzşG_Äß–Ÿ¨ Ìâ—¨©0œÔdæğİ‚¢ÿ‘®è¡g@D&ŸİÇ16ñJòØñÓ`÷Û¿ÙÒˆàI¯ÙŒ°ÙTP¥‹éÌ|œ)÷1¨áß2aäqÜyÍépcèï©È<~ròZÛJ’aÖîç¦É>(nµÎËÇ™ïæ”­EÜáu)ùEìuGkÜ²l¥G=¹GŞŠæ'6?=İ#ÅÉRÎ'_{\`òİÿÛFej$û!¿bĞèşìhrâÉÿºs–7YÍè§ºDó0ŒMHbœ’¸
+(| Ñ"Z˜¸dÄ_#:¹Ç-ğæeù-æ­‡ß’bÈº™=3cA]¿Áëş»”'…÷öl[ã‡äPC÷·³ÎLÿù§û®EEN[B-¼X¸RÆ¡Ëa6²•›F¸ŞµÃ¤×úW]{D‰å›[UÅ‰­¯Ê àPŠ^Ë»Ví”.Ç©„¾Ë™9½Ê½±óô¥W¦z0ü /Z	Ã–¡J_Zÿ»fÕxpñG£P3^ëÄyÒPllîi8mÉ¿)b`»0ÿ@±u$NÜØÜ©oê¸DW8óïÓˆnOZŸæì’MS°RÆ.®H*Ç¢ØæØHıİ‡Â+Lf…ò®"öDœÚ]ÑADóè©ù»ÁÜà@6?¹zÿ®`G÷¯9ÊdñO«?¿lØ³‚|5–Lã&¸®0'C¹~ı‡oëÇ—æÉ¨íÖá…ğR2ï9NÒû|²Ää“Œßâ–p„¼£ú6DCå0âŒBœeMQeåL†÷V`™Òı¯rJ"Âí{3AøzU`k\V˜kè@õ¶øŞğ|Pu˜oÌDAASwéJNàvnÏ8ìA”EÌ5€ßÀ!ÄæL‚ìtÅÖ<”—„Æ¿,l¨€ùÀÑè}#ñ¿ç to BFTProxy
+Sent back envelope å™„{õÕø³²35Ê °Øß­À¿ö+çÃÈgHz,™ó0İ”–·?\³şxùw#"1ıİÓ!rÕNÔTIh3{ e½S*ö?zPdG1dıú|29UU¦l¨d{	Õ%^G¢j­È&ª¿ÛÄ_GÒ÷tØ.ş‘G	‘Œİ<î?ËdlrSuEÕ¹]Fè¼”DÀåf´ÜÌ*#Ue[Ì-TË/ÂáYìQ´›‘\¾d<tçÑu:é™W\ö¥Ò¬qÃ~
+wëÆ¯´|Lé:wŠk–Ÿı=€ór2øÏ9Ü‹r¾ë v{n¼ø.Õ¡qË~¤™ú/á®sâ®°ZjÔ‹O'Äè{p`ú©3Œ[¨W‘°£S”prs;tEÃ:
+ReÛª‚¹±Ë"6¿Z¶z„ì4s¦ SÇ;¯:Íğ»}F”¬¨¡Qf3mŠßÁıBì)o8¨‡æ	.Ü	4\k‘ı²¢7²Œ|üÑ®+Ï„Ïbè=½øWªù%báÓ £4ªR€Q]ÀÆ]é®ÊŞ=AäGûIª¨3awÖ&E®~„	¸±u¨îµÂñÒ¢g“cwÒ¯ÉÒOe”s¹ÂVÆí3‰3Áh2Æa·y“ƒ
+Ã ËO‚Íß¥œÛ‰şØ?e$lìr&$DÌïfÉéãôLî–_Ê§° #œ€‡½ôeÙO÷XS	mE™*6nXt1ƒ4}£9XŸ,‚ ”	ùŸÄ1_ùÓÈÂu{{ÕRö^ãÖ@^TÅoí]ºz±‚fC3‹ÈÔ Â((iÃ;
+ÆßÜ'¤p6ËÒ†y*.W—>¸˜ÙjìÅIõ–…©Bê§	¶ĞYàib¤]É)ˆ‹ŒwòÒ±=şR¹HM¿q:T¯}ypîÁîİ¤Ö$pg’öEÉt¹ÕVÜ¥|ÿÍû—~¿¨•¬× Oˆkó´’­^XêwP·ùÃHâU7Ã–Ê#[¥¬	hò¡4xñ¼2sÄëæ”HÉè}Ä¢Âô1ëèq>Ø€ØZ.ßêzJ„ºhØ™®tCŠÓÖDæ–&ì‚A:+Ÿ¸ÃÆ1;7×Ü¸ä¡G1zï´#V$ ‰D¯øåÜ]>94@šæ®-l†À¹†¤xBì¯Ù=NÎşõÕ¥¥î½–•…@“3ãƒ>cævî­/ÅüJ%+ıã™!÷Í™½Ô^K]$2ÀG to BFTProxy
+Sent back envelope @±qˆ‚…!ÔICà„“MäÎ­Ğ§8·sEK®0Ÿ£î¤¤AšlÇLG C€)…\¸½£:
+Ò¶©S¿¦D‘TIÄ I"P”y"S/^Æ¶¢¹”R*zó&CX›¤Æñq”mT2§°ÆĞ³[d•ª–QRò"k¬afdL31£f;ùr,+(S&#Ø ÔuØ®—•dQÜÄR
+ÃBZü[NıWvóyìıfX—‹¹/Ä„Ï-ÚêQ÷ÿ¶ßãòxé0ù¿XÌ©èÍ!Ğ;¿Q=d#bÈ'ÿp¦jc$µ# QH¦X­kÄVFH°®€¤A©m¨b
+Æƒoiç¢ã9ûÊùpcŞ¡î·g¬#MzàÒ\¤ ë­†P-z¤mcûé£Ö$U1=Ìõºk·šÊµ‘öTÃö}iYRµ‚MY£ÏÑ÷nâ°qÙ¹	ÂQö,ÎÈ@òã¬Šmå57a·à>ÏÈn~F[BñhÄêxÉÂx©óO~”|zL˜Ë0-š°|lºÏQ,=°%ß”¯J/…½c¸]5”âàFp6NT®!GiAmé5ZJÍlı¥bôAÒ'XkaÂ&/[Î+ªzd4¥+}ºqJD®N°Ã€ûl¨sO…µ­O"ò&~Ô´r£æbÉ™Ñû	Í#ÒY£#7rlI±Â¹
+XÖ±ox!¡ªiÒ'w)ìjXb\êC†ÁöÅ¿N/6X¹Yõôs~K‡™üéh·cúäªÔ££ãÛ€ÆOšˆ°µ‚¸°¿£$pó{šÂpô}X/@H^=Ó¯üíç{íÓZ9:âÂûÒA°JiÍaZ8C¬l}cB@ŞE°‰tŠÜÅÈqvBĞÈåÛTÌì<?Gõp¥>hv¬z]€zFWşÀÀ,VtÅù(³Èçƒ°œÓ¤à”ÆlŸ¥5s£º¾óÜKÍ^ÍAÏA)­»øTôºÛ|Xåu–x Ä]¿¢øq$¹$uKƒâÏ_c/Ì®M×3ÄüŠ¨µK³¿Êà,¾\Ù[‚˜Y‰S€`%ü“>ĞÖÑúSjöò¾,tR¤~ºK,Š4–ò…ŞƒÎùıÁ%0CR›Nš9¥Zr0™šE¼5šÛOºÖvÁ¡²©%–Ş*”æ%éß¥€N¤‘uÓ¡‰Elş±ªƒé%qDÑ&Üp®•œó%£“Ò¶õÈ‘+Å to BFTProxy
+Sent back envelope :uÑ°ÄznQ,.3…ıù°&+ãD(~ŠÒş	+—D’øBµ“×!Äöû ï‰®ì9GCëk´" R”“·ZßîÀ&ˆfI&>\-'¨FùA¡5Â-uRAU|(¾‹;{ĞV0#TRÏ@}×ÒÇ„Kg4·Cƒ6å?¡óÊUH³k›y÷%(M)ª¤÷§yê»|TĞn_ÚC±ÇĞ-+tƒR»†¥+Óa‚^k¬ĞÇî¥]ÂÓ¢â¤êK\3‡âª6­z }O§?z&;»nĞ®ÑâH|Á•kÁˆ¾ ”ñrÿa@	Vòm>gÀ¿ŒlÄ+‘¾Y J¿ra,gÂ]ÏŸª  6Áõ}3GZ]ÂÇ¡ÿ£ôã,Ş÷£‹ƒ¬-BËƒ¤I@w >èú¦è>‚4ŠTÀıÙ ¬‚MÌvì€X*ø£Eı,²Â«åk_'dÎ™Nu…“¶ŒñÆWªÇ úİ,ı‹€·’±=Ëó…‹KcánÈfNıOÜ÷¶«)j@8¤‡‘nô”yJş¨
+¦¼PÜ®òÜ ‰1
+,¥+oín"	öSìù>|ñÍáŠßYàià%;İ5ë
+Ÿç]ÁšÖ)E­à8µ8T¥Ç¥yfGo·C¸€U×ŒªïıCÛœ|fró'h¤.<Ü`á*iw~C Çaõ®B~‡È´’©k,˜AbUæ$ÕÙ©±‡4(²Rx´­)Öd¢¹]€o²˜Ù7˜ÇJq«ëää¢sm&KPºçjÑnäñ‰Y”Ş³7HèxT]ÁÁwì&ìÍ¸Ïv„qóÖéÙÔ›dîì‘C=È_Éş×%yk.PCõ#ƒ* Ö‹ƒ¶B^Ö,Á¶w‚ô/·§Ã‘F¹Ã/1£ÀÚVİ¬5^Eî´6«IsÑ‚wâ‰B8 ‚œ£³ŸĞ¸„´¯Z	(!d4']²mÆU”<“å1¢šØ\»ÅXSeÇy>Ò¼¿°w@Iòãyœ³¡4¤0ò^âäRÒ$7 ¿ı¹I"V5A>cä>¶Tj¬Àtæ\[NÁYóŒQœ.£Áà‘~ÇllTuõH=Ä£#˜Ï–û‘ÈjxJ3`2FIƒ¥[_Ğwî’%ÒS˜/çR2âm_ç"$üVÚòD1K{Y˜Ä	èQ[ÕPD_Â€Mû‚àIPÔı¤9<ÒPŞ#®>ºÇ±‡ to BFTProxy
+Sent back envelope IOŠ†Ü!Œ ÃÜN|şlñåfÏ(n;v…?İ¥G² ‡~şwC~]1ÿ€¿Ÿûãc”1ÇÕ‘ß‡õ¸$mèg°DÛ¿ÀéPv`a$îz7g1v8r±E›Í Í²*0ˆGÓUk¯\öşÂPº›áPÆQ,+s‹ÈCŞ4q•R{ö>1–QcÅz(YŸÕ„ë´Õ{µ}oŒ qÌĞC+#–ûÍ1)FÆZCeİ–¬P úÊc|ÖÂÉ·[¢3ØÍV›ä–gTçA>mœ6¦Ú´åÿJ®eä@‘4n!^QéBÍ”ÔÎÑ‘Ğ³€yñHğ\ÄÓ4‹¸µyIênt.‡J›9ãHÒœwMîcú¸¹Vå¤dz¼Úbêo~áiG‚­™‰{–°ıßˆ×ÒPY¤Ÿ8ÄÉÖ“{=\PBUm Cdj3{;×³V–p¬îqóÔ¬Ù{‚Ú£‰"R¹¿ŒSÙ[É{NŒÁÑ›gøıG©=ÄÛ‡nXèÓéQİ_q¾•?kÁ	}­¸Û‡¨lS·6ˆÀ¡“«Jrq/ hÏX”VÓ€?ŞkÁ½!ş2=§”şÕH`©i—İ¹;ÎRcsô'‰ìÿL¨ô!¬vRˆúï¼ÔÌ¡€…-LfôİĞù¤i°	Aıg”‘xªoÌcÎÛo/Ş¢4v6¬ÈòÛ&^Pv¹Nâß•S€Õü¦µ›94_'OË#ĞûlÌi<SÏ¿N|<æiM½Srá+›ÕıÄÚ+ÇÙİàwœßR×­ñ„E.Úà¨SÜš„'î³· Ccf×rÎğ®$á›¢ñ?ÎÁ0}w›[¸ıEn‰í8—ä¼›+B$£vf+n‰šzUû²µáÊÂ±œxZÇU%Lp^UÉ­5Ï%P›ËfU%5Ë¶‹×RbîVô
+—şi£öŒƒ>¼õğ\ò‘çÿà?bÿÃŸŒŠ2äÆÑ—vBü Ì
+¶Û÷°Œ!fşÅ×Ô¿š‹q-Íğ,Î5Û* GˆShùœ,1Í˜ÉšÁÚ®*ÿÓ¾ä¹j2*Ğ#Näí¢ñ!È=Âa+cÇßËöİË–£°!*'š›–(§ùudÅã2Œb]¢¶’rL”¥;*d#~ƒ»ŞÌïAåöôÃÀZ=ôíIËgı˜Ì-]Ã Í\Qâ‘ÓµÑùcºŸ\1;e‡ to BFTProxy
+Sent back envelope ›ßr(PËúzáXç‚oõv ²²…¸Õóı•‡b›úH·¯—50#è[C¿¤LMĞ&Ìkó~À½#o©Wïs ÄÇÂÚD]X´ vé}G’aôwGÛĞº*„c^æÃ	S±gjU†	¾Eg¥×Š¢ƒ&jƒEéU}rü"•D8ôQÇHQ(â´)šd§Ò.Eb	‰÷aïfî’1ı”¯ÿ×¿hïÓ”Ai¡ZQŒú‚Vh{¤ÇhR´Y·•èÀÓ-sÉ¿‰¹€T:ù‚_å%Í1Fw¤=ş/ÄL“ä»èÊ'¦sÒÙÛ—Åó®ù¥£ù‚)uº˜9|Ê–ÎÛŞ'oéI›Üg‘P€¯Ry¤L=Â°ÁtqÌµ„]£_ß²Ó0ô<s/ª$¬4 V¡„Êà¦‘Á~?­¥%0Z&T‚Ô¸V_E}ÛNêâ0®¥û•³·”îòÃ–[NúÛß‡ÖaÆ*sÀˆ§îß¹¿;*E ŞÌí®Ítãåigs6Cô–Ù<Õ^Ç^Ú{®Óˆ(Ñ@ş9Kñ@Ç=]ĞkmDúõ+" kË1å€çåÈ‰¾ÁlÜ«5İv…d‚#¯‰âM>%Nşõ“ÛÏçÓ	 ¾tÌšdë
+t–f4å–G3=ì"yŞrpgøgœç%qEtÛìjn™Õ“4è-oÀëß•ºş
+‰ä÷çÇĞ¾S>\vÌÏ$sDT`ıaú2”„à=§\ã–ëxs×ñ§øÜ×t¾¶ä»ÏÆğ°cQAcÒÂîGß%H‘¿¤\İ¥Tá‰Œ5N·¹Ïb(W§óÉ+0ê…Tv1V/†9„mÇÑ§£\±£Õƒ2nú¶˜u&4PóƒÍ5‰(8œO<!@É27¦'Ü‡@…íØÉR[M–.·p/Â£ûÍŸKü¤Ë«"Ö±²Uã80Iè4T^±Òó†‡Zê+İ<0mù†x*¼9WøÚ‡Ø¶OÎl´{Zí€–¿\Å}ÑS6²›2|e[ áß«qO0®â­ÿÇs¡ùÌà˜Ãò¯@å ±=|²&¹©)¬ Á(Ô‡îq1²°ÜœqfËÒ~¬¥»ëæ¡-éiEÄ¢ÁAÄ™·ÓÀ¾‘ª‘â“ç±8ÂêKXáÕşyàëEõ!ôÎÃäRñûX˜ˆÒ@}%ÆÓ~8û›fg—¼LU4Îßï to BFTProxy
+Sent back envelope R{N±‡ã˜à{ØFN­À‰ÂÖYÔç=l•~@CíL™JjÀ×¢şø¼ÒTßöÌ2o¯À´†ºi»ÛĞ­–xN9áûïÕÁH°õ¬m ÂFä¶*Ÿğ&Îi4Ö’-DG»dpÆƒMyŠoÚeı(DaÎ¨³¾İÓd¼Â5êñ+5&q¹áZ¥Ş¹F³„=SÈ°oÁBß¼çasÛë¶¶Göâôû¢£Óûğ·×¾3ãƒ?¥ë*õ‰¤$ø#T9Ñş¡·RDÁo ×“êÅ°%÷ÅX­+}~EÚR1hdªÌL)hƒºĞ“ÅxvdÌw}ÜĞ@i¦â¢ç-ô,ûAcõÆ?<ÃB Gc´**šuÀd+Y©/“Ô§éåš ÓgÈJı	 5jcê»xÌ‹<˜¸ı'MËŞ&êÛƒ’é×"AL0-IOü—Sf.ÔŞ=)?wOi>ùQ½D?léV²¿¬!Œm¤¤ïVæU=p›ëü7ÖNFÇ‘˜`7Öµ=v8“rKÀp1S8KWU|º…¼Î¹¤>^u_­ºÏ}£0ÑÈÍ?Ñµu`tîX°<ÁûÚ<?±Ÿ¾‘…®+ïƒ‡Äú]I±viKÿY8ÍğªÈ—sŸ²¾¶¨§`‚ bæ=ñĞê¼D¯ºÁ#¬760s1Åu¶Ñ.¿´òãŞ˜I›Úş±•øí
+Ğ©ş
+jÁwlÿ'7Âğ_˜'ÀòÙ=2»¢eë^ÏaÒi[3Òa8EØÆ!ˆ‡ı]¶z~	a_CÿŠš1İNTßu™Q6_íU5EÚÅ`Z³,ÚÑ
+›êÉt‹7Ó§ğ{•„œbpQ‰wÊ¾½Ñ«ô¾«…‡a]†·á}A\]ŸœlÇ®U* ®8§‡ˆÿ9\œ~*ñÓI3ÎÏ¨ÒXš±×öw%úi[m`Ò‘ ¨ôµ±"÷,Z‰”Ì´r3œaw£í¿\± `Ù¿’ZMÛÎ{à¦QíO)9ï‰ŠyÅ”ä~&nWÙhß½+_9ŠE 0Òø·´ca?{ğ×xO:c4?`ú:üµª”ÆáÖd4šÉã~ùÔÁ¢ëG~V00³k>2ÚOÊ¥ıµé9ê‰®ö€>ò4Ë+PIæÁÇ;ÿ\ŠU:â»‹5\Ó#³{ğwd!K¹ìÎ@ÌjÙ¦)8€ †Úmä75êó;2­ to BFTProxy
+[1] 16 distinct tx synced and 0 tx left in the pool.
+timestampE (4, 1554830644.273762)
+Sent back envelope öMÀ]ïjFşÉkÎUB1D˜<E–ë]ú%<VpŠÛ²IÁD—™€É Rï>]´Ù/aXî†@§†ì{ÄG«¶§G+sxËz¯tåz¢Ë4vh·Æ ŒıåğPHõaR¨Û¡ĞÚ%¨¨	"­“8Àm:rÕ¼#šÒ¥çã:3°\Cv©,$t®À& )sÇÈ qõf5ìá£w³à/ç‚‘nÕÙ(…}y§•–øZS±üµİX{ßæß„«Ù(õj^jX²$287ï¤¡ÄD­¨CÍiİ‚Ïø™wÎ¸ş,VC«Ç›$-®±oQ)¦"E,•õ€sF¯S—*ÜşRˆÉo;lëô°¤õ¤‚&íH#…™ôèìĞ`†gÅ‡@—Ÿ¿ÁÔ
+:?E§2Î@1]B&â,÷x1ËVLAÌçBÚc61Œ¹¦³›Ş4&ë;g¨Ãó.jÊ€ÔyzÄí:iÓb2UéÉÊPŸ2Û +“àNÌİNÆ€J/˜À¿¬¤`ñ‡üI¼ûa’e‡$’@à(X/,é`dşgA%œÏB °'”L	×şšÃO'üqİ²	I0QéÄñàjï^¼ÀÚq/ß¶’Äf<ı´şåí1hM/®92Z#¹n+íü¿úº3U™×r„à¯W×
+ º†~C’Ì:™DÊÒáêõøBzÛ¤d*s—½Dáª|NzÅ+øŞü7æÒÂ_èîYÍ¾ü$óZ>M3O\ğd›{™Ë›hZ— Ğ
+¯OğKãìØÊÒ?d¹×Li”¹ªxU}”v]QÌëƒ¯$éÍ¹¤Ëêê÷øPmDFŒ~éÙ$Ã«tHof„]†Q¬®üÍuìëQM~_dÓÁè»¯ŒõÂÉéö"øŠbÍ×ØØá„oê&Kk÷_ïá ;¼ëˆtDÀÄ ÑÃ'“JÔÜº=23"¥FM+A£o½†N–]h	ìmİ‰ğ-®¯„ç·ğˆ•µÂÄt“Ò¢÷Vù"
+±ã\ùˆ°“µ’¶ß+ø—ˆETYšåª¡˜i	¿EÖ4…8"/«úKE£zê@Öp2´ÚÒöN‰Ú¦Yä1Hß±Ñ$ÑÑi;ZÂœ2óz¨#kÔÆ¦ÿg2nÎsXCL>|jÇ#9~Å‹ßBzıÌ~3„·úñGÏñ.À_X#BÒÇÙİæugC:N¤Oq¹Â to BFTProxy
+Sent back envelope  `ÿú&hˆÀí5¸“`¾ê.A\¤^Ûe¢_çÜ‘)V}Ş|„º>˜c/tÏX˜ƒ­ÉöÈäı'ÊkÓ»_5ê‘cF…ü1%‘¼NıÔAù®â–Mó`Ràã:'jë&âÍõßi2&g8n}Ã@ïŠRuÉt0C²é>8Â¯`¢+íh—×Hå²4Ü>’@ûÂZAĞ»Ç²¼P\µdO3—C§ÿ¶/©.ªLFpó¢7X¨èÊé!Ä:—™Û]šÿÍ•O¨*0"ô'Ì'‘0Ê>´§8Ş›ßø9ü®xè9Øœ’¼¦{³øİ…@+è_%Â‚Â±ª S°Oß¼9Qá0W?T}.÷ˆé$Ë »ÊëR[)¿èZç3Qó˜‚•hâÏEçÁhïÈöù¨¥]ƒUÚF¿Ÿ0­Ïys¢<·Nã¸;ùÙ´KƒXÂÎó Ñ:Aê:Ê–ñWıĞCÌâ¹¦Œÿ·*Ûò· ˆo}Ùf îØuA„ä<X“˜VÌux·’¦oššùRZ±X‹İ1{#éÆí9’óÀÛ¼SaB­ˆwZ¦_k:˜D³´•¨Gõ[×n1µ	.É¬ì–y™šDÑ‡"à¶?GAwiì£rÁı¶‚ê?© ^°g¿–P¤}S…;+7F`¿Y•{…UQId²L§€zÆˆx)…{×ñn¤¦Ä|ÌóO˜EÅG3E-¼([ê3jë„ÈÛâèm!œF"cXïk·„ì.?T_^nÃ B*ùW Å‹¸#44¥Ge1
+›şÓöáØ´	$6*ØŞ¶d–§ç#!ÎèÓ%ç¦=¬„1t”sÉğÉ±™`ƒ}¼[H§êr\“ß«O¸=Ó{îâÎ¢Ûx«Œ«†¿IÓ`–õ7ê ĞÌîş•W"if ›~h¶7ğ= ÚÂÈg‡Ut4W! ş5ì“W…¨¼ÛM
+¡c±±¬ÿ¸Œ'7â`U¯·z:½ö<Ã€G›E›3¢”zB-Öd‹{„ù†ÎyµSÉó{“ÃI‹´•¿|Úé¦E‡u¹´çä3yÔ`=~œd-úÂ—œt,Ô£N f2¯nÚó|µİ@—¹Ğv95…ş >M$UUP";,mrFá>Ê­å›bl‚’pš»\ ØoÌÿK^°¯rPZf	Ö~o0]·Õ'OÍÂ~)õí˜ to BFTProxy
+Sent back envelope ‡?PQò
+ıÚ/ªşÏ'«ÆğCüvFĞ+ôóÙm®73ÿ”TÚxŒ/W4“áı|dÅ±ßòƒfŸc!šÅádF>ùàÉŸÇ§—9kµ<¥@|()¹Ê4|I|£ó›‹_Ö8S{|‡/e®¾üw¡ô5eYé}æ4…úŒTšï;jNE1šr¥\×‡"¿É×H(ñ*¤Ät÷>­f†JÆ†œÜ~©¯²;®àÔ¤E;ïb¸X3®£7T²ç{®qˆÙÊ(Šİ‹‘/_ë­ ş}Ğ¥İãÁ8¥Ş«zâó0ÊÂ›Õ-¡!fÔÆ•zÕ]¾±^SÌÅ¤71U¿&œ(È˜+¡t*!m@ƒ4°ök‰¥¬p\"´ëœwŸKÕ / •-Jõ¦½L7ûò¢€¢oêUÿÃ>çÎ€H@leä:â5‡¬`M[¨ ¤j¸¿é‰ì'MùÑ¤¨¶ãõ]pÚuƒœ<0 +V—à9(6wâfúQ¢‡RÖÂŠ&ğ‘IÑæÎ–$?5;6æñ‡nÑD’öª-.Ûª* «Úªsuå“å»ØÂïŸ„šHé™u¡¸úã—ÑÎ‹…
+Íÿóoƒİ€¯ÜuZ¸ÈyïgÅ*•„oöLaŸGÍÓ‡+«ë«›Àã¨p±¥Yë£¡Ò¿Ğ5óõ6zÆ¯M.H>r s—¬r¶€UD§^ÄX:aVx-Pã«¬=(’rî[/˜æÁg‡Ş,÷ĞRjÖÎ„L*Àşl5b«Ÿøsíè{ªkH9($cE.ó¡Ğr×!KÍpP,#«S¢YÄj,œo 'ÒŸÅˆÚ)'m0&å=e†Ş°ñ¨„.‹ÒXdÈíÄÂiµu|6¿×Ùl÷!£Z,UbB
+|˜š*ÈåäĞ>å¼qòºfqÔ—/Âåò<ù{²‡ø'hu±Vˆä¯mƒ%ÆN*Òü‡51{¶=­6î¹œ¨£PR
+eFo#œaô$±ÛÆóLëYFX‡ú2¦—Øë!$WÛ'Ÿ‚Aô ĞßÃ®·@3¬bË¤Œ©¿HÜ†x” IOfâÌù&áÅ?;6ƒ§¿á¤ğË¢u6£kr¡@G§ºå>©½Ø ì¦¡¶êØbµ+ad.ÙŸ—zft×S‘E…}ÌŞw ©µ8±‚yHHı¦˜t¼8eW#?êHÜÛkğ€iiùUa¦ÀÄmúò­œ™y§¡ to BFTProxy
+Sent back envelope ‹ÃpŸ,„kÛ&3ÚSš¯‘wj}4®lypy‡ëé_?[†³?¥×xıò%çOŒÍÚP[ÔğK‚c¤5­+¶'¤PqGì­sUeéñç>Q.€n
+r'÷a	½wH Â¯QÒÁÈİãw)¼Ü§…ò‰'­…v&¢Ÿ®|=©if½(2YÖ)M¡õ!"Ñ]¤|ÃnäµP3©MŸÍ´'ä(¹*Wâ­Ÿ~RôÔUpÄ6~°à+€ı‘+Z’9Æ¿Z	ËÃŒw™Dáaeü®·àç³Ú6°´×X¾²ûm}O¶J³S"íõCŒcC?’>¯Ç¿¬tc äêÜõ–ÈÒ‘ZRMÀÚOãÖO4,QÂwê‚ÎAeŸ%íïC)äş5§¨&{ÅˆNvI¤£å‚\ÂæEÚ@Âí½XÌ–…€Z&üİ¨ç¶ko\mê-ótâ õYS$wKĞ9YCMĞÌ¢.¦ßöÎ ½OÈŠWXİòó×ÿ¸]fúİhØªÔ·N<6ğt@á¯ÙéÍ¬›v5/aÉá»fÖñ‰uë¥„PB<CÃÚEUó"–ã†ãüÁB_ ”Ş‡E^”¼«j#ğ$ÊòSwğk<ùrŞÅa§[»©sš·åÔ@`5Vn¯lgÃ›ªiÆ\zˆSÒM”`ğÄv,÷[‰ƒIcîã{åìŞëñîo3n¿ì}CQi úššR¨¢ğ°8vUo‰’˜N&î!ÀıUÓ»Y»aLê$$ 3ìGjÊk—®vlÜA6Üî¤a‰ˆÃŠ©]lÁí©L]nAú1s™\É’qİŸÕì(/É„íhZ_Äô76s‚°â1z°Ï·çâ¤åË¹ÖÜygA²ãˆœ) kÖÆ^¶#ÑÔU¸#$Ó	zóQ°T¾Âˆ3“E¢k^-åCÜW¾^± ŸïïïÆÙñÊÓæ7 ‡Œ§Š|s'®‡…=ì5`Sìí£ËÏZœ6lKˆ±b”f)¸ìé4 ‘¥ÔˆÕ´¨÷H«IgñÅ!n«  Do·"`tş›\ @LU	yHJ¬Û‹¯¾éboiï LÍË¾ş…ö¤¢kà›ÌH~òÙÄ7^×®áŞM.'&‡9On^9óÅÒü¡:nü´9ã
+’§Ş2ÆŒ»®•Åz~‰(©ùÜÕHú‘/ to BFTProxy
+Sent back envelope ÊÉ¹FëbZ&‰àš¡Ú2©£s>&Æl–²B¨úÃœÑÌş­ÂÁÉ¨Ó^ÌíÏw”|¥	NdNÄ>ÒLT¨…¡À¶–¦ÊãnFm •*(AzCßıNè, VkúµE@›Îšt$	£ğ¯œR«_?§ß!éŞ“RdÕLã2Ò$gı-×G!±6]ÄËøßw‰kÈ6ûúø1¿è]=#S+ ™A½£…ËD|ómu¸~eebI£,Vìd”@¨‰š÷pWá€Xq´pÑîâr	E’1–£©CÆMbuy±ä¢ä†Â.Cú¹9göËIs¹YÍÜØQÜã¶VRĞÏßï¡·òËS&Â“ßª¾’€ÀØ…ÆÕ$Á-Á/ÃH.ó)b§`¤_A¸àÍM_°9ê/>ö¯ñ¦í§P¼8ôæ«cæ?öTÄÑ‰E¯ñuŞÄò+Ù;½¯šóÁ	—ÀáÚJéÄN\{ë€ƒQ¨bcBá¡‹$W@~üùÕûî¸h‚oˆ­ÙÖ«ômîMjD@ù•G&§qÈL
+"äÿ\„s RÊ«–ÂšTØƒ‹«K¤mUaİ:t8!İ|ÉßmáfC€Ú¯6f;”3ò6•´mÇy_‚åu F¦¿¡É#x6'ôn¿6˜½6ynçT	Õã4F‚Û®ş:wn;È¡pŸÇÏÜÈoĞÓvo!‡ÊH)æ§äııÊŠmÈ',—–3ÜÌ÷ş5¾*?ĞæS¿¾ª¶Ùkï3¾Aƒ[©=ÑzºG8Ğ{tuüÒ–Ùšëí· |õV2·éWüÍt¥7G{v0¹zBïöN™+U6T@>Ñè WjpºGÇp˜$mø†¡¨å¿VÀ£x_M3A¡ W:…>#óè¿øâ”Ìƒ¯ŒˆNî@‘Í"ıQ¿ÁA/âÍGß&ÓòDEIÔ.T/õwÑÄ<¢0™Õ€u«I¥(„“3ã'—zˆ•åÌ¦Ó¿î0Úµÿ¿Úwòê3«.D‹O‰Ù$
+o+ä#hbš6¶.¥“ ö‘Ñ`\}3ÆuŞ#K˜ ‹˜@B’ImMd|jNDÁ›Óáb)%fkÄyÖ™'VÌÁÙ¾õa˜œëóö`HÀÂ¦>Zk\oğc÷ŒÍa÷‰äÿAö“¬ˆRaÆMœZ„W×å*|-Køœâú¨Ğçs­/„Â_:®Q5¡ to BFTProxy
+Sent back envelope ”ç%£äò®[½Tï>ìcZûÙvZªùSV/ŠMõŸä”õıüqInc ÚO&“ë4:†Î˜UH{MPä§¹Mğv¦ŸBt|yÀÑ,ÑÖ¥÷€WxÊhv$©W|z¿Õ9FPJ±?ÇÑÿƒI€¦ã<Nçí
+Öª¯ÅD»…+9idÕŠ¶·¹SwçÓûáÌIğb>^Ük¶tˆn óFEÀcé~Çf.,J³a€üóLP:Dl+²-AæéJù>€Öõ£àj	°õqf²8aG¬W~‹÷ï*ª!İP¨ÖÊBş&á½pNÔoe3Â+¡‚L$ãlçªÍ<x FNtŒeèÚ´K(±H''a[õÃÌÅK»0WàÛ¸ª¦‰‡ì‘ĞÅL­‚3O
+x˜ÁZZÍzÍR\Ú'Ø¯„B€9q9.§6¦OØÏ·GÕ°j7`•<ÒmâÍšøHVø(e6J~o…b=¸Ü°{ÒŸH%æqö»ÄÜªØ`~%›LÜiPÏ;‚D´7‰c
+‡£‹Ee¶ıª´½â‚ÚÚáIˆz„ˆÜŠøØ#–;™sŒİ‰mŠ	&Uu}8%Ó–0Ì:ĞAğà•hğ–.Ëa’°È¸1?l.¯cÀ£g‘+deÚ‚e&ÑÚ-à˜–ŸÄ+p
+¶8)î8âªÔV’ğ)g„Äjã%-‚»P{£HÈë•‰åç8.OBº#§ñ)óÇ×·‹QZM´N&ª§hı.?A6)"<¥p¼<Z8¸¦ë\S×“º Ë½¼ìÓQÓ÷9F&°Ïuš²/ï&5Ã“D9³Œí•6±«n†™]Iø°¦ÈÈôÎĞxnd¹JÿEfD¸ÍT
+Ì“âì¾i|vmë*`
+­o X®	•%\kPêÂ±F@òÙ‚È2}y=_€½[”ë»€=£­Ë°QÙ§z<éÂqlx¤elïù)ş–ÂŸÎÛJ4{úíŒ›ıa±ˆÄÁ
+\&=ëÔ}ÄÂ™©hV¤t)¨cĞ-0Å/+rÖ‘g/°Æ/dZØç•½ì:İNÍ²Œó—16N9
+$ZT;À¡Hi¶‘™ØJÿ|ºØ ]Ú¼Cm»ÏJ¯ÎHSUVÂ’~ÍO“£;Q½y¿búw… =´#©^YâN‹/98ó«éC5¥Èé$/*oïZ V{H to BFTProxy
+Sent back envelope cé“xRgéKZ6EŒçrÆ>(%
+Ïxı5¢	¥©$OmÉ“Ó5“r¸EèMZY8	·óGzAFÿ}lËPÔ
+ÍÀÚ ‚fÏ‘;<ÈÁ¼Ái½L†ğÂ²Ù¿AåökpôåHßÅ0øvÑÄ0l¸Ûñêıõ¥ò¯¨WUL‡Î÷ëz&hƒ÷ÿWo­,O#ãsÉĞ1ê}Â1I°­ÊOâp¾E§Mç¸Ô®"^e²rÇUŞÇNä½2ã±÷WÃ¥[FîÍß\J¶¥5ïøH:àz_ìp¾Ët´Z{FÏ8|:T†{­¸úÅÌ	,¾ä JÕ!ñ¹‡ &d¥sŠÔfë‘Õ.ˆåº.ÔòäÒ£–ÄçNS5ÇKwÛéÊİ·¤ñ°¯†#}.(ãËEİ¯«ŞEÇ³Oó{İÏ9ígÉ^qÕûC1_‚óçtsí{KuâRòÜJßÅ„*(;|
+»'™ÛÔnÒo`í.•‰`9m¦Š®»Éµ‡?Vmİ€; `»_ù%½^¾ml%Ûx¯¨ˆœ:*C/„¬fšPàQïÿÇÌæµãOÔ^^Z[˜K0n1‡½”j"o-åšô‰\yh«REI0]ÛÒc5[Æ“J¼’Œ<-š`~ Å=‘I Ji±ò‹àylqÀÇúz¢%ÎÙÛN{§À…qAÓ'ŞŒÆøSíĞÖd6@|©óï!jâ·$hU˜™]V¬Ò‰W>AGïy‡t»
+Y´ìO<#&ƒ
+¾—ÔmEÌˆ“d„}ÖRMy„½5GâÕOngtUãPpaÃx¼å	(²½Ù/õ-Ë}vÔü\èÀYõåı -z•à*IÓgú÷]òaşñÅLÌß%›ã´Ü
+Ñ¢O©†;¨*:$Öu¢šl‚IBìnkÚyÅP&8&cÀ¦¯H¹”åí«`{wpM¢¤®Ñó¹óø=f¹¯¾±ÖI‰¦j­5|®rl‚š³—‘C|—»EÔ*˜,Ç¼-ç{ï³Ì®qpq³/l ¸¸=ÓƒÃhOÒnqptá5mÚ†˜PlU:è>šaŸ®·hB,µJrõÿX=p–¯è84ÄW\Ş‰ù±^ÏÂ“©Ÿ›d7ZLwŒQÇßŞz]9P«N…™Ì›ubæuHégU‹ts!,r“Ó(±T—ñòáÑCÜO“7ç¸z£J:Ç1ÔDô° to BFTProxy
+Sent back envelope $ÿ^Ó8}ñM¶ÇPÜ¾à¥(—ÈLw„Ô}ÏÿÿGC‰ııZN÷_4:ÙÁ­s`-»B2>Ñãšgòì{
+qñ‰›GÊÂ
+î“˜Sò[¼38Ük¢Ã£×tÁ‚›ıõ" ™å6s]¼Æ_áK´–wğ~ù§I7ö›t]²…
+ôÍãË¦Õ¥¡QAÑïfó”´Ì3`°(ø|åë½lê¾Ôa|U,”lIÄŒz¬ˆ¼JõOÚäıÿaïåƒ]ˆlB”¼ }3P„‰Â;<‹)EóÁÕ-9(6ú»mİšIBw¾¾aU „¦îÕzBŠ¤ˆoê&ª|¾ù¬¶l€Ù+»ø)UÚoÌ7-Ã™mcå&eÓ†u’nlc¢Ñƒ3…6q)İöSëßOàB"N,Ü@Ô-nğEôZXØã–SÑn<*}¸74É(×@o*¤ïöY(éRKÅoCĞceB'ww{ëÚèP…Å¡¿”íËGnŒ÷šËÈ»ÂK!u^rF¿¥nQµÁs¢TZVø]{+èäÕd‘ÚV\jæÖ$‚0û({‘Òˆ¥š2*=ôİ’¹Ï|-‡[ZÌj8½k\á!·‘@ñ‘­<T-ÉÄãty€3ßòk$Çº9\‘Ú¿Ùnm?äÂı­eK |ßÊ)Öuı.»,Q¿Ç®¬-"NÛ7”ã'ƒxîÃyÔIb™ßÚÓ³—;o½œ1äZğä6ÒÃ)~k‘ú—:~NéĞXŠMG ú'V£rÆe4M>q‚E†ƒO#Vh€‘úlß–¢^$F­9…ÿ2);vE#:0…ôè$ñ®ûWÛğÎ¹×õ…ì
+y–µ6cş\Ik(ÅÓstôùz|ÀwÄµ“RZ…‡J]Ø×€0^ ^ôÎ> Œ”ã˜½OøÜÈ9ƒ!;)×N}zû>&íÇ=UR}üãî+ø×BÇ©<­ XÆØË¶Èw?ïm"õÚÖtä 	Í#ˆQ(LïÈÊ¹‹Õ“'$°â†LÕêê½ü¡¡toº°ø¡F&ş²–³,Ìà-hŒ.Ù³úwáäzµ¡åÌ+~bJ¹-…GãB:ÎsE4AâØÊ¹¿¶rä+Gü#³Š„EÿVœD‚í˜…`ÿdƒ#õ&0Ö o8Fb”‹ØŒr9ÃŞ«öÓFëlS to BFTProxy
+Sent back envelope 6.Fq‚‘Ì÷¨Ü‹Ó’Šè’²é=¤¥¯æZæºıÃÄÕ2»¤6¥7[÷ªRäÎì;lı)(ı0›Æ.—€iæEæö<ÃÕü©Ôİà{vCË²@}s…E4$µ²M®ˆŒ¡ñõuH‚ìmZÂ*:[y˜tÈ ±(|µŒ’›²t£’Ã¡qXzdk9Ğkß‘Í¥›•¿¢™­h”%ˆÑGµ$’¢ÂNõ%ËNB­ëAèB¬	­úVâWPÖÁ×e]×gõos)›a€p2òËbÜoS 9dM¡ªp(&}‚7‡À¤: éLµ•,İí‹'0wcº`K!‰±ıQ½Ùg¯/kãİ)$İŸ’C…]Ì²x„Ué4çÏóú°.]„.ÎÊÕ¶¶	äö +ö>êËJL˜““ª•®Ós6¹_£\NÒ#¶ÊÙæ²ášìÊê ÓÛºÔ ûç³™ö‹)ìF1Ÿ³xÚ‹]Ò¨Ó£Iay•×Z«3ğâU#§&^œ<w€O¯”¿Eà{)¶uY³íÂ(mÈùıA-ø«rº-pĞóÄ%'ü%˜scâ[­3’Â¤\¦º!YsÛşP®vç­Çh­ÀECU¾/_Ú.f(°ÂüpÒIs".UÉ	€V=ŞæÂ4Xp…‰Ğ3À¨(5§Q8g²‘§+ÛÛå€f±2¥.z½ØâÊI˜ >q³üoÍÏ¿òùş~î‡$ıõùŸÔv–şGµ³á™já…ˆ	w[Ô4Uq—:ö|öN¢Œ7°G½‘,æA°7#à7¸H˜v&±¹sÌO»b\ÖlÀšMÂ¥sşe£kê_XFÓ¿B‘èï®Bğ@’•e×zg€¯äL'xí¤y’ë‡?Î$7b	Şl¹gö&uÎ¶™øvy2~ÅœM¥rL¸XZÚ W9Nêêİ|§2©ºÕ˜†ê3¼¬Mg·#JºZqÉF„xr>ëÏ‘ğ‚N6¶¢Á?JE¾€-¸Ëİ~&¡Õ•ù¨Ë]ˆŸÛuÛxhÊÓÜ… CÒÈ_–ä‹X‘ƒøÀWË±Ï½äHGx bÊj¬‰äì²q@â]ı›©‰¤]°¿st#,'î‡Æ<­aÍµ·3£e fœqóùmKxà>f2_z æÛôİŠZ­Ó¾j.ëËØí9©ãï£,>|y€5Á}Ó¶_ to BFTProxy
+Sent back envelope ƒ@Øüu¹{ŠÀ¥¯dx	ˆÌA„=s/Êa/XÁ¯UÂ¬ó©Ö'ÙöâOö>Ÿ)[ªš„éÁïJo+r–‰Ø&¤qaŞ»£)Ü1lØWÇ×G)Ã Ü´ø‡MQEã‰"•}Ég¨II+%¿À(Ó+j\–Ì~)¿vù¿ô‡æ|¶Ì©äuÖ>0\w<NU”NîNñQ“*K€tú)™“ÑŒØr‰±>æÃ:^3k©“ l¨j’¥„ZpA8ù¿Aû2×úwĞÑÌÜthª™TŒzşG_Äß–Ÿ¨ Ìâ—¨©0œÔdæğİ‚¢ÿ‘®è¡g@D&ŸİÇ16ñJòØñÓ`÷Û¿ÙÒˆàI¯ÙŒ°ÙTP¥‹éÌ|œ)÷1¨áß2aäqÜyÍépcèï©È<~ròZÛJ’aÖîç¦É>(nµÎËÇ™ïæ”­EÜáu)ùEìuGkÜ²l¥G=¹GŞŠæ'6?=İ#ÅÉRÎ'_{\`òİÿÛFej$û!¿bĞèşìhrâÉÿºs–7YÍè§ºDó0ŒMHbœ’¸
+(| Ñ"Z˜¸dÄ_#:¹Ç-ğæeù-æ­‡ß’bÈº™=3cA]¿Áëş»”'…÷öl[ã‡äPC÷·³ÎLÿù§û®EEN[B-¼X¸RÆ¡Ëa6²•›F¸ŞµÃ¤×úW]{D‰å›[UÅ‰­¯Ê àPŠ^Ë»Ví”.Ç©„¾Ë™9½Ê½±óô¥W¦z0ü /Z	Ã–¡J_Zÿ»fÕxpñG£P3^ëÄyÒPllîi8mÉ¿)b`»0ÿ@±u$NÜØÜ©oê¸DW8óïÓˆnOZŸæì’MS°RÆ.®H*Ç¢ØæØHıİ‡Â+Lf…ò®"öDœÚ]ÑADóè©ù»ÁÜà@6?¹zÿ®`G÷¯9ÊdñO«?¿lØ³‚|5–Lã&¸®0'C¹~ı‡oëÇ—æÉ¨íÖá…ğR2ï9NÒû|²Ää“Œßâ–p„¼£ú6DCå0âŒBœeMQeåL†÷V`™Òı¯rJ"Âí{3AøzU`k\V˜kè@õ¶øŞğ|Pu˜oÌDAASwéJNàvnÏ8ìA”EÌ5€ßÀ!ÄæL‚ìtÅÖ<”—„Æ¿,l¨€ùÀÑè}#ñ¿ç to BFTProxy
+Sent back envelope å™„{õÕø³²35Ê °Øß­À¿ö+çÃÈgHz,™ó0İ”–·?\³şxùw#"1ıİÓ!rÕNÔTIh3{ e½S*ö?zPdG1dıú|29UU¦l¨d{	Õ%^G¢j­È&ª¿ÛÄ_GÒ÷tØ.ş‘G	‘Œİ<î?ËdlrSuEÕ¹]Fè¼”DÀåf´ÜÌ*#Ue[Ì-TË/ÂáYìQ´›‘\¾d<tçÑu:é™W\ö¥Ò¬qÃ~
+wëÆ¯´|Lé:wŠk–Ÿı=€ór2øÏ9Ü‹r¾ë v{n¼ø.Õ¡qË~¤™ú/á®sâ®°ZjÔ‹O'Äè{p`ú©3Œ[¨W‘°£S”prs;tEÃ:
+ReÛª‚¹±Ë"6¿Z¶z„ì4s¦ SÇ;¯:Íğ»}F”¬¨¡Qf3mŠßÁıBì)o8¨‡æ	.Ü	4\k‘ı²¢7²Œ|üÑ®+Ï„Ïbè=½øWªù%báÓ £4ªR€Q]ÀÆ]é®ÊŞ=AäGûIª¨3awÖ&E®~„	¸±u¨îµÂñÒ¢g“cwÒ¯ÉÒOe”s¹ÂVÆí3‰3Áh2Æa·y“ƒ
+Ã ËO‚Íß¥œÛ‰şØ?e$lìr&$DÌïfÉéãôLî–_Ê§° #œ€‡½ôeÙO÷XS	mE™*6nXt1ƒ4}£9XŸ,‚ ”	ùŸÄ1_ùÓÈÂu{{ÕRö^ãÖ@^TÅoí]ºz±‚fC3‹ÈÔ Â((iÃ;
+ÆßÜ'¤p6ËÒ†y*.W—>¸˜ÙjìÅIõ–…©Bê§	¶ĞYàib¤]É)ˆ‹ŒwòÒ±=şR¹HM¿q:T¯}ypîÁîİ¤Ö$pg’öEÉt¹ÕVÜ¥|ÿÍû—~¿¨•¬× Oˆkó´’­^XêwP·ùÃHâU7Ã–Ê#[¥¬	hò¡4xñ¼2sÄëæ”HÉè}Ä¢Âô1ëèq>Ø€ØZ.ßêzJ„ºhØ™®tCŠÓÖDæ–&ì‚A:+Ÿ¸ÃÆ1;7×Ü¸ä¡G1zï´#V$ ‰D¯øåÜ]>94@šæ®-l†À¹†¤xBì¯Ù=NÎşõÕ¥¥î½–•…@“3ãƒ>cævî­/ÅüJ%+ıã™!÷Í™½Ô^K]$2ÀG to BFTProxy
+Sent back envelope @±qˆ‚…!ÔICà„“MäÎ­Ğ§8·sEK®0Ÿ£î¤¤AšlÇLG C€)…\¸½£:
+Ò¶©S¿¦D‘TIÄ I"P”y"S/^Æ¶¢¹”R*zó&CX›¤Æñq”mT2§°ÆĞ³[d•ª–QRò"k¬afdL31£f;ùr,+(S&#Ø ÔuØ®—•dQÜÄR
+ÃBZü[NıWvóyìıfX—‹¹/Ä„Ï-ÚêQ÷ÿ¶ßãòxé0ù¿XÌ©èÍ!Ğ;¿Q=d#bÈ'ÿp¦jc$µ# QH¦X­kÄVFH°®€¤A©m¨b
+Æƒoiç¢ã9ûÊùpcŞ¡î·g¬#MzàÒ\¤ ë­†P-z¤mcûé£Ö$U1=Ìõºk·šÊµ‘öTÃö}iYRµ‚MY£ÏÑ÷nâ°qÙ¹	ÂQö,ÎÈ@òã¬Šmå57a·à>ÏÈn~F[BñhÄêxÉÂx©óO~”|zL˜Ë0-š°|lºÏQ,=°%ß”¯J/…½c¸]5”âàFp6NT®!GiAmé5ZJÍlı¥bôAÒ'XkaÂ&/[Î+ªzd4¥+}ºqJD®N°Ã€ûl¨sO…µ­O"ò&~Ô´r£æbÉ™Ñû	Í#ÒY£#7rlI±Â¹
+XÖ±ox!¡ªiÒ'w)ìjXb\êC†ÁöÅ¿N/6X¹Yõôs~K‡™üéh·cúäªÔ££ãÛ€ÆOšˆ°µ‚¸°¿£$pó{šÂpô}X/@H^=Ó¯üíç{íÓZ9:âÂûÒA°JiÍaZ8C¬l}cB@ŞE°‰tŠÜÅÈqvBĞÈåÛTÌì<?Gõp¥>hv¬z]€zFWşÀÀ,VtÅù(³Èçƒ°œÓ¤à”ÆlŸ¥5s£º¾óÜKÍ^ÍAÏA)­»øTôºÛ|Xåu–x Ä]¿¢øq$¹$uKƒâÏ_c/Ì®M×3ÄüŠ¨µK³¿Êà,¾\Ù[‚˜Y‰S€`%ü“>ĞÖÑúSjöò¾,tR¤~ºK,Š4–ò…ŞƒÎùıÁ%0CR›Nš9¥Zr0™šE¼5šÛOºÖvÁ¡²©%–Ş*”æ%éß¥€N¤‘uÓ¡‰Elş±ªƒé%qDÑ&Üp®•œó%£“Ò¶õÈ‘+Å to BFTProxy
+Sent back envelope :uÑ°ÄznQ,.3…ıù°&+ãD(~ŠÒş	+—D’øBµ“×!Äöû ï‰®ì9GCëk´" R”“·ZßîÀ&ˆfI&>\-'¨FùA¡5Â-uRAU|(¾‹;{ĞV0#TRÏ@}×ÒÇ„Kg4·Cƒ6å?¡óÊUH³k›y÷%(M)ª¤÷§yê»|TĞn_ÚC±ÇĞ-+tƒR»†¥+Óa‚^k¬ĞÇî¥]ÂÓ¢â¤êK\3‡âª6­z }O§?z&;»nĞ®ÑâH|Á•kÁˆ¾ ”ñrÿa@	Vòm>gÀ¿ŒlÄ+‘¾Y J¿ra,gÂ]ÏŸª  6Áõ}3GZ]ÂÇ¡ÿ£ôã,Ş÷£‹ƒ¬-BËƒ¤I@w >èú¦è>‚4ŠTÀıÙ ¬‚MÌvì€X*ø£Eı,²Â«åk_'dÎ™Nu…“¶ŒñÆWªÇ úİ,ı‹€·’±=Ëó…‹KcánÈfNıOÜ÷¶«)j@8¤‡‘nô”yJş¨
+¦¼PÜ®òÜ ‰1
+,¥+oín"	öSìù>|ñÍáŠßYàià%;İ5ë
+Ÿç]ÁšÖ)E­à8µ8T¥Ç¥yfGo·C¸€U×ŒªïıCÛœ|fró'h¤.<Ü`á*iw~C Çaõ®B~‡È´’©k,˜AbUæ$ÕÙ©±‡4(²Rx´­)Öd¢¹]€o²˜Ù7˜ÇJq«ëää¢sm&KPºçjÑnäñ‰Y”Ş³7HèxT]ÁÁwì&ìÍ¸Ïv„qóÖéÙÔ›dîì‘C=È_Éş×%yk.PCõ#ƒ* Ö‹ƒ¶B^Ö,Á¶w‚ô/·§Ã‘F¹Ã/1£ÀÚVİ¬5^Eî´6«IsÑ‚wâ‰B8 ‚œ£³ŸĞ¸„´¯Z	(!d4']²mÆU”<“å1¢šØ\»ÅXSeÇy>Ò¼¿°w@Iòãyœ³¡4¤0ò^âäRÒ$7 ¿ı¹I"V5A>cä>¶Tj¬Àtæ\[NÁYóŒQœ.£Áà‘~ÇllTuõH=Ä£#˜Ï–û‘ÈjxJ3`2FIƒ¥[_Ğwî’%ÒS˜/çR2âm_ç"$üVÚòD1K{Y˜Ä	èQ[ÕPD_Â€Mû‚àIPÔı¤9<ÒPŞ#®>ºÇ±‡ to BFTProxy
+Sent back envelope IOŠ†Ü!Œ ÃÜN|şlñåfÏ(n;v…?İ¥G² ‡~şwC~]1ÿ€¿Ÿûãc”1ÇÕ‘ß‡õ¸$mèg°DÛ¿ÀéPv`a$îz7g1v8r±E›Í Í²*0ˆGÓUk¯\öşÂPº›áPÆQ,+s‹ÈCŞ4q•R{ö>1–QcÅz(YŸÕ„ë´Õ{µ}oŒ qÌĞC+#–ûÍ1)FÆZCeİ–¬P úÊc|ÖÂÉ·[¢3ØÍV›ä–gTçA>mœ6¦Ú´åÿJ®eä@‘4n!^QéBÍ”ÔÎÑ‘Ğ³€yñHğ\ÄÓ4‹¸µyIênt.‡J›9ãHÒœwMîcú¸¹Vå¤dz¼Úbêo~áiG‚­™‰{–°ıßˆ×ÒPY¤Ÿ8ÄÉÖ“{=\PBUm Cdj3{;×³V–p¬îqóÔ¬Ù{‚Ú£‰"R¹¿ŒSÙ[É{NŒÁÑ›gøıG©=ÄÛ‡nXèÓéQİ_q¾•?kÁ	}­¸Û‡¨lS·6ˆÀ¡“«Jrq/ hÏX”VÓ€?ŞkÁ½!ş2=§”şÕH`©i—İ¹;ÎRcsô'‰ìÿL¨ô!¬vRˆúï¼ÔÌ¡€…-LfôİĞù¤i°	Aıg”‘xªoÌcÎÛo/Ş¢4v6¬ÈòÛ&^Pv¹Nâß•S€Õü¦µ›94_'OË#ĞûlÌi<SÏ¿N|<æiM½Srá+›ÕıÄÚ+ÇÙİàwœßR×­ñ„E.Úà¨SÜš„'î³· Ccf×rÎğ®$á›¢ñ?ÎÁ0}w›[¸ıEn‰í8—ä¼›+B$£vf+n‰šzUû²µáÊÂ±œxZÇU%Lp^UÉ­5Ï%P›ËfU%5Ë¶‹×RbîVô
+—şi£öŒƒ>¼õğ\ò‘çÿà?bÿÃŸŒŠ2äÆÑ—vBü Ì
+¶Û÷°Œ!fşÅ×Ô¿š‹q-Íğ,Î5Û* GˆShùœ,1Í˜ÉšÁÚ®*ÿÓ¾ä¹j2*Ğ#Näí¢ñ!È=Âa+cÇßËöİË–£°!*'š›–(§ùudÅã2Œb]¢¶’rL”¥;*d#~ƒ»ŞÌïAåöôÃÀZ=ôíIËgı˜Ì-]Ã Í\Qâ‘ÓµÑùcºŸ\1;e‡ to BFTProxy
+Sent back envelope ›ßr(PËúzáXç‚oõv ²²…¸Õóı•‡b›úH·¯—50#è[C¿¤LMĞ&Ìkó~À½#o©Wïs ÄÇÂÚD]X´ vé}G’aôwGÛĞº*„c^æÃ	S±gjU†	¾Eg¥×Š¢ƒ&jƒEéU}rü"•D8ôQÇHQ(â´)šd§Ò.Eb	‰÷aïfî’1ı”¯ÿ×¿hïÓ”Ai¡ZQŒú‚Vh{¤ÇhR´Y·•èÀÓ-sÉ¿‰¹€T:ù‚_å%Í1Fw¤=ş/ÄL“ä»èÊ'¦sÒÙÛ—Åó®ù¥£ù‚)uº˜9|Ê–ÎÛŞ'oéI›Üg‘P€¯Ry¤L=Â°ÁtqÌµ„]£_ß²Ó0ô<s/ª$¬4 V¡„Êà¦‘Á~?­¥%0Z&T‚Ô¸V_E}ÛNêâ0®¥û•³·”îòÃ–[NúÛß‡ÖaÆ*sÀˆ§îß¹¿;*E ŞÌí®Ítãåigs6Cô–Ù<Õ^Ç^Ú{®Óˆ(Ñ@ş9Kñ@Ç=]ĞkmDúõ+" kË1å€çåÈ‰¾ÁlÜ«5İv…d‚#¯‰âM>%Nşõ“ÛÏçÓ	 ¾tÌšdë
+t–f4å–G3=ì"yŞrpgøgœç%qEtÛìjn™Õ“4è-oÀëß•ºş
+‰ä÷çÇĞ¾S>\vÌÏ$sDT`ıaú2”„à=§\ã–ëxs×ñ§øÜ×t¾¶ä»ÏÆğ°cQAcÒÂîGß%H‘¿¤\İ¥Tá‰Œ5N·¹Ïb(W§óÉ+0ê…Tv1V/†9„mÇÑ§£\±£Õƒ2nú¶˜u&4PóƒÍ5‰(8œO<!@É27¦'Ü‡@…íØÉR[M–.·p/Â£ûÍŸKü¤Ë«"Ö±²Uã80Iè4T^±Òó†‡Zê+İ<0mù†x*¼9WøÚ‡Ø¶OÎl´{Zí€–¿\Å}ÑS6²›2|e[ áß«qO0®â­ÿÇs¡ùÌà˜Ãò¯@å ±=|²&¹©)¬ Á(Ô‡îq1²°ÜœqfËÒ~¬¥»ëæ¡-éiEÄ¢ÁAÄ™·ÓÀ¾‘ª‘â“ç±8ÂêKXáÕşyàëEõ!ôÎÃäRñûX˜ˆÒ@}%ÆÓ~8û›fg—¼LU4Îßï to BFTProxy
+Sent back envelope R{N±‡ã˜à{ØFN­À‰ÂÖYÔç=l•~@CíL™JjÀ×¢şø¼ÒTßöÌ2o¯À´†ºi»ÛĞ­–xN9áûïÕÁH°õ¬m ÂFä¶*Ÿğ&Îi4Ö’-DG»dpÆƒMyŠoÚeı(DaÎ¨³¾İÓd¼Â5êñ+5&q¹áZ¥Ş¹F³„=SÈ°oÁBß¼çasÛë¶¶Göâôû¢£Óûğ·×¾3ãƒ?¥ë*õ‰¤$ø#T9Ñş¡·RDÁo ×“êÅ°%÷ÅX­+}~EÚR1hdªÌL)hƒºĞ“ÅxvdÌw}ÜĞ@i¦â¢ç-ô,ûAcõÆ?<ÃB Gc´**šuÀd+Y©/“Ô§éåš ÓgÈJı	 5jcê»xÌ‹<˜¸ı'MËŞ&êÛƒ’é×"AL0-IOü—Sf.ÔŞ=)?wOi>ùQ½D?léV²¿¬!Œm¤¤ïVæU=p›ëü7ÖNFÇ‘˜`7Öµ=v8“rKÀp1S8KWU|º…¼Î¹¤>^u_­ºÏ}£0ÑÈÍ?Ñµu`tîX°<ÁûÚ<?±Ÿ¾‘…®+ïƒ‡Äú]I±viKÿY8ÍğªÈ—sŸ²¾¶¨§`‚ bæ=ñĞê¼D¯ºÁ#¬760s1Åu¶Ñ.¿´òãŞ˜I›Úş±•øí
+Ğ©ş
+jÁwlÿ'7Âğ_˜'ÀòÙ=2»¢eë^ÏaÒi[3Òa8EØÆ!ˆ‡ı]¶z~	a_CÿŠš1İNTßu™Q6_íU5EÚÅ`Z³,ÚÑ
+›êÉt‹7Ó§ğ{•„œbpQ‰wÊ¾½Ñ«ô¾«…‡a]†·á}A\]ŸœlÇ®U* ®8§‡ˆÿ9\œ~*ñÓI3ÎÏ¨ÒXš±×öw%úi[m`Ò‘ ¨ôµ±"÷,Z‰”Ì´r3œaw£í¿\± `Ù¿’ZMÛÎ{à¦QíO)9ï‰ŠyÅ”ä~&nWÙhß½+_9ŠE 0Òø·´ca?{ğ×xO:c4?`ú:üµª”ÆáÖd4šÉã~ùÔÁ¢ëG~V00³k>2ÚOÊ¥ıµé9ê‰®ö€>ò4Ë+PIæÁÇ;ÿ\ŠU:â»‹5\Ó#³{ğwd!K¹ìÎ@ÌjÙ¦)8€ †Úmä75êó;2­ to BFTProxy
+[4] 16 distinct tx synced and 0 tx left in the pool.
+timestampE (0, 1554830644.276088)
+Sent back envelope öMÀ]ïjFşÉkÎUB1D˜<E–ë]ú%<VpŠÛ²IÁD—™€É Rï>]´Ù/aXî†@§†ì{ÄG«¶§G+sxËz¯tåz¢Ë4vh·Æ ŒıåğPHõaR¨Û¡ĞÚ%¨¨	"­“8Àm:rÕ¼#šÒ¥çã:3°\Cv©,$t®À& )sÇÈ qõf5ìá£w³à/ç‚‘nÕÙ(…}y§•–øZS±üµİX{ßæß„«Ù(õj^jX²$287ï¤¡ÄD­¨CÍiİ‚Ïø™wÎ¸ş,VC«Ç›$-®±oQ)¦"E,•õ€sF¯S—*ÜşRˆÉo;lëô°¤õ¤‚&íH#…™ôèìĞ`†gÅ‡@—Ÿ¿ÁÔ
+:?E§2Î@1]B&â,÷x1ËVLAÌçBÚc61Œ¹¦³›Ş4&ë;g¨Ãó.jÊ€ÔyzÄí:iÓb2UéÉÊPŸ2Û +“àNÌİNÆ€J/˜À¿¬¤`ñ‡üI¼ûa’e‡$’@à(X/,é`dşgA%œÏB °'”L	×şšÃO'üqİ²	I0QéÄñàjï^¼ÀÚq/ß¶’Äf<ı´şåí1hM/®92Z#¹n+íü¿úº3U™×r„à¯W×
+ º†~C’Ì:™DÊÒáêõøBzÛ¤d*s—½Dáª|NzÅ+øŞü7æÒÂ_èîYÍ¾ü$óZ>M3O\ğd›{™Ë›hZ— Ğ
+¯OğKãìØÊÒ?d¹×Li”¹ªxU}”v]QÌëƒ¯$éÍ¹¤Ëêê÷øPmDFŒ~éÙ$Ã«tHof„]†Q¬®üÍuìëQM~_dÓÁè»¯ŒõÂÉéö"øŠbÍ×ØØá„oê&Kk÷_ïá ;¼ëˆtDÀÄ ÑÃ'“JÔÜº=23"¥FM+A£o½†N–]h	ìmİ‰ğ-®¯„ç·ğˆ•µÂÄt“Ò¢÷Vù"
+±ã\ùˆ°“µ’¶ß+ø—ˆETYšåª¡˜i	¿EÖ4…8"/«úKE£zê@Öp2´ÚÒöN‰Ú¦Yä1Hß±Ñ$ÑÑi;ZÂœ2óz¨#kÔÆ¦ÿg2nÎsXCL>|jÇ#9~Å‹ßBzıÌ~3„·úñGÏñ.À_X#BÒÇÙİæugC:N¤Oq¹Â to BFTProxy
+Sent back envelope  `ÿú&hˆÀí5¸“`¾ê.A\¤^Ûe¢_çÜ‘)V}Ş|„º>˜c/tÏX˜ƒ­ÉöÈäı'ÊkÓ»_5ê‘cF…ü1%‘¼NıÔAù®â–Mó`Ràã:'jë&âÍõßi2&g8n}Ã@ïŠRuÉt0C²é>8Â¯`¢+íh—×Hå²4Ü>’@ûÂZAĞ»Ç²¼P\µdO3—C§ÿ¶/©.ªLFpó¢7X¨èÊé!Ä:—™Û]šÿÍ•O¨*0"ô'Ì'‘0Ê>´§8Ş›ßø9ü®xè9Øœ’¼¦{³øİ…@+è_%Â‚Â±ª S°Oß¼9Qá0W?T}.÷ˆé$Ë »ÊëR[)¿èZç3Qó˜‚•hâÏEçÁhïÈöù¨¥]ƒUÚF¿Ÿ0­Ïys¢<·Nã¸;ùÙ´KƒXÂÎó Ñ:Aê:Ê–ñWıĞCÌâ¹¦Œÿ·*Ûò· ˆo}Ùf îØuA„ä<X“˜VÌux·’¦oššùRZ±X‹İ1{#éÆí9’óÀÛ¼SaB­ˆwZ¦_k:˜D³´•¨Gõ[×n1µ	.É¬ì–y™šDÑ‡"à¶?GAwiì£rÁı¶‚ê?© ^°g¿–P¤}S…;+7F`¿Y•{…UQId²L§€zÆˆx)…{×ñn¤¦Ä|ÌóO˜EÅG3E-¼([ê3jë„ÈÛâèm!œF"cXïk·„ì.?T_^nÃ B*ùW Å‹¸#44¥Ge1
+›şÓöáØ´	$6*ØŞ¶d–§ç#!ÎèÓ%ç¦=¬„1t”sÉğÉ±™`ƒ}¼[H§êr\“ß«O¸=Ó{îâÎ¢Ûx«Œ«†¿IÓ`–õ7ê ĞÌîş•W"if ›~h¶7ğ= ÚÂÈg‡Ut4W! ş5ì“W…¨¼ÛM
+¡c±±¬ÿ¸Œ'7â`U¯·z:½ö<Ã€G›E›3¢”zB-Öd‹{„ù†ÎyµSÉó{“ÃI‹´•¿|Úé¦E‡u¹´çä3yÔ`=~œd-úÂ—œt,Ô£N f2¯nÚó|µİ@—¹Ğv95…ş >M$UUP";,mrFá>Ê­å›bl‚’pš»\ ØoÌÿK^°¯rPZf	Ö~o0]·Õ'OÍÂ~)õí˜ to BFTProxy
+Sent back envelope ‡?PQò
+ıÚ/ªşÏ'«ÆğCüvFĞ+ôóÙm®73ÿ”TÚxŒ/W4“áı|dÅ±ßòƒfŸc!šÅádF>ùàÉŸÇ§—9kµ<¥@|()¹Ê4|I|£ó›‹_Ö8S{|‡/e®¾üw¡ô5eYé}æ4…úŒTšï;jNE1šr¥\×‡"¿É×H(ñ*¤Ät÷>­f†JÆ†œÜ~©¯²;®àÔ¤E;ïb¸X3®£7T²ç{®qˆÙÊ(Šİ‹‘/_ë­ ş}Ğ¥İãÁ8¥Ş«zâó0ÊÂ›Õ-¡!fÔÆ•zÕ]¾±^SÌÅ¤71U¿&œ(È˜+¡t*!m@ƒ4°ök‰¥¬p\"´ëœwŸKÕ / •-Jõ¦½L7ûò¢€¢oêUÿÃ>çÎ€H@leä:â5‡¬`M[¨ ¤j¸¿é‰ì'MùÑ¤¨¶ãõ]pÚuƒœ<0 +V—à9(6wâfúQ¢‡RÖÂŠ&ğ‘IÑæÎ–$?5;6æñ‡nÑD’öª-.Ûª* «Úªsuå“å»ØÂïŸ„šHé™u¡¸úã—ÑÎ‹…
+Íÿóoƒİ€¯ÜuZ¸ÈyïgÅ*•„oöLaŸGÍÓ‡+«ë«›Àã¨p±¥Yë£¡Ò¿Ğ5óõ6zÆ¯M.H>r s—¬r¶€UD§^ÄX:aVx-Pã«¬=(’rî[/˜æÁg‡Ş,÷ĞRjÖÎ„L*Àşl5b«Ÿøsíè{ªkH9($cE.ó¡Ğr×!KÍpP,#«S¢YÄj,œo 'ÒŸÅˆÚ)'m0&å=e†Ş°ñ¨„.‹ÒXdÈíÄÂiµu|6¿×Ùl÷!£Z,UbB
+|˜š*ÈåäĞ>å¼qòºfqÔ—/Âåò<ù{²‡ø'hu±Vˆä¯mƒ%ÆN*Òü‡51{¶=­6î¹œ¨£PR
+eFo#œaô$±ÛÆóLëYFX‡ú2¦—Øë!$WÛ'Ÿ‚Aô ĞßÃ®·@3¬bË¤Œ©¿HÜ†x” IOfâÌù&áÅ?;6ƒ§¿á¤ğË¢u6£kr¡@G§ºå>©½Ø ì¦¡¶êØbµ+ad.ÙŸ—zft×S‘E…}ÌŞw ©µ8±‚yHHı¦˜t¼8eW#?êHÜÛkğ€iiùUa¦ÀÄmúò­œ™y§¡ to BFTProxy
+Sent back envelope ‹ÃpŸ,„kÛ&3ÚSš¯‘wj}4®lypy‡ëé_?[†³?¥×xıò%çOŒÍÚP[ÔğK‚c¤5­+¶'¤PqGì­sUeéñç>Q.€n
+r'÷a	½wH Â¯QÒÁÈİãw)¼Ü§…ò‰'­…v&¢Ÿ®|=©if½(2YÖ)M¡õ!"Ñ]¤|ÃnäµP3©MŸÍ´'ä(¹*Wâ­Ÿ~RôÔUpÄ6~°à+€ı‘+Z’9Æ¿Z	ËÃŒw™Dáaeü®·àç³Ú6°´×X¾²ûm}O¶J³S"íõCŒcC?’>¯Ç¿¬tc äêÜõ–ÈÒ‘ZRMÀÚOãÖO4,QÂwê‚ÎAeŸ%íïC)äş5§¨&{ÅˆNvI¤£å‚\ÂæEÚ@Âí½XÌ–…€Z&üİ¨ç¶ko\mê-ótâ õYS$wKĞ9YCMĞÌ¢.¦ßöÎ ½OÈŠWXİòó×ÿ¸]fúİhØªÔ·N<6ğt@á¯ÙéÍ¬›v5/aÉá»fÖñ‰uë¥„PB<CÃÚEUó"–ã†ãüÁB_ ”Ş‡E^”¼«j#ğ$ÊòSwğk<ùrŞÅa§[»©sš·åÔ@`5Vn¯lgÃ›ªiÆ\zˆSÒM”`ğÄv,÷[‰ƒIcîã{åìŞëñîo3n¿ì}CQi úššR¨¢ğ°8vUo‰’˜N&î!ÀıUÓ»Y»aLê$$ 3ìGjÊk—®vlÜA6Üî¤a‰ˆÃŠ©]lÁí©L]nAú1s™\É’qİŸÕì(/É„íhZ_Äô76s‚°â1z°Ï·çâ¤åË¹ÖÜygA²ãˆœ) kÖÆ^¶#ÑÔU¸#$Ó	zóQ°T¾Âˆ3“E¢k^-åCÜW¾^± ŸïïïÆÙñÊÓæ7 ‡Œ§Š|s'®‡…=ì5`Sìí£ËÏZœ6lKˆ±b”f)¸ìé4 ‘¥ÔˆÕ´¨÷H«IgñÅ!n«  Do·"`tş›\ @LU	yHJ¬Û‹¯¾éboiï LÍË¾ş…ö¤¢kà›ÌH~òÙÄ7^×®áŞM.'&‡9On^9óÅÒü¡:nü´9ã
+’§Ş2ÆŒ»®•Åz~‰(©ùÜÕHú‘/ to BFTProxy
+Sent back envelope ÊÉ¹FëbZ&‰àš¡Ú2©£s>&Æl–²B¨úÃœÑÌş­ÂÁÉ¨Ó^ÌíÏw”|¥	NdNÄ>ÒLT¨…¡À¶–¦ÊãnFm •*(AzCßıNè, VkúµE@›Îšt$	£ğ¯œR«_?§ß!éŞ“RdÕLã2Ò$gı-×G!±6]ÄËøßw‰kÈ6ûúø1¿è]=#S+ ™A½£…ËD|ómu¸~eebI£,Vìd”@¨‰š÷pWá€Xq´pÑîâr	E’1–£©CÆMbuy±ä¢ä†Â.Cú¹9göËIs¹YÍÜØQÜã¶VRĞÏßï¡·òËS&Â“ßª¾’€ÀØ…ÆÕ$Á-Á/ÃH.ó)b§`¤_A¸àÍM_°9ê/>ö¯ñ¦í§P¼8ôæ«cæ?öTÄÑ‰E¯ñuŞÄò+Ù;½¯šóÁ	—ÀáÚJéÄN\{ë€ƒQ¨bcBá¡‹$W@~üùÕûî¸h‚oˆ­ÙÖ«ômîMjD@ù•G&§qÈL
+"äÿ\„s RÊ«–ÂšTØƒ‹«K¤mUaİ:t8!İ|ÉßmáfC€Ú¯6f;”3ò6•´mÇy_‚åu F¦¿¡É#x6'ôn¿6˜½6ynçT	Õã4F‚Û®ş:wn;È¡pŸÇÏÜÈoĞÓvo!‡ÊH)æ§äııÊŠmÈ',—–3ÜÌ÷ş5¾*?ĞæS¿¾ª¶Ùkï3¾Aƒ[©=ÑzºG8Ğ{tuüÒ–Ùšëí· |õV2·éWüÍt¥7G{v0¹zBïöN™+U6T@>Ñè WjpºGÇp˜$mø†¡¨å¿VÀ£x_M3A¡ W:…>#óè¿øâ”Ìƒ¯ŒˆNî@‘Í"ıQ¿ÁA/âÍGß&ÓòDEIÔ.T/õwÑÄ<¢0™Õ€u«I¥(„“3ã'—zˆ•åÌ¦Ó¿î0Úµÿ¿Úwòê3«.D‹O‰Ù$
+o+ä#hbš6¶.¥“ ö‘Ñ`\}3ÆuŞ#K˜ ‹˜@B’ImMd|jNDÁ›Óáb)%fkÄyÖ™'VÌÁÙ¾õa˜œëóö`HÀÂ¦>Zk\oğc÷ŒÍa÷‰äÿAö“¬ˆRaÆMœZ„W×å*|-Køœâú¨Ğçs­/„Â_:®Q5¡ to BFTProxy
+Sent back envelope ”ç%£äò®[½Tï>ìcZûÙvZªùSV/ŠMõŸä”õıüqInc ÚO&“ë4:†Î˜UH{MPä§¹Mğv¦ŸBt|yÀÑ,ÑÖ¥÷€WxÊhv$©W|z¿Õ9FPJ±?ÇÑÿƒI€¦ã<Nçí
+Öª¯ÅD»…+9idÕŠ¶·¹SwçÓûáÌIğb>^Ük¶tˆn óFEÀcé~Çf.,J³a€üóLP:Dl+²-AæéJù>€Öõ£àj	°õqf²8aG¬W~‹÷ï*ª!İP¨ÖÊBş&á½pNÔoe3Â+¡‚L$ãlçªÍ<x FNtŒeèÚ´K(±H''a[õÃÌÅK»0WàÛ¸ª¦‰‡ì‘ĞÅL­‚3O
+x˜ÁZZÍzÍR\Ú'Ø¯„B€9q9.§6¦OØÏ·GÕ°j7`•<ÒmâÍšøHVø(e6J~o…b=¸Ü°{ÒŸH%æqö»ÄÜªØ`~%›LÜiPÏ;‚D´7‰c
+‡£‹Ee¶ıª´½â‚ÚÚáIˆz„ˆÜŠøØ#–;™sŒİ‰mŠ	&Uu}8%Ó–0Ì:ĞAğà•hğ–.Ëa’°È¸1?l.¯cÀ£g‘+deÚ‚e&ÑÚ-à˜–ŸÄ+p
+¶8)î8âªÔV’ğ)g„Äjã%-‚»P{£HÈë•‰åç8.OBº#§ñ)óÇ×·‹QZM´N&ª§hı.?A6)"<¥p¼<Z8¸¦ë\S×“º Ë½¼ìÓQÓ÷9F&°Ïuš²/ï&5Ã“D9³Œí•6±«n†™]Iø°¦ÈÈôÎĞxnd¹JÿEfD¸ÍT
+Ì“âì¾i|vmë*`
+­o X®	•%\kPêÂ±F@òÙ‚È2}y=_€½[”ë»€=£­Ë°QÙ§z<éÂqlx¤elïù)ş–ÂŸÎÛJ4{úíŒ›ıa±ˆÄÁ
+\&=ëÔ}ÄÂ™©hV¤t)¨cĞ-0Å/+rÖ‘g/°Æ/dZØç•½ì:İNÍ²Œó—16N9
+$ZT;À¡Hi¶‘™ØJÿ|ºØ ]Ú¼Cm»ÏJ¯ÎHSUVÂ’~ÍO“£;Q½y¿búw… =´#©^YâN‹/98ó«éC5¥Èé$/*oïZ V{H to BFTProxy
+Sent back envelope cé“xRgéKZ6EŒçrÆ>(%
+Ïxı5¢	¥©$OmÉ“Ó5“r¸EèMZY8	·óGzAFÿ}lËPÔ
+ÍÀÚ ‚fÏ‘;<ÈÁ¼Ái½L†ğÂ²Ù¿AåökpôåHßÅ0øvÑÄ0l¸Ûñêıõ¥ò¯¨WUL‡Î÷ëz&hƒ÷ÿWo­,O#ãsÉĞ1ê}Â1I°­ÊOâp¾E§Mç¸Ô®"^e²rÇUŞÇNä½2ã±÷WÃ¥[FîÍß\J¶¥5ïøH:àz_ìp¾Ët´Z{FÏ8|:T†{­¸úÅÌ	,¾ä JÕ!ñ¹‡ &d¥sŠÔfë‘Õ.ˆåº.ÔòäÒ£–ÄçNS5ÇKwÛéÊİ·¤ñ°¯†#}.(ãËEİ¯«ŞEÇ³Oó{İÏ9ígÉ^qÕûC1_‚óçtsí{KuâRòÜJßÅ„*(;|
+»'™ÛÔnÒo`í.•‰`9m¦Š®»Éµ‡?Vmİ€; `»_ù%½^¾ml%Ûx¯¨ˆœ:*C/„¬fšPàQïÿÇÌæµãOÔ^^Z[˜K0n1‡½”j"o-åšô‰\yh«REI0]ÛÒc5[Æ“J¼’Œ<-š`~ Å=‘I Ji±ò‹àylqÀÇúz¢%ÎÙÛN{§À…qAÓ'ŞŒÆøSíĞÖd6@|©óï!jâ·$hU˜™]V¬Ò‰W>AGïy‡t»
+Y´ìO<#&ƒ
+¾—ÔmEÌˆ“d„}ÖRMy„½5GâÕOngtUãPpaÃx¼å	(²½Ù/õ-Ë}vÔü\èÀYõåı -z•à*IÓgú÷]òaşñÅLÌß%›ã´Ü
+Ñ¢O©†;¨*:$Öu¢šl‚IBìnkÚyÅP&8&cÀ¦¯H¹”åí«`{wpM¢¤®Ñó¹óø=f¹¯¾±ÖI‰¦j­5|®rl‚š³—‘C|—»EÔ*˜,Ç¼-ç{ï³Ì®qpq³/l ¸¸=ÓƒÃhOÒnqptá5mÚ†˜PlU:è>šaŸ®·hB,µJrõÿX=p–¯è84ÄW\Ş‰ù±^ÏÂ“©Ÿ›d7ZLwŒQÇßŞz]9P«N…™Ì›ubæuHégU‹ts!,r“Ó(±T—ñòáÑCÜO“7ç¸z£J:Ç1ÔDô° to BFTProxy
+Sent back envelope $ÿ^Ó8}ñM¶ÇPÜ¾à¥(—ÈLw„Ô}ÏÿÿGC‰ııZN÷_4:ÙÁ­s`-»B2>Ñãšgòì{
+qñ‰›GÊÂ
+î“˜Sò[¼38Ük¢Ã£×tÁ‚›ıõ" ™å6s]¼Æ_áK´–wğ~ù§I7ö›t]²…
+ôÍãË¦Õ¥¡QAÑïfó”´Ì3`°(ø|åë½lê¾Ôa|U,”lIÄŒz¬ˆ¼JõOÚäıÿaïåƒ]ˆlB”¼ }3P„‰Â;<‹)EóÁÕ-9(6ú»mİšIBw¾¾aU „¦îÕzBŠ¤ˆoê&ª|¾ù¬¶l€Ù+»ø)UÚoÌ7-Ã™mcå&eÓ†u’nlc¢Ñƒ3…6q)İöSëßOàB"N,Ü@Ô-nğEôZXØã–SÑn<*}¸74É(×@o*¤ïöY(éRKÅoCĞceB'ww{ëÚèP…Å¡¿”íËGnŒ÷šËÈ»ÂK!u^rF¿¥nQµÁs¢TZVø]{+èäÕd‘ÚV\jæÖ$‚0û({‘Òˆ¥š2*=ôİ’¹Ï|-‡[ZÌj8½k\á!·‘@ñ‘­<T-ÉÄãty€3ßòk$Çº9\‘Ú¿Ùnm?äÂı­eK |ßÊ)Öuı.»,Q¿Ç®¬-"NÛ7”ã'ƒxîÃyÔIb™ßÚÓ³—;o½œ1äZğä6ÒÃ)~k‘ú—:~NéĞXŠMG ú'V£rÆe4M>q‚E†ƒO#Vh€‘úlß–¢^$F­9…ÿ2);vE#:0…ôè$ñ®ûWÛğÎ¹×õ…ì
+y–µ6cş\Ik(ÅÓstôùz|ÀwÄµ“RZ…‡J]Ø×€0^ ^ôÎ> Œ”ã˜½OøÜÈ9ƒ!;)×N}zû>&íÇ=UR}üãî+ø×BÇ©<­ XÆØË¶Èw?ïm"õÚÖtä 	Í#ˆQ(LïÈÊ¹‹Õ“'$°â†LÕêê½ü¡¡toº°ø¡F&ş²–³,Ìà-hŒ.Ù³úwáäzµ¡åÌ+~bJ¹-…GãB:ÎsE4AâØÊ¹¿¶rä+Gü#³Š„EÿVœD‚í˜…`ÿdƒ#õ&0Ö o8Fb”‹ØŒr9ÃŞ«öÓFëlS to BFTProxy
+Sent back envelope 6.Fq‚‘Ì÷¨Ü‹Ó’Šè’²é=¤¥¯æZæºıÃÄÕ2»¤6¥7[÷ªRäÎì;lı)(ı0›Æ.—€iæEæö<ÃÕü©Ôİà{vCË²@}s…E4$µ²M®ˆŒ¡ñõuH‚ìmZÂ*:[y˜tÈ ±(|µŒ’›²t£’Ã¡qXzdk9Ğkß‘Í¥›•¿¢™­h”%ˆÑGµ$’¢ÂNõ%ËNB­ëAèB¬	­úVâWPÖÁ×e]×gõos)›a€p2òËbÜoS 9dM¡ªp(&}‚7‡À¤: éLµ•,İí‹'0wcº`K!‰±ıQ½Ùg¯/kãİ)$İŸ’C…]Ì²x„Ué4çÏóú°.]„.ÎÊÕ¶¶	äö +ö>êËJL˜““ª•®Ós6¹_£\NÒ#¶ÊÙæ²ášìÊê ÓÛºÔ ûç³™ö‹)ìF1Ÿ³xÚ‹]Ò¨Ó£Iay•×Z«3ğâU#§&^œ<w€O¯”¿Eà{)¶uY³íÂ(mÈùıA-ø«rº-pĞóÄ%'ü%˜scâ[­3’Â¤\¦º!YsÛşP®vç­Çh­ÀECU¾/_Ú.f(°ÂüpÒIs".UÉ	€V=ŞæÂ4Xp…‰Ğ3À¨(5§Q8g²‘§+ÛÛå€f±2¥.z½ØâÊI˜ >q³üoÍÏ¿òùş~î‡$ıõùŸÔv–şGµ³á™já…ˆ	w[Ô4Uq—:ö|öN¢Œ7°G½‘,æA°7#à7¸H˜v&±¹sÌO»b\ÖlÀšMÂ¥sşe£kê_XFÓ¿B‘èï®Bğ@’•e×zg€¯äL'xí¤y’ë‡?Î$7b	Şl¹gö&uÎ¶™øvy2~ÅœM¥rL¸XZÚ W9Nêêİ|§2©ºÕ˜†ê3¼¬Mg·#JºZqÉF„xr>ëÏ‘ğ‚N6¶¢Á?JE¾€-¸Ëİ~&¡Õ•ù¨Ë]ˆŸÛuÛxhÊÓÜ… CÒÈ_–ä‹X‘ƒøÀWË±Ï½äHGx bÊj¬‰äì²q@â]ı›©‰¤]°¿st#,'î‡Æ<­aÍµ·3£e fœqóùmKxà>f2_z æÛôİŠZ­Ó¾j.ëËØí9©ãï£,>|y€5Á}Ó¶_ to BFTProxy
+Sent back envelope ƒ@Øüu¹{ŠÀ¥¯dx	ˆÌA„=s/Êa/XÁ¯UÂ¬ó©Ö'ÙöâOö>Ÿ)[ªš„éÁïJo+r–‰Ø&¤qaŞ»£)Ü1lØWÇ×G)Ã Ü´ø‡MQEã‰"•}Ég¨II+%¿À(Ó+j\–Ì~)¿vù¿ô‡æ|¶Ì©äuÖ>0\w<NU”NîNñQ“*K€tú)™“ÑŒØr‰±>æÃ:^3k©“ l¨j’¥„ZpA8ù¿Aû2×úwĞÑÌÜthª™TŒzşG_Äß–Ÿ¨ Ìâ—¨©0œÔdæğİ‚¢ÿ‘®è¡g@D&ŸİÇ16ñJòØñÓ`÷Û¿ÙÒˆàI¯ÙŒ°ÙTP¥‹éÌ|œ)÷1¨áß2aäqÜyÍépcèï©È<~ròZÛJ’aÖîç¦É>(nµÎËÇ™ïæ”­EÜáu)ùEìuGkÜ²l¥G=¹GŞŠæ'6?=İ#ÅÉRÎ'_{\`òİÿÛFej$û!¿bĞèşìhrâÉÿºs–7YÍè§ºDó0ŒMHbœ’¸
+(| Ñ"Z˜¸dÄ_#:¹Ç-ğæeù-æ­‡ß’bÈº™=3cA]¿Áëş»”'…÷öl[ã‡äPC÷·³ÎLÿù§û®EEN[B-¼X¸RÆ¡Ëa6²•›F¸ŞµÃ¤×úW]{D‰å›[UÅ‰­¯Ê àPŠ^Ë»Ví”.Ç©„¾Ë™9½Ê½±óô¥W¦z0ü /Z	Ã–¡J_Zÿ»fÕxpñG£P3^ëÄyÒPllîi8mÉ¿)b`»0ÿ@±u$NÜØÜ©oê¸DW8óïÓˆnOZŸæì’MS°RÆ.®H*Ç¢ØæØHıİ‡Â+Lf…ò®"öDœÚ]ÑADóè©ù»ÁÜà@6?¹zÿ®`G÷¯9ÊdñO«?¿lØ³‚|5–Lã&¸®0'C¹~ı‡oëÇ—æÉ¨íÖá…ğR2ï9NÒû|²Ää“Œßâ–p„¼£ú6DCå0âŒBœeMQeåL†÷V`™Òı¯rJ"Âí{3AøzU`k\V˜kè@õ¶øŞğ|Pu˜oÌDAASwéJNàvnÏ8ìA”EÌ5€ßÀ!ÄæL‚ìtÅÖ<”—„Æ¿,l¨€ùÀÑè}#ñ¿ç to BFTProxy
+Sent back envelope å™„{õÕø³²35Ê °Øß­À¿ö+çÃÈgHz,™ó0İ”–·?\³şxùw#"1ıİÓ!rÕNÔTIh3{ e½S*ö?zPdG1dıú|29UU¦l¨d{	Õ%^G¢j­È&ª¿ÛÄ_GÒ÷tØ.ş‘G	‘Œİ<î?ËdlrSuEÕ¹]Fè¼”DÀåf´ÜÌ*#Ue[Ì-TË/ÂáYìQ´›‘\¾d<tçÑu:é™W\ö¥Ò¬qÃ~
+wëÆ¯´|Lé:wŠk–Ÿı=€ór2øÏ9Ü‹r¾ë v{n¼ø.Õ¡qË~¤™ú/á®sâ®°ZjÔ‹O'Äè{p`ú©3Œ[¨W‘°£S”prs;tEÃ:
+ReÛª‚¹±Ë"6¿Z¶z„ì4s¦ SÇ;¯:Íğ»}F”¬¨¡Qf3mŠßÁıBì)o8¨‡æ	.Ü	4\k‘ı²¢7²Œ|üÑ®+Ï„Ïbè=½øWªù%báÓ £4ªR€Q]ÀÆ]é®ÊŞ=AäGûIª¨3awÖ&E®~„	¸±u¨îµÂñÒ¢g“cwÒ¯ÉÒOe”s¹ÂVÆí3‰3Áh2Æa·y“ƒ
+Ã ËO‚Íß¥œÛ‰şØ?e$lìr&$DÌïfÉéãôLî–_Ê§° #œ€‡½ôeÙO÷XS	mE™*6nXt1ƒ4}£9XŸ,‚ ”	ùŸÄ1_ùÓÈÂu{{ÕRö^ãÖ@^TÅoí]ºz±‚fC3‹ÈÔ Â((iÃ;
+ÆßÜ'¤p6ËÒ†y*.W—>¸˜ÙjìÅIõ–…©Bê§	¶ĞYàib¤]É)ˆ‹ŒwòÒ±=şR¹HM¿q:T¯}ypîÁîİ¤Ö$pg’öEÉt¹ÕVÜ¥|ÿÍû—~¿¨•¬× Oˆkó´’­^XêwP·ùÃHâU7Ã–Ê#[¥¬	hò¡4xñ¼2sÄëæ”HÉè}Ä¢Âô1ëèq>Ø€ØZ.ßêzJ„ºhØ™®tCŠÓÖDæ–&ì‚A:+Ÿ¸ÃÆ1;7×Ü¸ä¡G1zï´#V$ ‰D¯øåÜ]>94@šæ®-l†À¹†¤xBì¯Ù=NÎşõÕ¥¥î½–•…@“3ãƒ>cævî­/ÅüJ%+ıã™!÷Í™½Ô^K]$2ÀG to BFTProxy
+Sent back envelope @±qˆ‚…!ÔICà„“MäÎ­Ğ§8·sEK®0Ÿ£î¤¤AšlÇLG C€)…\¸½£:
+Ò¶©S¿¦D‘TIÄ I"P”y"S/^Æ¶¢¹”R*zó&CX›¤Æñq”mT2§°ÆĞ³[d•ª–QRò"k¬afdL31£f;ùr,+(S&#Ø ÔuØ®—•dQÜÄR
+ÃBZü[NıWvóyìıfX—‹¹/Ä„Ï-ÚêQ÷ÿ¶ßãòxé0ù¿XÌ©èÍ!Ğ;¿Q=d#bÈ'ÿp¦jc$µ# QH¦X­kÄVFH°®€¤A©m¨b
+Æƒoiç¢ã9ûÊùpcŞ¡î·g¬#MzàÒ\¤ ë­†P-z¤mcûé£Ö$U1=Ìõºk·šÊµ‘öTÃö}iYRµ‚MY£ÏÑ÷nâ°qÙ¹	ÂQö,ÎÈ@òã¬Šmå57a·à>ÏÈn~F[BñhÄêxÉÂx©óO~”|zL˜Ë0-š°|lºÏQ,=°%ß”¯J/…½c¸]5”âàFp6NT®!GiAmé5ZJÍlı¥bôAÒ'XkaÂ&/[Î+ªzd4¥+}ºqJD®N°Ã€ûl¨sO…µ­O"ò&~Ô´r£æbÉ™Ñû	Í#ÒY£#7rlI±Â¹
+XÖ±ox!¡ªiÒ'w)ìjXb\êC†ÁöÅ¿N/6X¹Yõôs~K‡™üéh·cúäªÔ££ãÛ€ÆOšˆ°µ‚¸°¿£$pó{šÂpô}X/@H^=Ó¯üíç{íÓZ9:âÂûÒA°JiÍaZ8C¬l}cB@ŞE°‰tŠÜÅÈqvBĞÈåÛTÌì<?Gõp¥>hv¬z]€zFWşÀÀ,VtÅù(³Èçƒ°œÓ¤à”ÆlŸ¥5s£º¾óÜKÍ^ÍAÏA)­»øTôºÛ|Xåu–x Ä]¿¢øq$¹$uKƒâÏ_c/Ì®M×3ÄüŠ¨µK³¿Êà,¾\Ù[‚˜Y‰S€`%ü“>ĞÖÑúSjöò¾,tR¤~ºK,Š4–ò…ŞƒÎùıÁ%0CR›Nš9¥Zr0™šE¼5šÛOºÖvÁ¡²©%–Ş*”æ%éß¥€N¤‘uÓ¡‰Elş±ªƒé%qDÑ&Üp®•œó%£“Ò¶õÈ‘+Å to BFTProxy
+Sent back envelope :uÑ°ÄznQ,.3…ıù°&+ãD(~ŠÒş	+—D’øBµ“×!Äöû ï‰®ì9GCëk´" R”“·ZßîÀ&ˆfI&>\-'¨FùA¡5Â-uRAU|(¾‹;{ĞV0#TRÏ@}×ÒÇ„Kg4·Cƒ6å?¡óÊUH³k›y÷%(M)ª¤÷§yê»|TĞn_ÚC±ÇĞ-+tƒR»†¥+Óa‚^k¬ĞÇî¥]ÂÓ¢â¤êK\3‡âª6­z }O§?z&;»nĞ®ÑâH|Á•kÁˆ¾ ”ñrÿa@	Vòm>gÀ¿ŒlÄ+‘¾Y J¿ra,gÂ]ÏŸª  6Áõ}3GZ]ÂÇ¡ÿ£ôã,Ş÷£‹ƒ¬-BËƒ¤I@w >èú¦è>‚4ŠTÀıÙ ¬‚MÌvì€X*ø£Eı,²Â«åk_'dÎ™Nu…“¶ŒñÆWªÇ úİ,ı‹€·’±=Ëó…‹KcánÈfNıOÜ÷¶«)j@8¤‡‘nô”yJş¨
+¦¼PÜ®òÜ ‰1
+,¥+oín"	öSìù>|ñÍáŠßYàià%;İ5ë
+Ÿç]ÁšÖ)E­à8µ8T¥Ç¥yfGo·C¸€U×ŒªïıCÛœ|fró'h¤.<Ü`á*iw~C Çaõ®B~‡È´’©k,˜AbUæ$ÕÙ©±‡4(²Rx´­)Öd¢¹]€o²˜Ù7˜ÇJq«ëää¢sm&KPºçjÑnäñ‰Y”Ş³7HèxT]ÁÁwì&ìÍ¸Ïv„qóÖéÙÔ›dîì‘C=È_Éş×%yk.PCõ#ƒ* Ö‹ƒ¶B^Ö,Á¶w‚ô/·§Ã‘F¹Ã/1£ÀÚVİ¬5^Eî´6«IsÑ‚wâ‰B8 ‚œ£³ŸĞ¸„´¯Z	(!d4']²mÆU”<“å1¢šØ\»ÅXSeÇy>Ò¼¿°w@Iòãyœ³¡4¤0ò^âäRÒ$7 ¿ı¹I"V5A>cä>¶Tj¬Àtæ\[NÁYóŒQœ.£Áà‘~ÇllTuõH=Ä£#˜Ï–û‘ÈjxJ3`2FIƒ¥[_Ğwî’%ÒS˜/çR2âm_ç"$üVÚòD1K{Y˜Ä	èQ[ÕPD_Â€Mû‚àIPÔı¤9<ÒPŞ#®>ºÇ±‡ to BFTProxy
+Sent back envelope IOŠ†Ü!Œ ÃÜN|şlñåfÏ(n;v…?İ¥G² ‡~şwC~]1ÿ€¿Ÿûãc”1ÇÕ‘ß‡õ¸$mèg°DÛ¿ÀéPv`a$îz7g1v8r±E›Í Í²*0ˆGÓUk¯\öşÂPº›áPÆQ,+s‹ÈCŞ4q•R{ö>1–QcÅz(YŸÕ„ë´Õ{µ}oŒ qÌĞC+#–ûÍ1)FÆZCeİ–¬P úÊc|ÖÂÉ·[¢3ØÍV›ä–gTçA>mœ6¦Ú´åÿJ®eä@‘4n!^QéBÍ”ÔÎÑ‘Ğ³€yñHğ\ÄÓ4‹¸µyIênt.‡J›9ãHÒœwMîcú¸¹Vå¤dz¼Úbêo~áiG‚­™‰{–°ıßˆ×ÒPY¤Ÿ8ÄÉÖ“{=\PBUm Cdj3{;×³V–p¬îqóÔ¬Ù{‚Ú£‰"R¹¿ŒSÙ[É{NŒÁÑ›gøıG©=ÄÛ‡nXèÓéQİ_q¾•?kÁ	}­¸Û‡¨lS·6ˆÀ¡“«Jrq/ hÏX”VÓ€?ŞkÁ½!ş2=§”şÕH`©i—İ¹;ÎRcsô'‰ìÿL¨ô!¬vRˆúï¼ÔÌ¡€…-LfôİĞù¤i°	Aıg”‘xªoÌcÎÛo/Ş¢4v6¬ÈòÛ&^Pv¹Nâß•S€Õü¦µ›94_'OË#ĞûlÌi<SÏ¿N|<æiM½Srá+›ÕıÄÚ+ÇÙİàwœßR×­ñ„E.Úà¨SÜš„'î³· Ccf×rÎğ®$á›¢ñ?ÎÁ0}w›[¸ıEn‰í8—ä¼›+B$£vf+n‰šzUû²µáÊÂ±œxZÇU%Lp^UÉ­5Ï%P›ËfU%5Ë¶‹×RbîVô
+—şi£öŒƒ>¼õğ\ò‘çÿà?bÿÃŸŒŠ2äÆÑ—vBü Ì
+¶Û÷°Œ!fşÅ×Ô¿š‹q-Íğ,Î5Û* GˆShùœ,1Í˜ÉšÁÚ®*ÿÓ¾ä¹j2*Ğ#Näí¢ñ!È=Âa+cÇßËöİË–£°!*'š›–(§ùudÅã2Œb]¢¶’rL”¥;*d#~ƒ»ŞÌïAåöôÃÀZ=ôíIËgı˜Ì-]Ã Í\Qâ‘ÓµÑùcºŸ\1;e‡ to BFTProxy
+Sent back envelope ›ßr(PËúzáXç‚oõv ²²…¸Õóı•‡b›úH·¯—50#è[C¿¤LMĞ&Ìkó~À½#o©Wïs ÄÇÂÚD]X´ vé}G’aôwGÛĞº*„c^æÃ	S±gjU†	¾Eg¥×Š¢ƒ&jƒEéU}rü"•D8ôQÇHQ(â´)šd§Ò.Eb	‰÷aïfî’1ı”¯ÿ×¿hïÓ”Ai¡ZQŒú‚Vh{¤ÇhR´Y·•èÀÓ-sÉ¿‰¹€T:ù‚_å%Í1Fw¤=ş/ÄL“ä»èÊ'¦sÒÙÛ—Åó®ù¥£ù‚)uº˜9|Ê–ÎÛŞ'oéI›Üg‘P€¯Ry¤L=Â°ÁtqÌµ„]£_ß²Ó0ô<s/ª$¬4 V¡„Êà¦‘Á~?­¥%0Z&T‚Ô¸V_E}ÛNêâ0®¥û•³·”îòÃ–[NúÛß‡ÖaÆ*sÀˆ§îß¹¿;*E ŞÌí®Ítãåigs6Cô–Ù<Õ^Ç^Ú{®Óˆ(Ñ@ş9Kñ@Ç=]ĞkmDúõ+" kË1å€çåÈ‰¾ÁlÜ«5İv…d‚#¯‰âM>%Nşõ“ÛÏçÓ	 ¾tÌšdë
+t–f4å–G3=ì"yŞrpgøgœç%qEtÛìjn™Õ“4è-oÀëß•ºş
+‰ä÷çÇĞ¾S>\vÌÏ$sDT`ıaú2”„à=§\ã–ëxs×ñ§øÜ×t¾¶ä»ÏÆğ°cQAcÒÂîGß%H‘¿¤\İ¥Tá‰Œ5N·¹Ïb(W§óÉ+0ê…Tv1V/†9„mÇÑ§£\±£Õƒ2nú¶˜u&4PóƒÍ5‰(8œO<!@É27¦'Ü‡@…íØÉR[M–.·p/Â£ûÍŸKü¤Ë«"Ö±²Uã80Iè4T^±Òó†‡Zê+İ<0mù†x*¼9WøÚ‡Ø¶OÎl´{Zí€–¿\Å}ÑS6²›2|e[ áß«qO0®â­ÿÇs¡ùÌà˜Ãò¯@å ±=|²&¹©)¬ Á(Ô‡îq1²°ÜœqfËÒ~¬¥»ëæ¡-éiEÄ¢ÁAÄ™·ÓÀ¾‘ª‘â“ç±8ÂêKXáÕşyàëEõ!ôÎÃäRñûX˜ˆÒ@}%ÆÓ~8û›fg—¼LU4Îßï to BFTProxy
+Sent back envelope R{N±‡ã˜à{ØFN­À‰ÂÖYÔç=l•~@CíL™JjÀ×¢şø¼ÒTßöÌ2o¯À´†ºi»ÛĞ­–xN9áûïÕÁH°õ¬m ÂFä¶*Ÿğ&Îi4Ö’-DG»dpÆƒMyŠoÚeı(DaÎ¨³¾İÓd¼Â5êñ+5&q¹áZ¥Ş¹F³„=SÈ°oÁBß¼çasÛë¶¶Göâôû¢£Óûğ·×¾3ãƒ?¥ë*õ‰¤$ø#T9Ñş¡·RDÁo ×“êÅ°%÷ÅX­+}~EÚR1hdªÌL)hƒºĞ“ÅxvdÌw}ÜĞ@i¦â¢ç-ô,ûAcõÆ?<ÃB Gc´**šuÀd+Y©/“Ô§éåš ÓgÈJı	 5jcê»xÌ‹<˜¸ı'MËŞ&êÛƒ’é×"AL0-IOü—Sf.ÔŞ=)?wOi>ùQ½D?léV²¿¬!Œm¤¤ïVæU=p›ëü7ÖNFÇ‘˜`7Öµ=v8“rKÀp1S8KWU|º…¼Î¹¤>^u_­ºÏ}£0ÑÈÍ?Ñµu`tîX°<ÁûÚ<?±Ÿ¾‘…®+ïƒ‡Äú]I±viKÿY8ÍğªÈ—sŸ²¾¶¨§`‚ bæ=ñĞê¼D¯ºÁ#¬760s1Åu¶Ñ.¿´òãŞ˜I›Úş±•øí
+Ğ©ş
+jÁwlÿ'7Âğ_˜'ÀòÙ=2»¢eë^ÏaÒi[3Òa8EØÆ!ˆ‡ı]¶z~	a_CÿŠš1İNTßu™Q6_íU5EÚÅ`Z³,ÚÑ
+›êÉt‹7Ó§ğ{•„œbpQ‰wÊ¾½Ñ«ô¾«…‡a]†·á}A\]ŸœlÇ®U* ®8§‡ˆÿ9\œ~*ñÓI3ÎÏ¨ÒXš±×öw%úi[m`Ò‘ ¨ôµ±"÷,Z‰”Ì´r3œaw£í¿\± `Ù¿’ZMÛÎ{à¦QíO)9ï‰ŠyÅ”ä~&nWÙhß½+_9ŠE 0Òø·´ca?{ğ×xO:c4?`ú:üµª”ÆáÖd4šÉã~ùÔÁ¢ëG~V00³k>2ÚOÊ¥ıµé9ê‰®ö€>ò4Ë+PIæÁÇ;ÿ\ŠU:â»‹5\Ó#³{ğwd!K¹ìÎ@ÌjÙ¦)8€ †Úmä75êó;2­ to BFTProxy
+[0] 16 distinct tx synced and 0 tx left in the pool.
+timestampE (2, 1554830644.277233)
+Sent back envelope öMÀ]ïjFşÉkÎUB1D˜<E–ë]ú%<VpŠÛ²IÁD—™€É Rï>]´Ù/aXî†@§†ì{ÄG«¶§G+sxËz¯tåz¢Ë4vh·Æ ŒıåğPHõaR¨Û¡ĞÚ%¨¨	"­“8Àm:rÕ¼#šÒ¥çã:3°\Cv©,$t®À& )sÇÈ qõf5ìá£w³à/ç‚‘nÕÙ(…}y§•–øZS±üµİX{ßæß„«Ù(õj^jX²$287ï¤¡ÄD­¨CÍiİ‚Ïø™wÎ¸ş,VC«Ç›$-®±oQ)¦"E,•õ€sF¯S—*ÜşRˆÉo;lëô°¤õ¤‚&íH#…™ôèìĞ`†gÅ‡@—Ÿ¿ÁÔ
+:?E§2Î@1]B&â,÷x1ËVLAÌçBÚc61Œ¹¦³›Ş4&ë;g¨Ãó.jÊ€ÔyzÄí:iÓb2UéÉÊPŸ2Û +“àNÌİNÆ€J/˜À¿¬¤`ñ‡üI¼ûa’e‡$’@à(X/,é`dşgA%œÏB °'”L	×şšÃO'üqİ²	I0QéÄñàjï^¼ÀÚq/ß¶’Äf<ı´şåí1hM/®92Z#¹n+íü¿úº3U™×r„à¯W×
+ º†~C’Ì:™DÊÒáêõøBzÛ¤d*s—½Dáª|NzÅ+øŞü7æÒÂ_èîYÍ¾ü$óZ>M3O\ğd›{™Ë›hZ— Ğ
+¯OğKãìØÊÒ?d¹×Li”¹ªxU}”v]QÌëƒ¯$éÍ¹¤Ëêê÷øPmDFŒ~éÙ$Ã«tHof„]†Q¬®üÍuìëQM~_dÓÁè»¯ŒõÂÉéö"øŠbÍ×ØØá„oê&Kk÷_ïá ;¼ëˆtDÀÄ ÑÃ'“JÔÜº=23"¥FM+A£o½†N–]h	ìmİ‰ğ-®¯„ç·ğˆ•µÂÄt“Ò¢÷Vù"
+±ã\ùˆ°“µ’¶ß+ø—ˆETYšåª¡˜i	¿EÖ4…8"/«úKE£zê@Öp2´ÚÒöN‰Ú¦Yä1Hß±Ñ$ÑÑi;ZÂœ2óz¨#kÔÆ¦ÿg2nÎsXCL>|jÇ#9~Å‹ßBzıÌ~3„·úñGÏñ.À_X#BÒÇÙİæugC:N¤Oq¹Â to BFTProxy
+Sent back envelope  `ÿú&hˆÀí5¸“`¾ê.A\¤^Ûe¢_çÜ‘)V}Ş|„º>˜c/tÏX˜ƒ­ÉöÈäı'ÊkÓ»_5ê‘cF…ü1%‘¼NıÔAù®â–Mó`Ràã:'jë&âÍõßi2&g8n}Ã@ïŠRuÉt0C²é>8Â¯`¢+íh—×Hå²4Ü>’@ûÂZAĞ»Ç²¼P\µdO3—C§ÿ¶/©.ªLFpó¢7X¨èÊé!Ä:—™Û]šÿÍ•O¨*0"ô'Ì'‘0Ê>´§8Ş›ßø9ü®xè9Øœ’¼¦{³øİ…@+è_%Â‚Â±ª S°Oß¼9Qá0W?T}.÷ˆé$Ë »ÊëR[)¿èZç3Qó˜‚•hâÏEçÁhïÈöù¨¥]ƒUÚF¿Ÿ0­Ïys¢<·Nã¸;ùÙ´KƒXÂÎó Ñ:Aê:Ê–ñWıĞCÌâ¹¦Œÿ·*Ûò· ˆo}Ùf îØuA„ä<X“˜VÌux·’¦oššùRZ±X‹İ1{#éÆí9’óÀÛ¼SaB­ˆwZ¦_k:˜D³´•¨Gõ[×n1µ	.É¬ì–y™šDÑ‡"à¶?GAwiì£rÁı¶‚ê?© ^°g¿–P¤}S…;+7F`¿Y•{…UQId²L§€zÆˆx)…{×ñn¤¦Ä|ÌóO˜EÅG3E-¼([ê3jë„ÈÛâèm!œF"cXïk·„ì.?T_^nÃ B*ùW Å‹¸#44¥Ge1
+›şÓöáØ´	$6*ØŞ¶d–§ç#!ÎèÓ%ç¦=¬„1t”sÉğÉ±™`ƒ}¼[H§êr\“ß«O¸=Ó{îâÎ¢Ûx«Œ«†¿IÓ`–õ7ê ĞÌîş•W"if ›~h¶7ğ= ÚÂÈg‡Ut4W! ş5ì“W…¨¼ÛM
+¡c±±¬ÿ¸Œ'7â`U¯·z:½ö<Ã€G›E›3¢”zB-Öd‹{„ù†ÎyµSÉó{“ÃI‹´•¿|Úé¦E‡u¹´çä3yÔ`=~œd-úÂ—œt,Ô£N f2¯nÚó|µİ@—¹Ğv95…ş >M$UUP";,mrFá>Ê­å›bl‚’pš»\ ØoÌÿK^°¯rPZf	Ö~o0]·Õ'OÍÂ~)õí˜ to BFTProxy
+Sent back envelope ‡?PQò
+ıÚ/ªşÏ'«ÆğCüvFĞ+ôóÙm®73ÿ”TÚxŒ/W4“áı|dÅ±ßòƒfŸc!šÅádF>ùàÉŸÇ§—9kµ<¥@|()¹Ê4|I|£ó›‹_Ö8S{|‡/e®¾üw¡ô5eYé}æ4…úŒTšï;jNE1šr¥\×‡"¿É×H(ñ*¤Ät÷>­f†JÆ†œÜ~©¯²;®àÔ¤E;ïb¸X3®£7T²ç{®qˆÙÊ(Šİ‹‘/_ë­ ş}Ğ¥İãÁ8¥Ş«zâó0ÊÂ›Õ-¡!fÔÆ•zÕ]¾±^SÌÅ¤71U¿&œ(È˜+¡t*!m@ƒ4°ök‰¥¬p\"´ëœwŸKÕ / •-Jõ¦½L7ûò¢€¢oêUÿÃ>çÎ€H@leä:â5‡¬`M[¨ ¤j¸¿é‰ì'MùÑ¤¨¶ãõ]pÚuƒœ<0 +V—à9(6wâfúQ¢‡RÖÂŠ&ğ‘IÑæÎ–$?5;6æñ‡nÑD’öª-.Ûª* «Úªsuå“å»ØÂïŸ„šHé™u¡¸úã—ÑÎ‹…
+Íÿóoƒİ€¯ÜuZ¸ÈyïgÅ*•„oöLaŸGÍÓ‡+«ë«›Àã¨p±¥Yë£¡Ò¿Ğ5óõ6zÆ¯M.H>r s—¬r¶€UD§^ÄX:aVx-Pã«¬=(’rî[/˜æÁg‡Ş,÷ĞRjÖÎ„L*Àşl5b«Ÿøsíè{ªkH9($cE.ó¡Ğr×!KÍpP,#«S¢YÄj,œo 'ÒŸÅˆÚ)'m0&å=e†Ş°ñ¨„.‹ÒXdÈíÄÂiµu|6¿×Ùl÷!£Z,UbB
+|˜š*ÈåäĞ>å¼qòºfqÔ—/Âåò<ù{²‡ø'hu±Vˆä¯mƒ%ÆN*Òü‡51{¶=­6î¹œ¨£PR
+eFo#œaô$±ÛÆóLëYFX‡ú2¦—Øë!$WÛ'Ÿ‚Aô ĞßÃ®·@3¬bË¤Œ©¿HÜ†x” IOfâÌù&áÅ?;6ƒ§¿á¤ğË¢u6£kr¡@G§ºå>©½Ø ì¦¡¶êØbµ+ad.ÙŸ—zft×S‘E…}ÌŞw ©µ8±‚yHHı¦˜t¼8eW#?êHÜÛkğ€iiùUa¦ÀÄmúò­œ™y§¡ to BFTProxy
+Sent back envelope ‹ÃpŸ,„kÛ&3ÚSš¯‘wj}4®lypy‡ëé_?[†³?¥×xıò%çOŒÍÚP[ÔğK‚c¤5­+¶'¤PqGì­sUeéñç>Q.€n
+r'÷a	½wH Â¯QÒÁÈİãw)¼Ü§…ò‰'­…v&¢Ÿ®|=©if½(2YÖ)M¡õ!"Ñ]¤|ÃnäµP3©MŸÍ´'ä(¹*Wâ­Ÿ~RôÔUpÄ6~°à+€ı‘+Z’9Æ¿Z	ËÃŒw™Dáaeü®·àç³Ú6°´×X¾²ûm}O¶J³S"íõCŒcC?’>¯Ç¿¬tc äêÜõ–ÈÒ‘ZRMÀÚOãÖO4,QÂwê‚ÎAeŸ%íïC)äş5§¨&{ÅˆNvI¤£å‚\ÂæEÚ@Âí½XÌ–…€Z&üİ¨ç¶ko\mê-ótâ õYS$wKĞ9YCMĞÌ¢.¦ßöÎ ½OÈŠWXİòó×ÿ¸]fúİhØªÔ·N<6ğt@á¯ÙéÍ¬›v5/aÉá»fÖñ‰uë¥„PB<CÃÚEUó"–ã†ãüÁB_ ”Ş‡E^”¼«j#ğ$ÊòSwğk<ùrŞÅa§[»©sš·åÔ@`5Vn¯lgÃ›ªiÆ\zˆSÒM”`ğÄv,÷[‰ƒIcîã{åìŞëñîo3n¿ì}CQi úššR¨¢ğ°8vUo‰’˜N&î!ÀıUÓ»Y»aLê$$ 3ìGjÊk—®vlÜA6Üî¤a‰ˆÃŠ©]lÁí©L]nAú1s™\É’qİŸÕì(/É„íhZ_Äô76s‚°â1z°Ï·çâ¤åË¹ÖÜygA²ãˆœ) kÖÆ^¶#ÑÔU¸#$Ó	zóQ°T¾Âˆ3“E¢k^-åCÜW¾^± ŸïïïÆÙñÊÓæ7 ‡Œ§Š|s'®‡…=ì5`Sìí£ËÏZœ6lKˆ±b”f)¸ìé4 ‘¥ÔˆÕ´¨÷H«IgñÅ!n«  Do·"`tş›\ @LU	yHJ¬Û‹¯¾éboiï LÍË¾ş…ö¤¢kà›ÌH~òÙÄ7^×®áŞM.'&‡9On^9óÅÒü¡:nü´9ã
+’§Ş2ÆŒ»®•Åz~‰(©ùÜÕHú‘/ to BFTProxy
+Sent back envelope ÊÉ¹FëbZ&‰àš¡Ú2©£s>&Æl–²B¨úÃœÑÌş­ÂÁÉ¨Ó^ÌíÏw”|¥	NdNÄ>ÒLT¨…¡À¶–¦ÊãnFm •*(AzCßıNè, VkúµE@›Îšt$	£ğ¯œR«_?§ß!éŞ“RdÕLã2Ò$gı-×G!±6]ÄËøßw‰kÈ6ûúø1¿è]=#S+ ™A½£…ËD|ómu¸~eebI£,Vìd”@¨‰š÷pWá€Xq´pÑîâr	E’1–£©CÆMbuy±ä¢ä†Â.Cú¹9göËIs¹YÍÜØQÜã¶VRĞÏßï¡·òËS&Â“ßª¾’€ÀØ…ÆÕ$Á-Á/ÃH.ó)b§`¤_A¸àÍM_°9ê/>ö¯ñ¦í§P¼8ôæ«cæ?öTÄÑ‰E¯ñuŞÄò+Ù;½¯šóÁ	—ÀáÚJéÄN\{ë€ƒQ¨bcBá¡‹$W@~üùÕûî¸h‚oˆ­ÙÖ«ômîMjD@ù•G&§qÈL
+"äÿ\„s RÊ«–ÂšTØƒ‹«K¤mUaİ:t8!İ|ÉßmáfC€Ú¯6f;”3ò6•´mÇy_‚åu F¦¿¡É#x6'ôn¿6˜½6ynçT	Õã4F‚Û®ş:wn;È¡pŸÇÏÜÈoĞÓvo!‡ÊH)æ§äııÊŠmÈ',—–3ÜÌ÷ş5¾*?ĞæS¿¾ª¶Ùkï3¾Aƒ[©=ÑzºG8Ğ{tuüÒ–Ùšëí· |õV2·éWüÍt¥7G{v0¹zBïöN™+U6T@>Ñè WjpºGÇp˜$mø†¡¨å¿VÀ£x_M3A¡ W:…>#óè¿øâ”Ìƒ¯ŒˆNî@‘Í"ıQ¿ÁA/âÍGß&ÓòDEIÔ.T/õwÑÄ<¢0™Õ€u«I¥(„“3ã'—zˆ•åÌ¦Ó¿î0Úµÿ¿Úwòê3«.D‹O‰Ù$
+o+ä#hbš6¶.¥“ ö‘Ñ`\}3ÆuŞ#K˜ ‹˜@B’ImMd|jNDÁ›Óáb)%fkÄyÖ™'VÌÁÙ¾õa˜œëóö`HÀÂ¦>Zk\oğc÷ŒÍa÷‰äÿAö“¬ˆRaÆMœZ„W×å*|-Køœâú¨Ğçs­/„Â_:®Q5¡ to BFTProxy
+Sent back envelope ”ç%£äò®[½Tï>ìcZûÙvZªùSV/ŠMõŸä”õıüqInc ÚO&“ë4:†Î˜UH{MPä§¹Mğv¦ŸBt|yÀÑ,ÑÖ¥÷€WxÊhv$©W|z¿Õ9FPJ±?ÇÑÿƒI€¦ã<Nçí
+Öª¯ÅD»…+9idÕŠ¶·¹SwçÓûáÌIğb>^Ük¶tˆn óFEÀcé~Çf.,J³a€üóLP:Dl+²-AæéJù>€Öõ£àj	°õqf²8aG¬W~‹÷ï*ª!İP¨ÖÊBş&á½pNÔoe3Â+¡‚L$ãlçªÍ<x FNtŒeèÚ´K(±H''a[õÃÌÅK»0WàÛ¸ª¦‰‡ì‘ĞÅL­‚3O
+x˜ÁZZÍzÍR\Ú'Ø¯„B€9q9.§6¦OØÏ·GÕ°j7`•<ÒmâÍšøHVø(e6J~o…b=¸Ü°{ÒŸH%æqö»ÄÜªØ`~%›LÜiPÏ;‚D´7‰c
+‡£‹Ee¶ıª´½â‚ÚÚáIˆz„ˆÜŠøØ#–;™sŒİ‰mŠ	&Uu}8%Ó–0Ì:ĞAğà•hğ–.Ëa’°È¸1?l.¯cÀ£g‘+deÚ‚e&ÑÚ-à˜–ŸÄ+p
+¶8)î8âªÔV’ğ)g„Äjã%-‚»P{£HÈë•‰åç8.OBº#§ñ)óÇ×·‹QZM´N&ª§hı.?A6)"<¥p¼<Z8¸¦ë\S×“º Ë½¼ìÓQÓ÷9F&°Ïuš²/ï&5Ã“D9³Œí•6±«n†™]Iø°¦ÈÈôÎĞxnd¹JÿEfD¸ÍT
+Ì“âì¾i|vmë*`
+­o X®	•%\kPêÂ±F@òÙ‚È2}y=_€½[”ë»€=£­Ë°QÙ§z<éÂqlx¤elïù)ş–ÂŸÎÛJ4{úíŒ›ıa±ˆÄÁ
+\&=ëÔ}ÄÂ™©hV¤t)¨cĞ-0Å/+rÖ‘g/°Æ/dZØç•½ì:İNÍ²Œó—16N9
+$ZT;À¡Hi¶‘™ØJÿ|ºØ ]Ú¼Cm»ÏJ¯ÎHSUVÂ’~ÍO“£;Q½y¿búw… =´#©^YâN‹/98ó«éC5¥Èé$/*oïZ V{H to BFTProxy
+Sent back envelope cé“xRgéKZ6EŒçrÆ>(%
+Ïxı5¢	¥©$OmÉ“Ó5“r¸EèMZY8	·óGzAFÿ}lËPÔ
+ÍÀÚ ‚fÏ‘;<ÈÁ¼Ái½L†ğÂ²Ù¿AåökpôåHßÅ0øvÑÄ0l¸Ûñêıõ¥ò¯¨WUL‡Î÷ëz&hƒ÷ÿWo­,O#ãsÉĞ1ê}Â1I°­ÊOâp¾E§Mç¸Ô®"^e²rÇUŞÇNä½2ã±÷WÃ¥[FîÍß\J¶¥5ïøH:àz_ìp¾Ët´Z{FÏ8|:T†{­¸úÅÌ	,¾ä JÕ!ñ¹‡ &d¥sŠÔfë‘Õ.ˆåº.ÔòäÒ£–ÄçNS5ÇKwÛéÊİ·¤ñ°¯†#}.(ãËEİ¯«ŞEÇ³Oó{İÏ9ígÉ^qÕûC1_‚óçtsí{KuâRòÜJßÅ„*(;|
+»'™ÛÔnÒo`í.•‰`9m¦Š®»Éµ‡?Vmİ€; `»_ù%½^¾ml%Ûx¯¨ˆœ:*C/„¬fšPàQïÿÇÌæµãOÔ^^Z[˜K0n1‡½”j"o-åšô‰\yh«REI0]ÛÒc5[Æ“J¼’Œ<-š`~ Å=‘I Ji±ò‹àylqÀÇúz¢%ÎÙÛN{§À…qAÓ'ŞŒÆøSíĞÖd6@|©óï!jâ·$hU˜™]V¬Ò‰W>AGïy‡t»
+Y´ìO<#&ƒ
+¾—ÔmEÌˆ“d„}ÖRMy„½5GâÕOngtUãPpaÃx¼å	(²½Ù/õ-Ë}vÔü\èÀYõåı -z•à*IÓgú÷]òaşñÅLÌß%›ã´Ü
+Ñ¢O©†;¨*:$Öu¢šl‚IBìnkÚyÅP&8&cÀ¦¯H¹”åí«`{wpM¢¤®Ñó¹óø=f¹¯¾±ÖI‰¦j­5|®rl‚š³—‘C|—»EÔ*˜,Ç¼-ç{ï³Ì®qpq³/l ¸¸=ÓƒÃhOÒnqptá5mÚ†˜PlU:è>šaŸ®·hB,µJrõÿX=p–¯è84ÄW\Ş‰ù±^ÏÂ“©Ÿ›d7ZLwŒQÇßŞz]9P«N…™Ì›ubæuHégU‹ts!,r“Ó(±T—ñòáÑCÜO“7ç¸z£J:Ç1ÔDô° to BFTProxy
+Sent back envelope $ÿ^Ó8}ñM¶ÇPÜ¾à¥(—ÈLw„Ô}ÏÿÿGC‰ııZN÷_4:ÙÁ­s`-»B2>Ñãšgòì{
+qñ‰›GÊÂ
+î“˜Sò[¼38Ük¢Ã£×tÁ‚›ıõ" ™å6s]¼Æ_áK´–wğ~ù§I7ö›t]²…
+ôÍãË¦Õ¥¡QAÑïfó”´Ì3`°(ø|åë½lê¾Ôa|U,”lIÄŒz¬ˆ¼JõOÚäıÿaïåƒ]ˆlB”¼ }3P„‰Â;<‹)EóÁÕ-9(6ú»mİšIBw¾¾aU „¦îÕzBŠ¤ˆoê&ª|¾ù¬¶l€Ù+»ø)UÚoÌ7-Ã™mcå&eÓ†u’nlc¢Ñƒ3…6q)İöSëßOàB"N,Ü@Ô-nğEôZXØã–SÑn<*}¸74É(×@o*¤ïöY(éRKÅoCĞceB'ww{ëÚèP…Å¡¿”íËGnŒ÷šËÈ»ÂK!u^rF¿¥nQµÁs¢TZVø]{+èäÕd‘ÚV\jæÖ$‚0û({‘Òˆ¥š2*=ôİ’¹Ï|-‡[ZÌj8½k\á!·‘@ñ‘­<T-ÉÄãty€3ßòk$Çº9\‘Ú¿Ùnm?äÂı­eK |ßÊ)Öuı.»,Q¿Ç®¬-"NÛ7”ã'ƒxîÃyÔIb™ßÚÓ³—;o½œ1äZğä6ÒÃ)~k‘ú—:~NéĞXŠMG ú'V£rÆe4M>q‚E†ƒO#Vh€‘úlß–¢^$F­9…ÿ2);vE#:0…ôè$ñ®ûWÛğÎ¹×õ…ì
+y–µ6cş\Ik(ÅÓstôùz|ÀwÄµ“RZ…‡J]Ø×€0^ ^ôÎ> Œ”ã˜½OøÜÈ9ƒ!;)×N}zû>&íÇ=UR}üãî+ø×BÇ©<­ XÆØË¶Èw?ïm"õÚÖtä 	Í#ˆQ(LïÈÊ¹‹Õ“'$°â†LÕêê½ü¡¡toº°ø¡F&ş²–³,Ìà-hŒ.Ù³úwáäzµ¡åÌ+~bJ¹-…GãB:ÎsE4AâØÊ¹¿¶rä+Gü#³Š„EÿVœD‚í˜…`ÿdƒ#õ&0Ö o8Fb”‹ØŒr9ÃŞ«öÓFëlS to BFTProxy
+Sent back envelope 6.Fq‚‘Ì÷¨Ü‹Ó’Šè’²é=¤¥¯æZæºıÃÄÕ2»¤6¥7[÷ªRäÎì;lı)(ı0›Æ.—€iæEæö<ÃÕü©Ôİà{vCË²@}s…E4$µ²M®ˆŒ¡ñõuH‚ìmZÂ*:[y˜tÈ ±(|µŒ’›²t£’Ã¡qXzdk9Ğkß‘Í¥›•¿¢™­h”%ˆÑGµ$’¢ÂNõ%ËNB­ëAèB¬	­úVâWPÖÁ×e]×gõos)›a€p2òËbÜoS 9dM¡ªp(&}‚7‡À¤: éLµ•,İí‹'0wcº`K!‰±ıQ½Ùg¯/kãİ)$İŸ’C…]Ì²x„Ué4çÏóú°.]„.ÎÊÕ¶¶	äö +ö>êËJL˜““ª•®Ós6¹_£\NÒ#¶ÊÙæ²ášìÊê ÓÛºÔ ûç³™ö‹)ìF1Ÿ³xÚ‹]Ò¨Ó£Iay•×Z«3ğâU#§&^œ<w€O¯”¿Eà{)¶uY³íÂ(mÈùıA-ø«rº-pĞóÄ%'ü%˜scâ[­3’Â¤\¦º!YsÛşP®vç­Çh­ÀECU¾/_Ú.f(°ÂüpÒIs".UÉ	€V=ŞæÂ4Xp…‰Ğ3À¨(5§Q8g²‘§+ÛÛå€f±2¥.z½ØâÊI˜ >q³üoÍÏ¿òùş~î‡$ıõùŸÔv–şGµ³á™já…ˆ	w[Ô4Uq—:ö|öN¢Œ7°G½‘,æA°7#à7¸H˜v&±¹sÌO»b\ÖlÀšMÂ¥sşe£kê_XFÓ¿B‘èï®Bğ@’•e×zg€¯äL'xí¤y’ë‡?Î$7b	Şl¹gö&uÎ¶™øvy2~ÅœM¥rL¸XZÚ W9Nêêİ|§2©ºÕ˜†ê3¼¬Mg·#JºZqÉF„xr>ëÏ‘ğ‚N6¶¢Á?JE¾€-¸Ëİ~&¡Õ•ù¨Ë]ˆŸÛuÛxhÊÓÜ… CÒÈ_–ä‹X‘ƒøÀWË±Ï½äHGx bÊj¬‰äì²q@â]ı›©‰¤]°¿st#,'î‡Æ<­aÍµ·3£e fœqóùmKxà>f2_z æÛôİŠZ­Ó¾j.ëËØí9©ãï£,>|y€5Á}Ó¶_ to BFTProxy
+Sent back envelope ƒ@Øüu¹{ŠÀ¥¯dx	ˆÌA„=s/Êa/XÁ¯UÂ¬ó©Ö'ÙöâOö>Ÿ)[ªš„éÁïJo+r–‰Ø&¤qaŞ»£)Ü1lØWÇ×G)Ã Ü´ø‡MQEã‰"•}Ég¨II+%¿À(Ó+j\–Ì~)¿vù¿ô‡æ|¶Ì©äuÖ>0\w<NU”NîNñQ“*K€tú)™“ÑŒØr‰±>æÃ:^3k©“ l¨j’¥„ZpA8ù¿Aû2×úwĞÑÌÜthª™TŒzşG_Äß–Ÿ¨ Ìâ—¨©0œÔdæğİ‚¢ÿ‘®è¡g@D&ŸİÇ16ñJòØñÓ`÷Û¿ÙÒˆàI¯ÙŒ°ÙTP¥‹éÌ|œ)÷1¨áß2aäqÜyÍépcèï©È<~ròZÛJ’aÖîç¦É>(nµÎËÇ™ïæ”­EÜáu)ùEìuGkÜ²l¥G=¹GŞŠæ'6?=İ#ÅÉRÎ'_{\`òİÿÛFej$û!¿bĞèşìhrâÉÿºs–7YÍè§ºDó0ŒMHbœ’¸
+(| Ñ"Z˜¸dÄ_#:¹Ç-ğæeù-æ­‡ß’bÈº™=3cA]¿Áëş»”'…÷öl[ã‡äPC÷·³ÎLÿù§û®EEN[B-¼X¸RÆ¡Ëa6²•›F¸ŞµÃ¤×úW]{D‰å›[UÅ‰­¯Ê àPŠ^Ë»Ví”.Ç©„¾Ë™9½Ê½±óô¥W¦z0ü /Z	Ã–¡J_Zÿ»fÕxpñG£P3^ëÄyÒPllîi8mÉ¿)b`»0ÿ@±u$NÜØÜ©oê¸DW8óïÓˆnOZŸæì’MS°RÆ.®H*Ç¢ØæØHıİ‡Â+Lf…ò®"öDœÚ]ÑADóè©ù»ÁÜà@6?¹zÿ®`G÷¯9ÊdñO«?¿lØ³‚|5–Lã&¸®0'C¹~ı‡oëÇ—æÉ¨íÖá…ğR2ï9NÒû|²Ää“Œßâ–p„¼£ú6DCå0âŒBœeMQeåL†÷V`™Òı¯rJ"Âí{3AøzU`k\V˜kè@õ¶øŞğ|Pu˜oÌDAASwéJNàvnÏ8ìA”EÌ5€ßÀ!ÄæL‚ìtÅÖ<”—„Æ¿,l¨€ùÀÑè}#ñ¿ç to BFTProxy
+Sent back envelope å™„{õÕø³²35Ê °Øß­À¿ö+çÃÈgHz,™ó0İ”–·?\³şxùw#"1ıİÓ!rÕNÔTIh3{ e½S*ö?zPdG1dıú|29UU¦l¨d{	Õ%^G¢j­È&ª¿ÛÄ_GÒ÷tØ.ş‘G	‘Œİ<î?ËdlrSuEÕ¹]Fè¼”DÀåf´ÜÌ*#Ue[Ì-TË/ÂáYìQ´›‘\¾d<tçÑu:é™W\ö¥Ò¬qÃ~
+wëÆ¯´|Lé:wŠk–Ÿı=€ór2øÏ9Ü‹r¾ë v{n¼ø.Õ¡qË~¤™ú/á®sâ®°ZjÔ‹O'Äè{p`ú©3Œ[¨W‘°£S”prs;tEÃ:
+ReÛª‚¹±Ë"6¿Z¶z„ì4s¦ SÇ;¯:Íğ»}F”¬¨¡Qf3mŠßÁıBì)o8¨‡æ	.Ü	4\k‘ı²¢7²Œ|üÑ®+Ï„Ïbè=½øWªù%báÓ £4ªR€Q]ÀÆ]é®ÊŞ=AäGûIª¨3awÖ&E®~„	¸±u¨îµÂñÒ¢g“cwÒ¯ÉÒOe”s¹ÂVÆí3‰3Áh2Æa·y“ƒ
+Ã ËO‚Íß¥œÛ‰şØ?e$lìr&$DÌïfÉéãôLî–_Ê§° #œ€‡½ôeÙO÷XS	mE™*6nXt1ƒ4}£9XŸ,‚ ”	ùŸÄ1_ùÓÈÂu{{ÕRö^ãÖ@^TÅoí]ºz±‚fC3‹ÈÔ Â((iÃ;
+ÆßÜ'¤p6ËÒ†y*.W—>¸˜ÙjìÅIõ–…©Bê§	¶ĞYàib¤]É)ˆ‹ŒwòÒ±=şR¹HM¿q:T¯}ypîÁîİ¤Ö$pg’öEÉt¹ÕVÜ¥|ÿÍû—~¿¨•¬× Oˆkó´’­^XêwP·ùÃHâU7Ã–Ê#[¥¬	hò¡4xñ¼2sÄëæ”HÉè}Ä¢Âô1ëèq>Ø€ØZ.ßêzJ„ºhØ™®tCŠÓÖDæ–&ì‚A:+Ÿ¸ÃÆ1;7×Ü¸ä¡G1zï´#V$ ‰D¯øåÜ]>94@šæ®-l†À¹†¤xBì¯Ù=NÎşõÕ¥¥î½–•…@“3ãƒ>cævî­/ÅüJ%+ıã™!÷Í™½Ô^K]$2ÀG to BFTProxy
+Sent back envelope @±qˆ‚…!ÔICà„“MäÎ­Ğ§8·sEK®0Ÿ£î¤¤AšlÇLG C€)…\¸½£:
+Ò¶©S¿¦D‘TIÄ I"P”y"S/^Æ¶¢¹”R*zó&CX›¤Æñq”mT2§°ÆĞ³[d•ª–QRò"k¬afdL31£f;ùr,+(S&#Ø ÔuØ®—•dQÜÄR
+ÃBZü[NıWvóyìıfX—‹¹/Ä„Ï-ÚêQ÷ÿ¶ßãòxé0ù¿XÌ©èÍ!Ğ;¿Q=d#bÈ'ÿp¦jc$µ# QH¦X­kÄVFH°®€¤A©m¨b
+Æƒoiç¢ã9ûÊùpcŞ¡î·g¬#MzàÒ\¤ ë­†P-z¤mcûé£Ö$U1=Ìõºk·šÊµ‘öTÃö}iYRµ‚MY£ÏÑ÷nâ°qÙ¹	ÂQö,ÎÈ@òã¬Šmå57a·à>ÏÈn~F[BñhÄêxÉÂx©óO~”|zL˜Ë0-š°|lºÏQ,=°%ß”¯J/…½c¸]5”âàFp6NT®!GiAmé5ZJÍlı¥bôAÒ'XkaÂ&/[Î+ªzd4¥+}ºqJD®N°Ã€ûl¨sO…µ­O"ò&~Ô´r£æbÉ™Ñû	Í#ÒY£#7rlI±Â¹
+XÖ±ox!¡ªiÒ'w)ìjXb\êC†ÁöÅ¿N/6X¹Yõôs~K‡™üéh·cúäªÔ££ãÛ€ÆOšˆ°µ‚¸°¿£$pó{šÂpô}X/@H^=Ó¯üíç{íÓZ9:âÂûÒA°JiÍaZ8C¬l}cB@ŞE°‰tŠÜÅÈqvBĞÈåÛTÌì<?Gõp¥>hv¬z]€zFWşÀÀ,VtÅù(³Èçƒ°œÓ¤à”ÆlŸ¥5s£º¾óÜKÍ^ÍAÏA)­»øTôºÛ|Xåu–x Ä]¿¢øq$¹$uKƒâÏ_c/Ì®M×3ÄüŠ¨µK³¿Êà,¾\Ù[‚˜Y‰S€`%ü“>ĞÖÑúSjöò¾,tR¤~ºK,Š4–ò…ŞƒÎùıÁ%0CR›Nš9¥Zr0™šE¼5šÛOºÖvÁ¡²©%–Ş*”æ%éß¥€N¤‘uÓ¡‰Elş±ªƒé%qDÑ&Üp®•œó%£“Ò¶õÈ‘+Å to BFTProxy
+Sent back envelope :uÑ°ÄznQ,.3…ıù°&+ãD(~ŠÒş	+—D’øBµ“×!Äöû ï‰®ì9GCëk´" R”“·ZßîÀ&ˆfI&>\-'¨FùA¡5Â-uRAU|(¾‹;{ĞV0#TRÏ@}×ÒÇ„Kg4·Cƒ6å?¡óÊUH³k›y÷%(M)ª¤÷§yê»|TĞn_ÚC±ÇĞ-+tƒR»†¥+Óa‚^k¬ĞÇî¥]ÂÓ¢â¤êK\3‡âª6­z }O§?z&;»nĞ®ÑâH|Á•kÁˆ¾ ”ñrÿa@	Vòm>gÀ¿ŒlÄ+‘¾Y J¿ra,gÂ]ÏŸª  6Áõ}3GZ]ÂÇ¡ÿ£ôã,Ş÷£‹ƒ¬-BËƒ¤I@w >èú¦è>‚4ŠTÀıÙ ¬‚MÌvì€X*ø£Eı,²Â«åk_'dÎ™Nu…“¶ŒñÆWªÇ úİ,ı‹€·’±=Ëó…‹KcánÈfNıOÜ÷¶«)j@8¤‡‘nô”yJş¨
+¦¼PÜ®òÜ ‰1
+,¥+oín"	öSìù>|ñÍáŠßYàià%;İ5ë
+Ÿç]ÁšÖ)E­à8µ8T¥Ç¥yfGo·C¸€U×ŒªïıCÛœ|fró'h¤.<Ü`á*iw~C Çaõ®B~‡È´’©k,˜AbUæ$ÕÙ©±‡4(²Rx´­)Öd¢¹]€o²˜Ù7˜ÇJq«ëää¢sm&KPºçjÑnäñ‰Y”Ş³7HèxT]ÁÁwì&ìÍ¸Ïv„qóÖéÙÔ›dîì‘C=È_Éş×%yk.PCõ#ƒ* Ö‹ƒ¶B^Ö,Á¶w‚ô/·§Ã‘F¹Ã/1£ÀÚVİ¬5^Eî´6«IsÑ‚wâ‰B8 ‚œ£³ŸĞ¸„´¯Z	(!d4']²mÆU”<“å1¢šØ\»ÅXSeÇy>Ò¼¿°w@Iòãyœ³¡4¤0ò^âäRÒ$7 ¿ı¹I"V5A>cä>¶Tj¬Àtæ\[NÁYóŒQœ.£Áà‘~ÇllTuõH=Ä£#˜Ï–û‘ÈjxJ3`2FIƒ¥[_Ğwî’%ÒS˜/çR2âm_ç"$üVÚòD1K{Y˜Ä	èQ[ÕPD_Â€Mû‚àIPÔı¤9<ÒPŞ#®>ºÇ±‡ to BFTProxy
+Sent back envelope IOŠ†Ü!Œ ÃÜN|şlñåfÏ(n;v…?İ¥G² ‡~şwC~]1ÿ€¿Ÿûãc”1ÇÕ‘ß‡õ¸$mèg°DÛ¿ÀéPv`a$îz7g1v8r±E›Í Í²*0ˆGÓUk¯\öşÂPº›áPÆQ,+s‹ÈCŞ4q•R{ö>1–QcÅz(YŸÕ„ë´Õ{µ}oŒ qÌĞC+#–ûÍ1)FÆZCeİ–¬P úÊc|ÖÂÉ·[¢3ØÍV›ä–gTçA>mœ6¦Ú´åÿJ®eä@‘4n!^QéBÍ”ÔÎÑ‘Ğ³€yñHğ\ÄÓ4‹¸µyIênt.‡J›9ãHÒœwMîcú¸¹Vå¤dz¼Úbêo~áiG‚­™‰{–°ıßˆ×ÒPY¤Ÿ8ÄÉÖ“{=\PBUm Cdj3{;×³V–p¬îqóÔ¬Ù{‚Ú£‰"R¹¿ŒSÙ[É{NŒÁÑ›gøıG©=ÄÛ‡nXèÓéQİ_q¾•?kÁ	}­¸Û‡¨lS·6ˆÀ¡“«Jrq/ hÏX”VÓ€?ŞkÁ½!ş2=§”şÕH`©i—İ¹;ÎRcsô'‰ìÿL¨ô!¬vRˆúï¼ÔÌ¡€…-LfôİĞù¤i°	Aıg”‘xªoÌcÎÛo/Ş¢4v6¬ÈòÛ&^Pv¹Nâß•S€Õü¦µ›94_'OË#ĞûlÌi<SÏ¿N|<æiM½Srá+›ÕıÄÚ+ÇÙİàwœßR×­ñ„E.Úà¨SÜš„'î³· Ccf×rÎğ®$á›¢ñ?ÎÁ0}w›[¸ıEn‰í8—ä¼›+B$£vf+n‰šzUû²µáÊÂ±œxZÇU%Lp^UÉ­5Ï%P›ËfU%5Ë¶‹×RbîVô
+—şi£öŒƒ>¼õğ\ò‘çÿà?bÿÃŸŒŠ2äÆÑ—vBü Ì
+¶Û÷°Œ!fşÅ×Ô¿š‹q-Íğ,Î5Û* GˆShùœ,1Í˜ÉšÁÚ®*ÿÓ¾ä¹j2*Ğ#Näí¢ñ!È=Âa+cÇßËöİË–£°!*'š›–(§ùudÅã2Œb]¢¶’rL”¥;*d#~ƒ»ŞÌïAåöôÃÀZ=ôíIËgı˜Ì-]Ã Í\Qâ‘ÓµÑùcºŸ\1;e‡ to BFTProxy
+Sent back envelope ›ßr(PËúzáXç‚oõv ²²…¸Õóı•‡b›úH·¯—50#è[C¿¤LMĞ&Ìkó~À½#o©Wïs ÄÇÂÚD]X´ vé}G’aôwGÛĞº*„c^æÃ	S±gjU†	¾Eg¥×Š¢ƒ&jƒEéU}rü"•D8ôQÇHQ(â´)šd§Ò.Eb	‰÷aïfî’1ı”¯ÿ×¿hïÓ”Ai¡ZQŒú‚Vh{¤ÇhR´Y·•èÀÓ-sÉ¿‰¹€T:ù‚_å%Í1Fw¤=ş/ÄL“ä»èÊ'¦sÒÙÛ—Åó®ù¥£ù‚)uº˜9|Ê–ÎÛŞ'oéI›Üg‘P€¯Ry¤L=Â°ÁtqÌµ„]£_ß²Ó0ô<s/ª$¬4 V¡„Êà¦‘Á~?­¥%0Z&T‚Ô¸V_E}ÛNêâ0®¥û•³·”îòÃ–[NúÛß‡ÖaÆ*sÀˆ§îß¹¿;*E ŞÌí®Ítãåigs6Cô–Ù<Õ^Ç^Ú{®Óˆ(Ñ@ş9Kñ@Ç=]ĞkmDúõ+" kË1å€çåÈ‰¾ÁlÜ«5İv…d‚#¯‰âM>%Nşõ“ÛÏçÓ	 ¾tÌšdë
+t–f4å–G3=ì"yŞrpgøgœç%qEtÛìjn™Õ“4è-oÀëß•ºş
+‰ä÷çÇĞ¾S>\vÌÏ$sDT`ıaú2”„à=§\ã–ëxs×ñ§øÜ×t¾¶ä»ÏÆğ°cQAcÒÂîGß%H‘¿¤\İ¥Tá‰Œ5N·¹Ïb(W§óÉ+0ê…Tv1V/†9„mÇÑ§£\±£Õƒ2nú¶˜u&4PóƒÍ5‰(8œO<!@É27¦'Ü‡@…íØÉR[M–.·p/Â£ûÍŸKü¤Ë«"Ö±²Uã80Iè4T^±Òó†‡Zê+İ<0mù†x*¼9WøÚ‡Ø¶OÎl´{Zí€–¿\Å}ÑS6²›2|e[ áß«qO0®â­ÿÇs¡ùÌà˜Ãò¯@å ±=|²&¹©)¬ Á(Ô‡îq1²°ÜœqfËÒ~¬¥»ëæ¡-éiEÄ¢ÁAÄ™·ÓÀ¾‘ª‘â“ç±8ÂêKXáÕşyàëEõ!ôÎÃäRñûX˜ˆÒ@}%ÆÓ~8û›fg—¼LU4Îßï to BFTProxy
+Sent back envelope R{N±‡ã˜à{ØFN­À‰ÂÖYÔç=l•~@CíL™JjÀ×¢şø¼ÒTßöÌ2o¯À´†ºi»ÛĞ­–xN9áûïÕÁH°õ¬m ÂFä¶*Ÿğ&Îi4Ö’-DG»dpÆƒMyŠoÚeı(DaÎ¨³¾İÓd¼Â5êñ+5&q¹áZ¥Ş¹F³„=SÈ°oÁBß¼çasÛë¶¶Göâôû¢£Óûğ·×¾3ãƒ?¥ë*õ‰¤$ø#T9Ñş¡·RDÁo ×“êÅ°%÷ÅX­+}~EÚR1hdªÌL)hƒºĞ“ÅxvdÌw}ÜĞ@i¦â¢ç-ô,ûAcõÆ?<ÃB Gc´**šuÀd+Y©/“Ô§éåš ÓgÈJı	 5jcê»xÌ‹<˜¸ı'MËŞ&êÛƒ’é×"AL0-IOü—Sf.ÔŞ=)?wOi>ùQ½D?léV²¿¬!Œm¤¤ïVæU=p›ëü7ÖNFÇ‘˜`7Öµ=v8“rKÀp1S8KWU|º…¼Î¹¤>^u_­ºÏ}£0ÑÈÍ?Ñµu`tîX°<ÁûÚ<?±Ÿ¾‘…®+ïƒ‡Äú]I±viKÿY8ÍğªÈ—sŸ²¾¶¨§`‚ bæ=ñĞê¼D¯ºÁ#¬760s1Åu¶Ñ.¿´òãŞ˜I›Úş±•øí
+Ğ©ş
+jÁwlÿ'7Âğ_˜'ÀòÙ=2»¢eë^ÏaÒi[3Òa8EØÆ!ˆ‡ı]¶z~	a_CÿŠš1İNTßu™Q6_íU5EÚÅ`Z³,ÚÑ
+›êÉt‹7Ó§ğ{•„œbpQ‰wÊ¾½Ñ«ô¾«…‡a]†·á}A\]ŸœlÇ®U* ®8§‡ˆÿ9\œ~*ñÓI3ÎÏ¨ÒXš±×öw%úi[m`Ò‘ ¨ôµ±"÷,Z‰”Ì´r3œaw£í¿\± `Ù¿’ZMÛÎ{à¦QíO)9ï‰ŠyÅ”ä~&nWÙhß½+_9ŠE 0Òø·´ca?{ğ×xO:c4?`ú:üµª”ÆáÖd4šÉã~ùÔÁ¢ëG~V00³k>2ÚOÊ¥ıµé9ê‰®ö€>ò4Ë+PIæÁÇ;ÿ\ŠU:â»‹5\Ó#³{ğwd!K¹ìÎ@ÌjÙ¦)8€ †Úmä75êó;2­ to BFTProxy
+[2] 16 distinct tx synced and 0 tx left in the pool.
+timestampE (3, 1554830644.278589)
+Sent back envelope öMÀ]ïjFşÉkÎUB1D˜<E–ë]ú%<VpŠÛ²IÁD—™€É Rï>]´Ù/aXî†@§†ì{ÄG«¶§G+sxËz¯tåz¢Ë4vh·Æ ŒıåğPHõaR¨Û¡ĞÚ%¨¨	"­“8Àm:rÕ¼#šÒ¥çã:3°\Cv©,$t®À& )sÇÈ qõf5ìá£w³à/ç‚‘nÕÙ(…}y§•–øZS±üµİX{ßæß„«Ù(õj^jX²$287ï¤¡ÄD­¨CÍiİ‚Ïø™wÎ¸ş,VC«Ç›$-®±oQ)¦"E,•õ€sF¯S—*ÜşRˆÉo;lëô°¤õ¤‚&íH#…™ôèìĞ`†gÅ‡@—Ÿ¿ÁÔ
+:?E§2Î@1]B&â,÷x1ËVLAÌçBÚc61Œ¹¦³›Ş4&ë;g¨Ãó.jÊ€ÔyzÄí:iÓb2UéÉÊPŸ2Û +“àNÌİNÆ€J/˜À¿¬¤`ñ‡üI¼ûa’e‡$’@à(X/,é`dşgA%œÏB °'”L	×şšÃO'üqİ²	I0QéÄñàjï^¼ÀÚq/ß¶’Äf<ı´şåí1hM/®92Z#¹n+íü¿úº3U™×r„à¯W×
+ º†~C’Ì:™DÊÒáêõøBzÛ¤d*s—½Dáª|NzÅ+øŞü7æÒÂ_èîYÍ¾ü$óZ>M3O\ğd›{™Ë›hZ— Ğ
+¯OğKãìØÊÒ?d¹×Li”¹ªxU}”v]QÌëƒ¯$éÍ¹¤Ëêê÷øPmDFŒ~éÙ$Ã«tHof„]†Q¬®üÍuìëQM~_dÓÁè»¯ŒõÂÉéö"øŠbÍ×ØØá„oê&Kk÷_ïá ;¼ëˆtDÀÄ ÑÃ'“JÔÜº=23"¥FM+A£o½†N–]h	ìmİ‰ğ-®¯„ç·ğˆ•µÂÄt“Ò¢÷Vù"
+±ã\ùˆ°“µ’¶ß+ø—ˆETYšåª¡˜i	¿EÖ4…8"/«úKE£zê@Öp2´ÚÒöN‰Ú¦Yä1Hß±Ñ$ÑÑi;ZÂœ2óz¨#kÔÆ¦ÿg2nÎsXCL>|jÇ#9~Å‹ßBzıÌ~3„·úñGÏñ.À_X#BÒÇÙİæugC:N¤Oq¹Â to BFTProxy
+Sent back envelope  `ÿú&hˆÀí5¸“`¾ê.A\¤^Ûe¢_çÜ‘)V}Ş|„º>˜c/tÏX˜ƒ­ÉöÈäı'ÊkÓ»_5ê‘cF…ü1%‘¼NıÔAù®â–Mó`Ràã:'jë&âÍõßi2&g8n}Ã@ïŠRuÉt0C²é>8Â¯`¢+íh—×Hå²4Ü>’@ûÂZAĞ»Ç²¼P\µdO3—C§ÿ¶/©.ªLFpó¢7X¨èÊé!Ä:—™Û]šÿÍ•O¨*0"ô'Ì'‘0Ê>´§8Ş›ßø9ü®xè9Øœ’¼¦{³øİ…@+è_%Â‚Â±ª S°Oß¼9Qá0W?T}.÷ˆé$Ë »ÊëR[)¿èZç3Qó˜‚•hâÏEçÁhïÈöù¨¥]ƒUÚF¿Ÿ0­Ïys¢<·Nã¸;ùÙ´KƒXÂÎó Ñ:Aê:Ê–ñWıĞCÌâ¹¦Œÿ·*Ûò· ˆo}Ùf îØuA„ä<X“˜VÌux·’¦oššùRZ±X‹İ1{#éÆí9’óÀÛ¼SaB­ˆwZ¦_k:˜D³´•¨Gõ[×n1µ	.É¬ì–y™šDÑ‡"à¶?GAwiì£rÁı¶‚ê?© ^°g¿–P¤}S…;+7F`¿Y•{…UQId²L§€zÆˆx)…{×ñn¤¦Ä|ÌóO˜EÅG3E-¼([ê3jë„ÈÛâèm!œF"cXïk·„ì.?T_^nÃ B*ùW Å‹¸#44¥Ge1
+›şÓöáØ´	$6*ØŞ¶d–§ç#!ÎèÓ%ç¦=¬„1t”sÉğÉ±™`ƒ}¼[H§êr\“ß«O¸=Ó{îâÎ¢Ûx«Œ«†¿IÓ`–õ7ê ĞÌîş•W"if ›~h¶7ğ= ÚÂÈg‡Ut4W! ş5ì“W…¨¼ÛM
+¡c±±¬ÿ¸Œ'7â`U¯·z:½ö<Ã€G›E›3¢”zB-Öd‹{„ù†ÎyµSÉó{“ÃI‹´•¿|Úé¦E‡u¹´çä3yÔ`=~œd-úÂ—œt,Ô£N f2¯nÚó|µİ@—¹Ğv95…ş >M$UUP";,mrFá>Ê­å›bl‚’pš»\ ØoÌÿK^°¯rPZf	Ö~o0]·Õ'OÍÂ~)õí˜ to BFTProxy
+Sent back envelope ‡?PQò
+ıÚ/ªşÏ'«ÆğCüvFĞ+ôóÙm®73ÿ”TÚxŒ/W4“áı|dÅ±ßòƒfŸc!šÅádF>ùàÉŸÇ§—9kµ<¥@|()¹Ê4|I|£ó›‹_Ö8S{|‡/e®¾üw¡ô5eYé}æ4…úŒTšï;jNE1šr¥\×‡"¿É×H(ñ*¤Ät÷>­f†JÆ†œÜ~©¯²;®àÔ¤E;ïb¸X3®£7T²ç{®qˆÙÊ(Šİ‹‘/_ë­ ş}Ğ¥İãÁ8¥Ş«zâó0ÊÂ›Õ-¡!fÔÆ•zÕ]¾±^SÌÅ¤71U¿&œ(È˜+¡t*!m@ƒ4°ök‰¥¬p\"´ëœwŸKÕ / •-Jõ¦½L7ûò¢€¢oêUÿÃ>çÎ€H@leä:â5‡¬`M[¨ ¤j¸¿é‰ì'MùÑ¤¨¶ãõ]pÚuƒœ<0 +V—à9(6wâfúQ¢‡RÖÂŠ&ğ‘IÑæÎ–$?5;6æñ‡nÑD’öª-.Ûª* «Úªsuå“å»ØÂïŸ„šHé™u¡¸úã—ÑÎ‹…
+Íÿóoƒİ€¯ÜuZ¸ÈyïgÅ*•„oöLaŸGÍÓ‡+«ë«›Àã¨p±¥Yë£¡Ò¿Ğ5óõ6zÆ¯M.H>r s—¬r¶€UD§^ÄX:aVx-Pã«¬=(’rî[/˜æÁg‡Ş,÷ĞRjÖÎ„L*Àşl5b«Ÿøsíè{ªkH9($cE.ó¡Ğr×!KÍpP,#«S¢YÄj,œo 'ÒŸÅˆÚ)'m0&å=e†Ş°ñ¨„.‹ÒXdÈíÄÂiµu|6¿×Ùl÷!£Z,UbB
+|˜š*ÈåäĞ>å¼qòºfqÔ—/Âåò<ù{²‡ø'hu±Vˆä¯mƒ%ÆN*Òü‡51{¶=­6î¹œ¨£PR
+eFo#œaô$±ÛÆóLëYFX‡ú2¦—Øë!$WÛ'Ÿ‚Aô ĞßÃ®·@3¬bË¤Œ©¿HÜ†x” IOfâÌù&áÅ?;6ƒ§¿á¤ğË¢u6£kr¡@G§ºå>©½Ø ì¦¡¶êØbµ+ad.ÙŸ—zft×S‘E…}ÌŞw ©µ8±‚yHHı¦˜t¼8eW#?êHÜÛkğ€iiùUa¦ÀÄmúò­œ™y§¡ to BFTProxy
+Sent back envelope ‹ÃpŸ,„kÛ&3ÚSš¯‘wj}4®lypy‡ëé_?[†³?¥×xıò%çOŒÍÚP[ÔğK‚c¤5­+¶'¤PqGì­sUeéñç>Q.€n
+r'÷a	½wH Â¯QÒÁÈİãw)¼Ü§…ò‰'­…v&¢Ÿ®|=©if½(2YÖ)M¡õ!"Ñ]¤|ÃnäµP3©MŸÍ´'ä(¹*Wâ­Ÿ~RôÔUpÄ6~°à+€ı‘+Z’9Æ¿Z	ËÃŒw™Dáaeü®·àç³Ú6°´×X¾²ûm}O¶J³S"íõCŒcC?’>¯Ç¿¬tc äêÜõ–ÈÒ‘ZRMÀÚOãÖO4,QÂwê‚ÎAeŸ%íïC)äş5§¨&{ÅˆNvI¤£å‚\ÂæEÚ@Âí½XÌ–…€Z&üİ¨ç¶ko\mê-ótâ õYS$wKĞ9YCMĞÌ¢.¦ßöÎ ½OÈŠWXİòó×ÿ¸]fúİhØªÔ·N<6ğt@á¯ÙéÍ¬›v5/aÉá»fÖñ‰uë¥„PB<CÃÚEUó"–ã†ãüÁB_ ”Ş‡E^”¼«j#ğ$ÊòSwğk<ùrŞÅa§[»©sš·åÔ@`5Vn¯lgÃ›ªiÆ\zˆSÒM”`ğÄv,÷[‰ƒIcîã{åìŞëñîo3n¿ì}CQi úššR¨¢ğ°8vUo‰’˜N&î!ÀıUÓ»Y»aLê$$ 3ìGjÊk—®vlÜA6Üî¤a‰ˆÃŠ©]lÁí©L]nAú1s™\É’qİŸÕì(/É„íhZ_Äô76s‚°â1z°Ï·çâ¤åË¹ÖÜygA²ãˆœ) kÖÆ^¶#ÑÔU¸#$Ó	zóQ°T¾Âˆ3“E¢k^-åCÜW¾^± ŸïïïÆÙñÊÓæ7 ‡Œ§Š|s'®‡…=ì5`Sìí£ËÏZœ6lKˆ±b”f)¸ìé4 ‘¥ÔˆÕ´¨÷H«IgñÅ!n«  Do·"`tş›\ @LU	yHJ¬Û‹¯¾éboiï LÍË¾ş…ö¤¢kà›ÌH~òÙÄ7^×®áŞM.'&‡9On^9óÅÒü¡:nü´9ã
+’§Ş2ÆŒ»®•Åz~‰(©ùÜÕHú‘/ to BFTProxy
+Sent back envelope ÊÉ¹FëbZ&‰àš¡Ú2©£s>&Æl–²B¨úÃœÑÌş­ÂÁÉ¨Ó^ÌíÏw”|¥	NdNÄ>ÒLT¨…¡À¶–¦ÊãnFm •*(AzCßıNè, VkúµE@›Îšt$	£ğ¯œR«_?§ß!éŞ“RdÕLã2Ò$gı-×G!±6]ÄËøßw‰kÈ6ûúø1¿è]=#S+ ™A½£…ËD|ómu¸~eebI£,Vìd”@¨‰š÷pWá€Xq´pÑîâr	E’1–£©CÆMbuy±ä¢ä†Â.Cú¹9göËIs¹YÍÜØQÜã¶VRĞÏßï¡·òËS&Â“ßª¾’€ÀØ…ÆÕ$Á-Á/ÃH.ó)b§`¤_A¸àÍM_°9ê/>ö¯ñ¦í§P¼8ôæ«cæ?öTÄÑ‰E¯ñuŞÄò+Ù;½¯šóÁ	—ÀáÚJéÄN\{ë€ƒQ¨bcBá¡‹$W@~üùÕûî¸h‚oˆ­ÙÖ«ômîMjD@ù•G&§qÈL
+"äÿ\„s RÊ«–ÂšTØƒ‹«K¤mUaİ:t8!İ|ÉßmáfC€Ú¯6f;”3ò6•´mÇy_‚åu F¦¿¡É#x6'ôn¿6˜½6ynçT	Õã4F‚Û®ş:wn;È¡pŸÇÏÜÈoĞÓvo!‡ÊH)æ§äııÊŠmÈ',—–3ÜÌ÷ş5¾*?ĞæS¿¾ª¶Ùkï3¾Aƒ[©=ÑzºG8Ğ{tuüÒ–Ùšëí· |õV2·éWüÍt¥7G{v0¹zBïöN™+U6T@>Ñè WjpºGÇp˜$mø†¡¨å¿VÀ£x_M3A¡ W:…>#óè¿øâ”Ìƒ¯ŒˆNî@‘Í"ıQ¿ÁA/âÍGß&ÓòDEIÔ.T/õwÑÄ<¢0™Õ€u«I¥(„“3ã'—zˆ•åÌ¦Ó¿î0Úµÿ¿Úwòê3«.D‹O‰Ù$
+o+ä#hbš6¶.¥“ ö‘Ñ`\}3ÆuŞ#K˜ ‹˜@B’ImMd|jNDÁ›Óáb)%fkÄyÖ™'VÌÁÙ¾õa˜œëóö`HÀÂ¦>Zk\oğc÷ŒÍa÷‰äÿAö“¬ˆRaÆMœZ„W×å*|-Køœâú¨Ğçs­/„Â_:®Q5¡ to BFTProxy
+Sent back envelope ”ç%£äò®[½Tï>ìcZûÙvZªùSV/ŠMõŸä”õıüqInc ÚO&“ë4:†Î˜UH{MPä§¹Mğv¦ŸBt|yÀÑ,ÑÖ¥÷€WxÊhv$©W|z¿Õ9FPJ±?ÇÑÿƒI€¦ã<Nçí
+Öª¯ÅD»…+9idÕŠ¶·¹SwçÓûáÌIğb>^Ük¶tˆn óFEÀcé~Çf.,J³a€üóLP:Dl+²-AæéJù>€Öõ£àj	°õqf²8aG¬W~‹÷ï*ª!İP¨ÖÊBş&á½pNÔoe3Â+¡‚L$ãlçªÍ<x FNtŒeèÚ´K(±H''a[õÃÌÅK»0WàÛ¸ª¦‰‡ì‘ĞÅL­‚3O
+x˜ÁZZÍzÍR\Ú'Ø¯„B€9q9.§6¦OØÏ·GÕ°j7`•<ÒmâÍšøHVø(e6J~o…b=¸Ü°{ÒŸH%æqö»ÄÜªØ`~%›LÜiPÏ;‚D´7‰c
+‡£‹Ee¶ıª´½â‚ÚÚáIˆz„ˆÜŠøØ#–;™sŒİ‰mŠ	&Uu}8%Ó–0Ì:ĞAğà•hğ–.Ëa’°È¸1?l.¯cÀ£g‘+deÚ‚e&ÑÚ-à˜–ŸÄ+p
+¶8)î8âªÔV’ğ)g„Äjã%-‚»P{£HÈë•‰åç8.OBº#§ñ)óÇ×·‹QZM´N&ª§hı.?A6)"<¥p¼<Z8¸¦ë\S×“º Ë½¼ìÓQÓ÷9F&°Ïuš²/ï&5Ã“D9³Œí•6±«n†™]Iø°¦ÈÈôÎĞxnd¹JÿEfD¸ÍT
+Ì“âì¾i|vmë*`
+­o X®	•%\kPêÂ±F@òÙ‚È2}y=_€½[”ë»€=£­Ë°QÙ§z<éÂqlx¤elïù)ş–ÂŸÎÛJ4{úíŒ›ıa±ˆÄÁ
+\&=ëÔ}ÄÂ™©hV¤t)¨cĞ-0Å/+rÖ‘g/°Æ/dZØç•½ì:İNÍ²Œó—16N9
+$ZT;À¡Hi¶‘™ØJÿ|ºØ ]Ú¼Cm»ÏJ¯ÎHSUVÂ’~ÍO“£;Q½y¿búw… =´#©^YâN‹/98ó«éC5¥Èé$/*oïZ V{H to BFTProxy
+Sent back envelope cé“xRgéKZ6EŒçrÆ>(%
+Ïxı5¢	¥©$OmÉ“Ó5“r¸EèMZY8	·óGzAFÿ}lËPÔ
+ÍÀÚ ‚fÏ‘;<ÈÁ¼Ái½L†ğÂ²Ù¿AåökpôåHßÅ0øvÑÄ0l¸Ûñêıõ¥ò¯¨WUL‡Î÷ëz&hƒ÷ÿWo­,O#ãsÉĞ1ê}Â1I°­ÊOâp¾E§Mç¸Ô®"^e²rÇUŞÇNä½2ã±÷WÃ¥[FîÍß\J¶¥5ïøH:àz_ìp¾Ët´Z{FÏ8|:T†{­¸úÅÌ	,¾ä JÕ!ñ¹‡ &d¥sŠÔfë‘Õ.ˆåº.ÔòäÒ£–ÄçNS5ÇKwÛéÊİ·¤ñ°¯†#}.(ãËEİ¯«ŞEÇ³Oó{İÏ9ígÉ^qÕûC1_‚óçtsí{KuâRòÜJßÅ„*(;|
+»'™ÛÔnÒo`í.•‰`9m¦Š®»Éµ‡?Vmİ€; `»_ù%½^¾ml%Ûx¯¨ˆœ:*C/„¬fšPàQïÿÇÌæµãOÔ^^Z[˜K0n1‡½”j"o-åšô‰\yh«REI0]ÛÒc5[Æ“J¼’Œ<-š`~ Å=‘I Ji±ò‹àylqÀÇúz¢%ÎÙÛN{§À…qAÓ'ŞŒÆøSíĞÖd6@|©óï!jâ·$hU˜™]V¬Ò‰W>AGïy‡t»
+Y´ìO<#&ƒ
+¾—ÔmEÌˆ“d„}ÖRMy„½5GâÕOngtUãPpaÃx¼å	(²½Ù/õ-Ë}vÔü\èÀYõåı -z•à*IÓgú÷]òaşñÅLÌß%›ã´Ü
+Ñ¢O©†;¨*:$Öu¢šl‚IBìnkÚyÅP&8&cÀ¦¯H¹”åí«`{wpM¢¤®Ñó¹óø=f¹¯¾±ÖI‰¦j­5|®rl‚š³—‘C|—»EÔ*˜,Ç¼-ç{ï³Ì®qpq³/l ¸¸=ÓƒÃhOÒnqptá5mÚ†˜PlU:è>šaŸ®·hB,µJrõÿX=p–¯è84ÄW\Ş‰ù±^ÏÂ“©Ÿ›d7ZLwŒQÇßŞz]9P«N…™Ì›ubæuHégU‹ts!,r“Ó(±T—ñòáÑCÜO“7ç¸z£J:Ç1ÔDô° to BFTProxy
+Sent back envelope $ÿ^Ó8}ñM¶ÇPÜ¾à¥(—ÈLw„Ô}ÏÿÿGC‰ııZN÷_4:ÙÁ­s`-»B2>Ñãšgòì{
+qñ‰›GÊÂ
+î“˜Sò[¼38Ük¢Ã£×tÁ‚›ıõ" ™å6s]¼Æ_áK´–wğ~ù§I7ö›t]²…
+ôÍãË¦Õ¥¡QAÑïfó”´Ì3`°(ø|åë½lê¾Ôa|U,”lIÄŒz¬ˆ¼JõOÚäıÿaïåƒ]ˆlB”¼ }3P„‰Â;<‹)EóÁÕ-9(6ú»mİšIBw¾¾aU „¦îÕzBŠ¤ˆoê&ª|¾ù¬¶l€Ù+»ø)UÚoÌ7-Ã™mcå&eÓ†u’nlc¢Ñƒ3…6q)İöSëßOàB"N,Ü@Ô-nğEôZXØã–SÑn<*}¸74É(×@o*¤ïöY(éRKÅoCĞceB'ww{ëÚèP…Å¡¿”íËGnŒ÷šËÈ»ÂK!u^rF¿¥nQµÁs¢TZVø]{+èäÕd‘ÚV\jæÖ$‚0û({‘Òˆ¥š2*=ôİ’¹Ï|-‡[ZÌj8½k\á!·‘@ñ‘­<T-ÉÄãty€3ßòk$Çº9\‘Ú¿Ùnm?äÂı­eK |ßÊ)Öuı.»,Q¿Ç®¬-"NÛ7”ã'ƒxîÃyÔIb™ßÚÓ³—;o½œ1äZğä6ÒÃ)~k‘ú—:~NéĞXŠMG ú'V£rÆe4M>q‚E†ƒO#Vh€‘úlß–¢^$F­9…ÿ2);vE#:0…ôè$ñ®ûWÛğÎ¹×õ…ì
+y–µ6cş\Ik(ÅÓstôùz|ÀwÄµ“RZ…‡J]Ø×€0^ ^ôÎ> Œ”ã˜½OøÜÈ9ƒ!;)×N}zû>&íÇ=UR}üãî+ø×BÇ©<­ XÆØË¶Èw?ïm"õÚÖtä 	Í#ˆQ(LïÈÊ¹‹Õ“'$°â†LÕêê½ü¡¡toº°ø¡F&ş²–³,Ìà-hŒ.Ù³úwáäzµ¡åÌ+~bJ¹-…GãB:ÎsE4AâØÊ¹¿¶rä+Gü#³Š„EÿVœD‚í˜…`ÿdƒ#õ&0Ö o8Fb”‹ØŒr9ÃŞ«öÓFëlS to BFTProxy
+Sent back envelope 6.Fq‚‘Ì÷¨Ü‹Ó’Šè’²é=¤¥¯æZæºıÃÄÕ2»¤6¥7[÷ªRäÎì;lı)(ı0›Æ.—€iæEæö<ÃÕü©Ôİà{vCË²@}s…E4$µ²M®ˆŒ¡ñõuH‚ìmZÂ*:[y˜tÈ ±(|µŒ’›²t£’Ã¡qXzdk9Ğkß‘Í¥›•¿¢™­h”%ˆÑGµ$’¢ÂNõ%ËNB­ëAèB¬	­úVâWPÖÁ×e]×gõos)›a€p2òËbÜoS 9dM¡ªp(&}‚7‡À¤: éLµ•,İí‹'0wcº`K!‰±ıQ½Ùg¯/kãİ)$İŸ’C…]Ì²x„Ué4çÏóú°.]„.ÎÊÕ¶¶	äö +ö>êËJL˜““ª•®Ós6¹_£\NÒ#¶ÊÙæ²ášìÊê ÓÛºÔ ûç³™ö‹)ìF1Ÿ³xÚ‹]Ò¨Ó£Iay•×Z«3ğâU#§&^œ<w€O¯”¿Eà{)¶uY³íÂ(mÈùıA-ø«rº-pĞóÄ%'ü%˜scâ[­3’Â¤\¦º!YsÛşP®vç­Çh­ÀECU¾/_Ú.f(°ÂüpÒIs".UÉ	€V=ŞæÂ4Xp…‰Ğ3À¨(5§Q8g²‘§+ÛÛå€f±2¥.z½ØâÊI˜ >q³üoÍÏ¿òùş~î‡$ıõùŸÔv–şGµ³á™já…ˆ	w[Ô4Uq—:ö|öN¢Œ7°G½‘,æA°7#à7¸H˜v&±¹sÌO»b\ÖlÀšMÂ¥sşe£kê_XFÓ¿B‘èï®Bğ@’•e×zg€¯äL'xí¤y’ë‡?Î$7b	Şl¹gö&uÎ¶™øvy2~ÅœM¥rL¸XZÚ W9Nêêİ|§2©ºÕ˜†ê3¼¬Mg·#JºZqÉF„xr>ëÏ‘ğ‚N6¶¢Á?JE¾€-¸Ëİ~&¡Õ•ù¨Ë]ˆŸÛuÛxhÊÓÜ… CÒÈ_–ä‹X‘ƒøÀWË±Ï½äHGx bÊj¬‰äì²q@â]ı›©‰¤]°¿st#,'î‡Æ<­aÍµ·3£e fœqóùmKxà>f2_z æÛôİŠZ­Ó¾j.ëËØí9©ãï£,>|y€5Á}Ó¶_ to BFTProxy
+Sent back envelope ƒ@Øüu¹{ŠÀ¥¯dx	ˆÌA„=s/Êa/XÁ¯UÂ¬ó©Ö'ÙöâOö>Ÿ)[ªš„éÁïJo+r–‰Ø&¤qaŞ»£)Ü1lØWÇ×G)Ã Ü´ø‡MQEã‰"•}Ég¨II+%¿À(Ó+j\–Ì~)¿vù¿ô‡æ|¶Ì©äuÖ>0\w<NU”NîNñQ“*K€tú)™“ÑŒØr‰±>æÃ:^3k©“ l¨j’¥„ZpA8ù¿Aû2×úwĞÑÌÜthª™TŒzşG_Äß–Ÿ¨ Ìâ—¨©0œÔdæğİ‚¢ÿ‘®è¡g@D&ŸİÇ16ñJòØñÓ`÷Û¿ÙÒˆàI¯ÙŒ°ÙTP¥‹éÌ|œ)÷1¨áß2aäqÜyÍépcèï©È<~ròZÛJ’aÖîç¦É>(nµÎËÇ™ïæ”­EÜáu)ùEìuGkÜ²l¥G=¹GŞŠæ'6?=İ#ÅÉRÎ'_{\`òİÿÛFej$û!¿bĞèşìhrâÉÿºs–7YÍè§ºDó0ŒMHbœ’¸
+(| Ñ"Z˜¸dÄ_#:¹Ç-ğæeù-æ­‡ß’bÈº™=3cA]¿Áëş»”'…÷öl[ã‡äPC÷·³ÎLÿù§û®EEN[B-¼X¸RÆ¡Ëa6²•›F¸ŞµÃ¤×úW]{D‰å›[UÅ‰­¯Ê àPŠ^Ë»Ví”.Ç©„¾Ë™9½Ê½±óô¥W¦z0ü /Z	Ã–¡J_Zÿ»fÕxpñG£P3^ëÄyÒPllîi8mÉ¿)b`»0ÿ@±u$NÜØÜ©oê¸DW8óïÓˆnOZŸæì’MS°RÆ.®H*Ç¢ØæØHıİ‡Â+Lf…ò®"öDœÚ]ÑADóè©ù»ÁÜà@6?¹zÿ®`G÷¯9ÊdñO«?¿lØ³‚|5–Lã&¸®0'C¹~ı‡oëÇ—æÉ¨íÖá…ğR2ï9NÒû|²Ää“Œßâ–p„¼£ú6DCå0âŒBœeMQeåL†÷V`™Òı¯rJ"Âí{3AøzU`k\V˜kè@õ¶øŞğ|Pu˜oÌDAASwéJNàvnÏ8ìA”EÌ5€ßÀ!ÄæL‚ìtÅÖ<”—„Æ¿,l¨€ùÀÑè}#ñ¿ç to BFTProxy
+Sent back envelope å™„{õÕø³²35Ê °Øß­À¿ö+çÃÈgHz,™ó0İ”–·?\³şxùw#"1ıİÓ!rÕNÔTIh3{ e½S*ö?zPdG1dıú|29UU¦l¨d{	Õ%^G¢j­È&ª¿ÛÄ_GÒ÷tØ.ş‘G	‘Œİ<î?ËdlrSuEÕ¹]Fè¼”DÀåf´ÜÌ*#Ue[Ì-TË/ÂáYìQ´›‘\¾d<tçÑu:é™W\ö¥Ò¬qÃ~
+wëÆ¯´|Lé:wŠk–Ÿı=€ór2øÏ9Ü‹r¾ë v{n¼ø.Õ¡qË~¤™ú/á®sâ®°ZjÔ‹O'Äè{p`ú©3Œ[¨W‘°£S”prs;tEÃ:
+ReÛª‚¹±Ë"6¿Z¶z„ì4s¦ SÇ;¯:Íğ»}F”¬¨¡Qf3mŠßÁıBì)o8¨‡æ	.Ü	4\k‘ı²¢7²Œ|üÑ®+Ï„Ïbè=½øWªù%báÓ £4ªR€Q]ÀÆ]é®ÊŞ=AäGûIª¨3awÖ&E®~„	¸±u¨îµÂñÒ¢g“cwÒ¯ÉÒOe”s¹ÂVÆí3‰3Áh2Æa·y“ƒ
+Ã ËO‚Íß¥œÛ‰şØ?e$lìr&$DÌïfÉéãôLî–_Ê§° #œ€‡½ôeÙO÷XS	mE™*6nXt1ƒ4}£9XŸ,‚ ”	ùŸÄ1_ùÓÈÂu{{ÕRö^ãÖ@^TÅoí]ºz±‚fC3‹ÈÔ Â((iÃ;
+ÆßÜ'¤p6ËÒ†y*.W—>¸˜ÙjìÅIõ–…©Bê§	¶ĞYàib¤]É)ˆ‹ŒwòÒ±=şR¹HM¿q:T¯}ypîÁîİ¤Ö$pg’öEÉt¹ÕVÜ¥|ÿÍû—~¿¨•¬× Oˆkó´’­^XêwP·ùÃHâU7Ã–Ê#[¥¬	hò¡4xñ¼2sÄëæ”HÉè}Ä¢Âô1ëèq>Ø€ØZ.ßêzJ„ºhØ™®tCŠÓÖDæ–&ì‚A:+Ÿ¸ÃÆ1;7×Ü¸ä¡G1zï´#V$ ‰D¯øåÜ]>94@šæ®-l†À¹†¤xBì¯Ù=NÎşõÕ¥¥î½–•…@“3ãƒ>cævî­/ÅüJ%+ıã™!÷Í™½Ô^K]$2ÀG to BFTProxy
+Sent back envelope @±qˆ‚…!ÔICà„“MäÎ­Ğ§8·sEK®0Ÿ£î¤¤AšlÇLG C€)…\¸½£:
+Ò¶©S¿¦D‘TIÄ I"P”y"S/^Æ¶¢¹”R*zó&CX›¤Æñq”mT2§°ÆĞ³[d•ª–QRò"k¬afdL31£f;ùr,+(S&#Ø ÔuØ®—•dQÜÄR
+ÃBZü[NıWvóyìıfX—‹¹/Ä„Ï-ÚêQ÷ÿ¶ßãòxé0ù¿XÌ©èÍ!Ğ;¿Q=d#bÈ'ÿp¦jc$µ# QH¦X­kÄVFH°®€¤A©m¨b
+Æƒoiç¢ã9ûÊùpcŞ¡î·g¬#MzàÒ\¤ ë­†P-z¤mcûé£Ö$U1=Ìõºk·šÊµ‘öTÃö}iYRµ‚MY£ÏÑ÷nâ°qÙ¹	ÂQö,ÎÈ@òã¬Šmå57a·à>ÏÈn~F[BñhÄêxÉÂx©óO~”|zL˜Ë0-š°|lºÏQ,=°%ß”¯J/…½c¸]5”âàFp6NT®!GiAmé5ZJÍlı¥bôAÒ'XkaÂ&/[Î+ªzd4¥+}ºqJD®N°Ã€ûl¨sO…µ­O"ò&~Ô´r£æbÉ™Ñû	Í#ÒY£#7rlI±Â¹
+XÖ±ox!¡ªiÒ'w)ìjXb\êC†ÁöÅ¿N/6X¹Yõôs~K‡™üéh·cúäªÔ££ãÛ€ÆOšˆ°µ‚¸°¿£$pó{šÂpô}X/@H^=Ó¯üíç{íÓZ9:âÂûÒA°JiÍaZ8C¬l}cB@ŞE°‰tŠÜÅÈqvBĞÈåÛTÌì<?Gõp¥>hv¬z]€zFWşÀÀ,VtÅù(³Èçƒ°œÓ¤à”ÆlŸ¥5s£º¾óÜKÍ^ÍAÏA)­»øTôºÛ|Xåu–x Ä]¿¢øq$¹$uKƒâÏ_c/Ì®M×3ÄüŠ¨µK³¿Êà,¾\Ù[‚˜Y‰S€`%ü“>ĞÖÑúSjöò¾,tR¤~ºK,Š4–ò…ŞƒÎùıÁ%0CR›Nš9¥Zr0™šE¼5šÛOºÖvÁ¡²©%–Ş*”æ%éß¥€N¤‘uÓ¡‰Elş±ªƒé%qDÑ&Üp®•œó%£“Ò¶õÈ‘+Å to BFTProxy
+Sent back envelope :uÑ°ÄznQ,.3…ıù°&+ãD(~ŠÒş	+—D’øBµ“×!Äöû ï‰®ì9GCëk´" R”“·ZßîÀ&ˆfI&>\-'¨FùA¡5Â-uRAU|(¾‹;{ĞV0#TRÏ@}×ÒÇ„Kg4·Cƒ6å?¡óÊUH³k›y÷%(M)ª¤÷§yê»|TĞn_ÚC±ÇĞ-+tƒR»†¥+Óa‚^k¬ĞÇî¥]ÂÓ¢â¤êK\3‡âª6­z }O§?z&;»nĞ®ÑâH|Á•kÁˆ¾ ”ñrÿa@	Vòm>gÀ¿ŒlÄ+‘¾Y J¿ra,gÂ]ÏŸª  6Áõ}3GZ]ÂÇ¡ÿ£ôã,Ş÷£‹ƒ¬-BËƒ¤I@w >èú¦è>‚4ŠTÀıÙ ¬‚MÌvì€X*ø£Eı,²Â«åk_'dÎ™Nu…“¶ŒñÆWªÇ úİ,ı‹€·’±=Ëó…‹KcánÈfNıOÜ÷¶«)j@8¤‡‘nô”yJş¨
+¦¼PÜ®òÜ ‰1
+,¥+oín"	öSìù>|ñÍáŠßYàià%;İ5ë
+Ÿç]ÁšÖ)E­à8µ8T¥Ç¥yfGo·C¸€U×ŒªïıCÛœ|fró'h¤.<Ü`á*iw~C Çaõ®B~‡È´’©k,˜AbUæ$ÕÙ©±‡4(²Rx´­)Öd¢¹]€o²˜Ù7˜ÇJq«ëää¢sm&KPºçjÑnäñ‰Y”Ş³7HèxT]ÁÁwì&ìÍ¸Ïv„qóÖéÙÔ›dîì‘C=È_Éş×%yk.PCõ#ƒ* Ö‹ƒ¶B^Ö,Á¶w‚ô/·§Ã‘F¹Ã/1£ÀÚVİ¬5^Eî´6«IsÑ‚wâ‰B8 ‚œ£³ŸĞ¸„´¯Z	(!d4']²mÆU”<“å1¢šØ\»ÅXSeÇy>Ò¼¿°w@Iòãyœ³¡4¤0ò^âäRÒ$7 ¿ı¹I"V5A>cä>¶Tj¬Àtæ\[NÁYóŒQœ.£Áà‘~ÇllTuõH=Ä£#˜Ï–û‘ÈjxJ3`2FIƒ¥[_Ğwî’%ÒS˜/çR2âm_ç"$üVÚòD1K{Y˜Ä	èQ[ÕPD_Â€Mû‚àIPÔı¤9<ÒPŞ#®>ºÇ±‡ to BFTProxy
+Sent back envelope IOŠ†Ü!Œ ÃÜN|şlñåfÏ(n;v…?İ¥G² ‡~şwC~]1ÿ€¿Ÿûãc”1ÇÕ‘ß‡õ¸$mèg°DÛ¿ÀéPv`a$îz7g1v8r±E›Í Í²*0ˆGÓUk¯\öşÂPº›áPÆQ,+s‹ÈCŞ4q•R{ö>1–QcÅz(YŸÕ„ë´Õ{µ}oŒ qÌĞC+#–ûÍ1)FÆZCeİ–¬P úÊc|ÖÂÉ·[¢3ØÍV›ä–gTçA>mœ6¦Ú´åÿJ®eä@‘4n!^QéBÍ”ÔÎÑ‘Ğ³€yñHğ\ÄÓ4‹¸µyIênt.‡J›9ãHÒœwMîcú¸¹Vå¤dz¼Úbêo~áiG‚­™‰{–°ıßˆ×ÒPY¤Ÿ8ÄÉÖ“{=\PBUm Cdj3{;×³V–p¬îqóÔ¬Ù{‚Ú£‰"R¹¿ŒSÙ[É{NŒÁÑ›gøıG©=ÄÛ‡nXèÓéQİ_q¾•?kÁ	}­¸Û‡¨lS·6ˆÀ¡“«Jrq/ hÏX”VÓ€?ŞkÁ½!ş2=§”şÕH`©i—İ¹;ÎRcsô'‰ìÿL¨ô!¬vRˆúï¼ÔÌ¡€…-LfôİĞù¤i°	Aıg”‘xªoÌcÎÛo/Ş¢4v6¬ÈòÛ&^Pv¹Nâß•S€Õü¦µ›94_'OË#ĞûlÌi<SÏ¿N|<æiM½Srá+›ÕıÄÚ+ÇÙİàwœßR×­ñ„E.Úà¨SÜš„'î³· Ccf×rÎğ®$á›¢ñ?ÎÁ0}w›[¸ıEn‰í8—ä¼›+B$£vf+n‰šzUû²µáÊÂ±œxZÇU%Lp^UÉ­5Ï%P›ËfU%5Ë¶‹×RbîVô
+—şi£öŒƒ>¼õğ\ò‘çÿà?bÿÃŸŒŠ2äÆÑ—vBü Ì
+¶Û÷°Œ!fşÅ×Ô¿š‹q-Íğ,Î5Û* GˆShùœ,1Í˜ÉšÁÚ®*ÿÓ¾ä¹j2*Ğ#Näí¢ñ!È=Âa+cÇßËöİË–£°!*'š›–(§ùudÅã2Œb]¢¶’rL”¥;*d#~ƒ»ŞÌïAåöôÃÀZ=ôíIËgı˜Ì-]Ã Í\Qâ‘ÓµÑùcºŸ\1;e‡ to BFTProxy
+Sent back envelope ›ßr(PËúzáXç‚oõv ²²…¸Õóı•‡b›úH·¯—50#è[C¿¤LMĞ&Ìkó~À½#o©Wïs ÄÇÂÚD]X´ vé}G’aôwGÛĞº*„c^æÃ	S±gjU†	¾Eg¥×Š¢ƒ&jƒEéU}rü"•D8ôQÇHQ(â´)šd§Ò.Eb	‰÷aïfî’1ı”¯ÿ×¿hïÓ”Ai¡ZQŒú‚Vh{¤ÇhR´Y·•èÀÓ-sÉ¿‰¹€T:ù‚_å%Í1Fw¤=ş/ÄL“ä»èÊ'¦sÒÙÛ—Åó®ù¥£ù‚)uº˜9|Ê–ÎÛŞ'oéI›Üg‘P€¯Ry¤L=Â°ÁtqÌµ„]£_ß²Ó0ô<s/ª$¬4 V¡„Êà¦‘Á~?­¥%0Z&T‚Ô¸V_E}ÛNêâ0®¥û•³·”îòÃ–[NúÛß‡ÖaÆ*sÀˆ§îß¹¿;*E ŞÌí®Ítãåigs6Cô–Ù<Õ^Ç^Ú{®Óˆ(Ñ@ş9Kñ@Ç=]ĞkmDúõ+" kË1å€çåÈ‰¾ÁlÜ«5İv…d‚#¯‰âM>%Nşõ“ÛÏçÓ	 ¾tÌšdë
+t–f4å–G3=ì"yŞrpgøgœç%qEtÛìjn™Õ“4è-oÀëß•ºş
+‰ä÷çÇĞ¾S>\vÌÏ$sDT`ıaú2”„à=§\ã–ëxs×ñ§øÜ×t¾¶ä»ÏÆğ°cQAcÒÂîGß%H‘¿¤\İ¥Tá‰Œ5N·¹Ïb(W§óÉ+0ê…Tv1V/†9„mÇÑ§£\±£Õƒ2nú¶˜u&4PóƒÍ5‰(8œO<!@É27¦'Ü‡@…íØÉR[M–.·p/Â£ûÍŸKü¤Ë«"Ö±²Uã80Iè4T^±Òó†‡Zê+İ<0mù†x*¼9WøÚ‡Ø¶OÎl´{Zí€–¿\Å}ÑS6²›2|e[ áß«qO0®â­ÿÇs¡ùÌà˜Ãò¯@å ±=|²&¹©)¬ Á(Ô‡îq1²°ÜœqfËÒ~¬¥»ëæ¡-éiEÄ¢ÁAÄ™·ÓÀ¾‘ª‘â“ç±8ÂêKXáÕşyàëEõ!ôÎÃäRñûX˜ˆÒ@}%ÆÓ~8û›fg—¼LU4Îßï to BFTProxy
+Sent back envelope R{N±‡ã˜à{ØFN­À‰ÂÖYÔç=l•~@CíL™JjÀ×¢şø¼ÒTßöÌ2o¯À´†ºi»ÛĞ­–xN9áûïÕÁH°õ¬m ÂFä¶*Ÿğ&Îi4Ö’-DG»dpÆƒMyŠoÚeı(DaÎ¨³¾İÓd¼Â5êñ+5&q¹áZ¥Ş¹F³„=SÈ°oÁBß¼çasÛë¶¶Göâôû¢£Óûğ·×¾3ãƒ?¥ë*õ‰¤$ø#T9Ñş¡·RDÁo ×“êÅ°%÷ÅX­+}~EÚR1hdªÌL)hƒºĞ“ÅxvdÌw}ÜĞ@i¦â¢ç-ô,ûAcõÆ?<ÃB Gc´**šuÀd+Y©/“Ô§éåš ÓgÈJı	 5jcê»xÌ‹<˜¸ı'MËŞ&êÛƒ’é×"AL0-IOü—Sf.ÔŞ=)?wOi>ùQ½D?léV²¿¬!Œm¤¤ïVæU=p›ëü7ÖNFÇ‘˜`7Öµ=v8“rKÀp1S8KWU|º…¼Î¹¤>^u_­ºÏ}£0ÑÈÍ?Ñµu`tîX°<ÁûÚ<?±Ÿ¾‘…®+ïƒ‡Äú]I±viKÿY8ÍğªÈ—sŸ²¾¶¨§`‚ bæ=ñĞê¼D¯ºÁ#¬760s1Åu¶Ñ.¿´òãŞ˜I›Úş±•øí
+Ğ©ş
+jÁwlÿ'7Âğ_˜'ÀòÙ=2»¢eë^ÏaÒi[3Òa8EØÆ!ˆ‡ı]¶z~	a_CÿŠš1İNTßu™Q6_íU5EÚÅ`Z³,ÚÑ
+›êÉt‹7Ó§ğ{•„œbpQ‰wÊ¾½Ñ«ô¾«…‡a]†·á}A\]ŸœlÇ®U* ®8§‡ˆÿ9\œ~*ñÓI3ÎÏ¨ÒXš±×öw%úi[m`Ò‘ ¨ôµ±"÷,Z‰”Ì´r3œaw£í¿\± `Ù¿’ZMÛÎ{à¦QíO)9ï‰ŠyÅ”ä~&nWÙhß½+_9ŠE 0Òø·´ca?{ğ×xO:c4?`ú:üµª”ÆáÖd4šÉã~ùÔÁ¢ëG~V00³k>2ÚOÊ¥ıµé9ê‰®ö€>ò4Ë+PIæÁÇ;ÿ\ŠU:â»‹5\Ó#³{ğwd!K¹ìÎ@ÌjÙ¦)8€ †Úmä75êó;2­ to BFTProxy
+[3] 16 distinct tx synced and 0 tx left in the pool.
+timestampE (5, 1554830644.281746)
+Sent back envelope öMÀ]ïjFşÉkÎUB1D˜<E–ë]ú%<VpŠÛ²IÁD—™€É Rï>]´Ù/aXî†@§†ì{ÄG«¶§G+sxËz¯tåz¢Ë4vh·Æ ŒıåğPHõaR¨Û¡ĞÚ%¨¨	"­“8Àm:rÕ¼#šÒ¥çã:3°\Cv©,$t®À& )sÇÈ qõf5ìá£w³à/ç‚‘nÕÙ(…}y§•–øZS±üµİX{ßæß„«Ù(õj^jX²$287ï¤¡ÄD­¨CÍiİ‚Ïø™wÎ¸ş,VC«Ç›$-®±oQ)¦"E,•õ€sF¯S—*ÜşRˆÉo;lëô°¤õ¤‚&íH#…™ôèìĞ`†gÅ‡@—Ÿ¿ÁÔ
+:?E§2Î@1]B&â,÷x1ËVLAÌçBÚc61Œ¹¦³›Ş4&ë;g¨Ãó.jÊ€ÔyzÄí:iÓb2UéÉÊPŸ2Û +“àNÌİNÆ€J/˜À¿¬¤`ñ‡üI¼ûa’e‡$’@à(X/,é`dşgA%œÏB °'”L	×şšÃO'üqİ²	I0QéÄñàjï^¼ÀÚq/ß¶’Äf<ı´şåí1hM/®92Z#¹n+íü¿úº3U™×r„à¯W×
+ º†~C’Ì:™DÊÒáêõøBzÛ¤d*s—½Dáª|NzÅ+øŞü7æÒÂ_èîYÍ¾ü$óZ>M3O\ğd›{™Ë›hZ— Ğ
+¯OğKãìØÊÒ?d¹×Li”¹ªxU}”v]QÌëƒ¯$éÍ¹¤Ëêê÷øPmDFŒ~éÙ$Ã«tHof„]†Q¬®üÍuìëQM~_dÓÁè»¯ŒõÂÉéö"øŠbÍ×ØØá„oê&Kk÷_ïá ;¼ëˆtDÀÄ ÑÃ'“JÔÜº=23"¥FM+A£o½†N–]h	ìmİ‰ğ-®¯„ç·ğˆ•µÂÄt“Ò¢÷Vù"
+±ã\ùˆ°“µ’¶ß+ø—ˆETYšåª¡˜i	¿EÖ4…8"/«úKE£zê@Öp2´ÚÒöN‰Ú¦Yä1Hß±Ñ$ÑÑi;ZÂœ2óz¨#kÔÆ¦ÿg2nÎsXCL>|jÇ#9~Å‹ßBzıÌ~3„·úñGÏñ.À_X#BÒÇÙİæugC:N¤Oq¹Â to BFTProxy
+Sent back envelope  `ÿú&hˆÀí5¸“`¾ê.A\¤^Ûe¢_çÜ‘)V}Ş|„º>˜c/tÏX˜ƒ­ÉöÈäı'ÊkÓ»_5ê‘cF…ü1%‘¼NıÔAù®â–Mó`Ràã:'jë&âÍõßi2&g8n}Ã@ïŠRuÉt0C²é>8Â¯`¢+íh—×Hå²4Ü>’@ûÂZAĞ»Ç²¼P\µdO3—C§ÿ¶/©.ªLFpó¢7X¨èÊé!Ä:—™Û]šÿÍ•O¨*0"ô'Ì'‘0Ê>´§8Ş›ßø9ü®xè9Øœ’¼¦{³øİ…@+è_%Â‚Â±ª S°Oß¼9Qá0W?T}.÷ˆé$Ë »ÊëR[)¿èZç3Qó˜‚•hâÏEçÁhïÈöù¨¥]ƒUÚF¿Ÿ0­Ïys¢<·Nã¸;ùÙ´KƒXÂÎó Ñ:Aê:Ê–ñWıĞCÌâ¹¦Œÿ·*Ûò· ˆo}Ùf îØuA„ä<X“˜VÌux·’¦oššùRZ±X‹İ1{#éÆí9’óÀÛ¼SaB­ˆwZ¦_k:˜D³´•¨Gõ[×n1µ	.É¬ì–y™šDÑ‡"à¶?GAwiì£rÁı¶‚ê?© ^°g¿–P¤}S…;+7F`¿Y•{…UQId²L§€zÆˆx)…{×ñn¤¦Ä|ÌóO˜EÅG3E-¼([ê3jë„ÈÛâèm!œF"cXïk·„ì.?T_^nÃ B*ùW Å‹¸#44¥Ge1
+›şÓöáØ´	$6*ØŞ¶d–§ç#!ÎèÓ%ç¦=¬„1t”sÉğÉ±™`ƒ}¼[H§êr\“ß«O¸=Ó{îâÎ¢Ûx«Œ«†¿IÓ`–õ7ê ĞÌîş•W"if ›~h¶7ğ= ÚÂÈg‡Ut4W! ş5ì“W…¨¼ÛM
+¡c±±¬ÿ¸Œ'7â`U¯·z:½ö<Ã€G›E›3¢”zB-Öd‹{„ù†ÎyµSÉó{“ÃI‹´•¿|Úé¦E‡u¹´çä3yÔ`=~œd-úÂ—œt,Ô£N f2¯nÚó|µİ@—¹Ğv95…ş >M$UUP";,mrFá>Ê­å›bl‚’pš»\ ØoÌÿK^°¯rPZf	Ö~o0]·Õ'OÍÂ~)õí˜ to BFTProxy
+Sent back envelope ‡?PQò
+ıÚ/ªşÏ'«ÆğCüvFĞ+ôóÙm®73ÿ”TÚxŒ/W4“áı|dÅ±ßòƒfŸc!šÅádF>ùàÉŸÇ§—9kµ<¥@|()¹Ê4|I|£ó›‹_Ö8S{|‡/e®¾üw¡ô5eYé}æ4…úŒTšï;jNE1šr¥\×‡"¿É×H(ñ*¤Ät÷>­f†JÆ†œÜ~©¯²;®àÔ¤E;ïb¸X3®£7T²ç{®qˆÙÊ(Šİ‹‘/_ë­ ş}Ğ¥İãÁ8¥Ş«zâó0ÊÂ›Õ-¡!fÔÆ•zÕ]¾±^SÌÅ¤71U¿&œ(È˜+¡t*!m@ƒ4°ök‰¥¬p\"´ëœwŸKÕ / •-Jõ¦½L7ûò¢€¢oêUÿÃ>çÎ€H@leä:â5‡¬`M[¨ ¤j¸¿é‰ì'MùÑ¤¨¶ãõ]pÚuƒœ<0 +V—à9(6wâfúQ¢‡RÖÂŠ&ğ‘IÑæÎ–$?5;6æñ‡nÑD’öª-.Ûª* «Úªsuå“å»ØÂïŸ„šHé™u¡¸úã—ÑÎ‹…
+Íÿóoƒİ€¯ÜuZ¸ÈyïgÅ*•„oöLaŸGÍÓ‡+«ë«›Àã¨p±¥Yë£¡Ò¿Ğ5óõ6zÆ¯M.H>r s—¬r¶€UD§^ÄX:aVx-Pã«¬=(’rî[/˜æÁg‡Ş,÷ĞRjÖÎ„L*Àşl5b«Ÿøsíè{ªkH9($cE.ó¡Ğr×!KÍpP,#«S¢YÄj,œo 'ÒŸÅˆÚ)'m0&å=e†Ş°ñ¨„.‹ÒXdÈíÄÂiµu|6¿×Ùl÷!£Z,UbB
+|˜š*ÈåäĞ>å¼qòºfqÔ—/Âåò<ù{²‡ø'hu±Vˆä¯mƒ%ÆN*Òü‡51{¶=­6î¹œ¨£PR
+eFo#œaô$±ÛÆóLëYFX‡ú2¦—Øë!$WÛ'Ÿ‚Aô ĞßÃ®·@3¬bË¤Œ©¿HÜ†x” IOfâÌù&áÅ?;6ƒ§¿á¤ğË¢u6£kr¡@G§ºå>©½Ø ì¦¡¶êØbµ+ad.ÙŸ—zft×S‘E…}ÌŞw ©µ8±‚yHHı¦˜t¼8eW#?êHÜÛkğ€iiùUa¦ÀÄmúò­œ™y§¡ to BFTProxy
+Sent back envelope ‹ÃpŸ,„kÛ&3ÚSš¯‘wj}4®lypy‡ëé_?[†³?¥×xıò%çOŒÍÚP[ÔğK‚c¤5­+¶'¤PqGì­sUeéñç>Q.€n
+r'÷a	½wH Â¯QÒÁÈİãw)¼Ü§…ò‰'­…v&¢Ÿ®|=©if½(2YÖ)M¡õ!"Ñ]¤|ÃnäµP3©MŸÍ´'ä(¹*Wâ­Ÿ~RôÔUpÄ6~°à+€ı‘+Z’9Æ¿Z	ËÃŒw™Dáaeü®·àç³Ú6°´×X¾²ûm}O¶J³S"íõCŒcC?’>¯Ç¿¬tc äêÜõ–ÈÒ‘ZRMÀÚOãÖO4,QÂwê‚ÎAeŸ%íïC)äş5§¨&{ÅˆNvI¤£å‚\ÂæEÚ@Âí½XÌ–…€Z&üİ¨ç¶ko\mê-ótâ õYS$wKĞ9YCMĞÌ¢.¦ßöÎ ½OÈŠWXİòó×ÿ¸]fúİhØªÔ·N<6ğt@á¯ÙéÍ¬›v5/aÉá»fÖñ‰uë¥„PB<CÃÚEUó"–ã†ãüÁB_ ”Ş‡E^”¼«j#ğ$ÊòSwğk<ùrŞÅa§[»©sš·åÔ@`5Vn¯lgÃ›ªiÆ\zˆSÒM”`ğÄv,÷[‰ƒIcîã{åìŞëñîo3n¿ì}CQi úššR¨¢ğ°8vUo‰’˜N&î!ÀıUÓ»Y»aLê$$ 3ìGjÊk—®vlÜA6Üî¤a‰ˆÃŠ©]lÁí©L]nAú1s™\É’qİŸÕì(/É„íhZ_Äô76s‚°â1z°Ï·çâ¤åË¹ÖÜygA²ãˆœ) kÖÆ^¶#ÑÔU¸#$Ó	zóQ°T¾Âˆ3“E¢k^-åCÜW¾^± ŸïïïÆÙñÊÓæ7 ‡Œ§Š|s'®‡…=ì5`Sìí£ËÏZœ6lKˆ±b”f)¸ìé4 ‘¥ÔˆÕ´¨÷H«IgñÅ!n«  Do·"`tş›\ @LU	yHJ¬Û‹¯¾éboiï LÍË¾ş…ö¤¢kà›ÌH~òÙÄ7^×®áŞM.'&‡9On^9óÅÒü¡:nü´9ã
+’§Ş2ÆŒ»®•Åz~‰(©ùÜÕHú‘/ to BFTProxy
+Sent back envelope ÊÉ¹FëbZ&‰àš¡Ú2©£s>&Æl–²B¨úÃœÑÌş­ÂÁÉ¨Ó^ÌíÏw”|¥	NdNÄ>ÒLT¨…¡À¶–¦ÊãnFm •*(AzCßıNè, VkúµE@›Îšt$	£ğ¯œR«_?§ß!éŞ“RdÕLã2Ò$gı-×G!±6]ÄËøßw‰kÈ6ûúø1¿è]=#S+ ™A½£…ËD|ómu¸~eebI£,Vìd”@¨‰š÷pWá€Xq´pÑîâr	E’1–£©CÆMbuy±ä¢ä†Â.Cú¹9göËIs¹YÍÜØQÜã¶VRĞÏßï¡·òËS&Â“ßª¾’€ÀØ…ÆÕ$Á-Á/ÃH.ó)b§`¤_A¸àÍM_°9ê/>ö¯ñ¦í§P¼8ôæ«cæ?öTÄÑ‰E¯ñuŞÄò+Ù;½¯šóÁ	—ÀáÚJéÄN\{ë€ƒQ¨bcBá¡‹$W@~üùÕûî¸h‚oˆ­ÙÖ«ômîMjD@ù•G&§qÈL
+"äÿ\„s RÊ«–ÂšTØƒ‹«K¤mUaİ:t8!İ|ÉßmáfC€Ú¯6f;”3ò6•´mÇy_‚åu F¦¿¡É#x6'ôn¿6˜½6ynçT	Õã4F‚Û®ş:wn;È¡pŸÇÏÜÈoĞÓvo!‡ÊH)æ§äııÊŠmÈ',—–3ÜÌ÷ş5¾*?ĞæS¿¾ª¶Ùkï3¾Aƒ[©=ÑzºG8Ğ{tuüÒ–Ùšëí· |õV2·éWüÍt¥7G{v0¹zBïöN™+U6T@>Ñè WjpºGÇp˜$mø†¡¨å¿VÀ£x_M3A¡ W:…>#óè¿øâ”Ìƒ¯ŒˆNî@‘Í"ıQ¿ÁA/âÍGß&ÓòDEIÔ.T/õwÑÄ<¢0™Õ€u«I¥(„“3ã'—zˆ•åÌ¦Ó¿î0Úµÿ¿Úwòê3«.D‹O‰Ù$
+o+ä#hbš6¶.¥“ ö‘Ñ`\}3ÆuŞ#K˜ ‹˜@B’ImMd|jNDÁ›Óáb)%fkÄyÖ™'VÌÁÙ¾õa˜œëóö`HÀÂ¦>Zk\oğc÷ŒÍa÷‰äÿAö“¬ˆRaÆMœZ„W×å*|-Køœâú¨Ğçs­/„Â_:®Q5¡ to BFTProxy
+Sent back envelope ”ç%£äò®[½Tï>ìcZûÙvZªùSV/ŠMõŸä”õıüqInc ÚO&“ë4:†Î˜UH{MPä§¹Mğv¦ŸBt|yÀÑ,ÑÖ¥÷€WxÊhv$©W|z¿Õ9FPJ±?ÇÑÿƒI€¦ã<Nçí
+Öª¯ÅD»…+9idÕŠ¶·¹SwçÓûáÌIğb>^Ük¶tˆn óFEÀcé~Çf.,J³a€üóLP:Dl+²-AæéJù>€Öõ£àj	°õqf²8aG¬W~‹÷ï*ª!İP¨ÖÊBş&á½pNÔoe3Â+¡‚L$ãlçªÍ<x FNtŒeèÚ´K(±H''a[õÃÌÅK»0WàÛ¸ª¦‰‡ì‘ĞÅL­‚3O
+x˜ÁZZÍzÍR\Ú'Ø¯„B€9q9.§6¦OØÏ·GÕ°j7`•<ÒmâÍšøHVø(e6J~o…b=¸Ü°{ÒŸH%æqö»ÄÜªØ`~%›LÜiPÏ;‚D´7‰c
+‡£‹Ee¶ıª´½â‚ÚÚáIˆz„ˆÜŠøØ#–;™sŒİ‰mŠ	&Uu}8%Ó–0Ì:ĞAğà•hğ–.Ëa’°È¸1?l.¯cÀ£g‘+deÚ‚e&ÑÚ-à˜–ŸÄ+p
+¶8)î8âªÔV’ğ)g„Äjã%-‚»P{£HÈë•‰åç8.OBº#§ñ)óÇ×·‹QZM´N&ª§hı.?A6)"<¥p¼<Z8¸¦ë\S×“º Ë½¼ìÓQÓ÷9F&°Ïuš²/ï&5Ã“D9³Œí•6±«n†™]Iø°¦ÈÈôÎĞxnd¹JÿEfD¸ÍT
+Ì“âì¾i|vmë*`
+­o X®	•%\kPêÂ±F@òÙ‚È2}y=_€½[”ë»€=£­Ë°QÙ§z<éÂqlx¤elïù)ş–ÂŸÎÛJ4{úíŒ›ıa±ˆÄÁ
+\&=ëÔ}ÄÂ™©hV¤t)¨cĞ-0Å/+rÖ‘g/°Æ/dZØç•½ì:İNÍ²Œó—16N9
+$ZT;À¡Hi¶‘™ØJÿ|ºØ ]Ú¼Cm»ÏJ¯ÎHSUVÂ’~ÍO“£;Q½y¿búw… =´#©^YâN‹/98ó«éC5¥Èé$/*oïZ V{H to BFTProxy
+Sent back envelope cé“xRgéKZ6EŒçrÆ>(%
+Ïxı5¢	¥©$OmÉ“Ó5“r¸EèMZY8	·óGzAFÿ}lËPÔ
+ÍÀÚ ‚fÏ‘;<ÈÁ¼Ái½L†ğÂ²Ù¿AåökpôåHßÅ0øvÑÄ0l¸Ûñêıõ¥ò¯¨WUL‡Î÷ëz&hƒ÷ÿWo­,O#ãsÉĞ1ê}Â1I°­ÊOâp¾E§Mç¸Ô®"^e²rÇUŞÇNä½2ã±÷WÃ¥[FîÍß\J¶¥5ïøH:àz_ìp¾Ët´Z{FÏ8|:T†{­¸úÅÌ	,¾ä JÕ!ñ¹‡ &d¥sŠÔfë‘Õ.ˆåº.ÔòäÒ£–ÄçNS5ÇKwÛéÊİ·¤ñ°¯†#}.(ãËEİ¯«ŞEÇ³Oó{İÏ9ígÉ^qÕûC1_‚óçtsí{KuâRòÜJßÅ„*(;|
+»'™ÛÔnÒo`í.•‰`9m¦Š®»Éµ‡?Vmİ€; `»_ù%½^¾ml%Ûx¯¨ˆœ:*C/„¬fšPàQïÿÇÌæµãOÔ^^Z[˜K0n1‡½”j"o-åšô‰\yh«REI0]ÛÒc5[Æ“J¼’Œ<-š`~ Å=‘I Ji±ò‹àylqÀÇúz¢%ÎÙÛN{§À…qAÓ'ŞŒÆøSíĞÖd6@|©óï!jâ·$hU˜™]V¬Ò‰W>AGïy‡t»
+Y´ìO<#&ƒ
+¾—ÔmEÌˆ“d„}ÖRMy„½5GâÕOngtUãPpaÃx¼å	(²½Ù/õ-Ë}vÔü\èÀYõåı -z•à*IÓgú÷]òaşñÅLÌß%›ã´Ü
+Ñ¢O©†;¨*:$Öu¢šl‚IBìnkÚyÅP&8&cÀ¦¯H¹”åí«`{wpM¢¤®Ñó¹óø=f¹¯¾±ÖI‰¦j­5|®rl‚š³—‘C|—»EÔ*˜,Ç¼-ç{ï³Ì®qpq³/l ¸¸=ÓƒÃhOÒnqptá5mÚ†˜PlU:è>šaŸ®·hB,µJrõÿX=p–¯è84ÄW\Ş‰ù±^ÏÂ“©Ÿ›d7ZLwŒQÇßŞz]9P«N…™Ì›ubæuHégU‹ts!,r“Ó(±T—ñòáÑCÜO“7ç¸z£J:Ç1ÔDô° to BFTProxy
+Sent back envelope $ÿ^Ó8}ñM¶ÇPÜ¾à¥(—ÈLw„Ô}ÏÿÿGC‰ııZN÷_4:ÙÁ­s`-»B2>Ñãšgòì{
+qñ‰›GÊÂ
+î“˜Sò[¼38Ük¢Ã£×tÁ‚›ıõ" ™å6s]¼Æ_áK´–wğ~ù§I7ö›t]²…
+ôÍãË¦Õ¥¡QAÑïfó”´Ì3`°(ø|åë½lê¾Ôa|U,”lIÄŒz¬ˆ¼JõOÚäıÿaïåƒ]ˆlB”¼ }3P„‰Â;<‹)EóÁÕ-9(6ú»mİšIBw¾¾aU „¦îÕzBŠ¤ˆoê&ª|¾ù¬¶l€Ù+»ø)UÚoÌ7-Ã™mcå&eÓ†u’nlc¢Ñƒ3…6q)İöSëßOàB"N,Ü@Ô-nğEôZXØã–SÑn<*}¸74É(×@o*¤ïöY(éRKÅoCĞceB'ww{ëÚèP…Å¡¿”íËGnŒ÷šËÈ»ÂK!u^rF¿¥nQµÁs¢TZVø]{+èäÕd‘ÚV\jæÖ$‚0û({‘Òˆ¥š2*=ôİ’¹Ï|-‡[ZÌj8½k\á!·‘@ñ‘­<T-ÉÄãty€3ßòk$Çº9\‘Ú¿Ùnm?äÂı­eK |ßÊ)Öuı.»,Q¿Ç®¬-"NÛ7”ã'ƒxîÃyÔIb™ßÚÓ³—;o½œ1äZğä6ÒÃ)~k‘ú—:~NéĞXŠMG ú'V£rÆe4M>q‚E†ƒO#Vh€‘úlß–¢^$F­9…ÿ2);vE#:0…ôè$ñ®ûWÛğÎ¹×õ…ì
+y–µ6cş\Ik(ÅÓstôùz|ÀwÄµ“RZ…‡J]Ø×€0^ ^ôÎ> Œ”ã˜½OøÜÈ9ƒ!;)×N}zû>&íÇ=UR}üãî+ø×BÇ©<­ XÆØË¶Èw?ïm"õÚÖtä 	Í#ˆQ(LïÈÊ¹‹Õ“'$°â†LÕêê½ü¡¡toº°ø¡F&ş²–³,Ìà-hŒ.Ù³úwáäzµ¡åÌ+~bJ¹-…GãB:ÎsE4AâØÊ¹¿¶rä+Gü#³Š„EÿVœD‚í˜…`ÿdƒ#õ&0Ö o8Fb”‹ØŒr9ÃŞ«öÓFëlS to BFTProxy
+Sent back envelope 6.Fq‚‘Ì÷¨Ü‹Ó’Šè’²é=¤¥¯æZæºıÃÄÕ2»¤6¥7[÷ªRäÎì;lı)(ı0›Æ.—€iæEæö<ÃÕü©Ôİà{vCË²@}s…E4$µ²M®ˆŒ¡ñõuH‚ìmZÂ*:[y˜tÈ ±(|µŒ’›²t£’Ã¡qXzdk9Ğkß‘Í¥›•¿¢™­h”%ˆÑGµ$’¢ÂNõ%ËNB­ëAèB¬	­úVâWPÖÁ×e]×gõos)›a€p2òËbÜoS 9dM¡ªp(&}‚7‡À¤: éLµ•,İí‹'0wcº`K!‰±ıQ½Ùg¯/kãİ)$İŸ’C…]Ì²x„Ué4çÏóú°.]„.ÎÊÕ¶¶	äö +ö>êËJL˜““ª•®Ós6¹_£\NÒ#¶ÊÙæ²ášìÊê ÓÛºÔ ûç³™ö‹)ìF1Ÿ³xÚ‹]Ò¨Ó£Iay•×Z«3ğâU#§&^œ<w€O¯”¿Eà{)¶uY³íÂ(mÈùıA-ø«rº-pĞóÄ%'ü%˜scâ[­3’Â¤\¦º!YsÛşP®vç­Çh­ÀECU¾/_Ú.f(°ÂüpÒIs".UÉ	€V=ŞæÂ4Xp…‰Ğ3À¨(5§Q8g²‘§+ÛÛå€f±2¥.z½ØâÊI˜ >q³üoÍÏ¿òùş~î‡$ıõùŸÔv–şGµ³á™já…ˆ	w[Ô4Uq—:ö|öN¢Œ7°G½‘,æA°7#à7¸H˜v&±¹sÌO»b\ÖlÀšMÂ¥sşe£kê_XFÓ¿B‘èï®Bğ@’•e×zg€¯äL'xí¤y’ë‡?Î$7b	Şl¹gö&uÎ¶™øvy2~ÅœM¥rL¸XZÚ W9Nêêİ|§2©ºÕ˜†ê3¼¬Mg·#JºZqÉF„xr>ëÏ‘ğ‚N6¶¢Á?JE¾€-¸Ëİ~&¡Õ•ù¨Ë]ˆŸÛuÛxhÊÓÜ… CÒÈ_–ä‹X‘ƒøÀWË±Ï½äHGx bÊj¬‰äì²q@â]ı›©‰¤]°¿st#,'î‡Æ<­aÍµ·3£e fœqóùmKxà>f2_z æÛôİŠZ­Ó¾j.ëËØí9©ãï£,>|y€5Á}Ó¶_ to BFTProxy
+Sent back envelope ƒ@Øüu¹{ŠÀ¥¯dx	ˆÌA„=s/Êa/XÁ¯UÂ¬ó©Ö'ÙöâOö>Ÿ)[ªš„éÁïJo+r–‰Ø&¤qaŞ»£)Ü1lØWÇ×G)Ã Ü´ø‡MQEã‰"•}Ég¨II+%¿À(Ó+j\–Ì~)¿vù¿ô‡æ|¶Ì©äuÖ>0\w<NU”NîNñQ“*K€tú)™“ÑŒØr‰±>æÃ:^3k©“ l¨j’¥„ZpA8ù¿Aû2×úwĞÑÌÜthª™TŒzşG_Äß–Ÿ¨ Ìâ—¨©0œÔdæğİ‚¢ÿ‘®è¡g@D&ŸİÇ16ñJòØñÓ`÷Û¿ÙÒˆàI¯ÙŒ°ÙTP¥‹éÌ|œ)÷1¨áß2aäqÜyÍépcèï©È<~ròZÛJ’aÖîç¦É>(nµÎËÇ™ïæ”­EÜáu)ùEìuGkÜ²l¥G=¹GŞŠæ'6?=İ#ÅÉRÎ'_{\`òİÿÛFej$û!¿bĞèşìhrâÉÿºs–7YÍè§ºDó0ŒMHbœ’¸
+(| Ñ"Z˜¸dÄ_#:¹Ç-ğæeù-æ­‡ß’bÈº™=3cA]¿Áëş»”'…÷öl[ã‡äPC÷·³ÎLÿù§û®EEN[B-¼X¸RÆ¡Ëa6²•›F¸ŞµÃ¤×úW]{D‰å›[UÅ‰­¯Ê àPŠ^Ë»Ví”.Ç©„¾Ë™9½Ê½±óô¥W¦z0ü /Z	Ã–¡J_Zÿ»fÕxpñG£P3^ëÄyÒPllîi8mÉ¿)b`»0ÿ@±u$NÜØÜ©oê¸DW8óïÓˆnOZŸæì’MS°RÆ.®H*Ç¢ØæØHıİ‡Â+Lf…ò®"öDœÚ]ÑADóè©ù»ÁÜà@6?¹zÿ®`G÷¯9ÊdñO«?¿lØ³‚|5–Lã&¸®0'C¹~ı‡oëÇ—æÉ¨íÖá…ğR2ï9NÒû|²Ää“Œßâ–p„¼£ú6DCå0âŒBœeMQeåL†÷V`™Òı¯rJ"Âí{3AøzU`k\V˜kè@õ¶øŞğ|Pu˜oÌDAASwéJNàvnÏ8ìA”EÌ5€ßÀ!ÄæL‚ìtÅÖ<”—„Æ¿,l¨€ùÀÑè}#ñ¿ç to BFTProxy
+Sent back envelope å™„{õÕø³²35Ê °Øß­À¿ö+çÃÈgHz,™ó0İ”–·?\³şxùw#"1ıİÓ!rÕNÔTIh3{ e½S*ö?zPdG1dıú|29UU¦l¨d{	Õ%^G¢j­È&ª¿ÛÄ_GÒ÷tØ.ş‘G	‘Œİ<î?ËdlrSuEÕ¹]Fè¼”DÀåf´ÜÌ*#Ue[Ì-TË/ÂáYìQ´›‘\¾d<tçÑu:é™W\ö¥Ò¬qÃ~
+wëÆ¯´|Lé:wŠk–Ÿı=€ór2øÏ9Ü‹r¾ë v{n¼ø.Õ¡qË~¤™ú/á®sâ®°ZjÔ‹O'Äè{p`ú©3Œ[¨W‘°£S”prs;tEÃ:
+ReÛª‚¹±Ë"6¿Z¶z„ì4s¦ SÇ;¯:Íğ»}F”¬¨¡Qf3mŠßÁıBì)o8¨‡æ	.Ü	4\k‘ı²¢7²Œ|üÑ®+Ï„Ïbè=½øWªù%báÓ £4ªR€Q]ÀÆ]é®ÊŞ=AäGûIª¨3awÖ&E®~„	¸±u¨îµÂñÒ¢g“cwÒ¯ÉÒOe”s¹ÂVÆí3‰3Áh2Æa·y“ƒ
+Ã ËO‚Íß¥œÛ‰şØ?e$lìr&$DÌïfÉéãôLî–_Ê§° #œ€‡½ôeÙO÷XS	mE™*6nXt1ƒ4}£9XŸ,‚ ”	ùŸÄ1_ùÓÈÂu{{ÕRö^ãÖ@^TÅoí]ºz±‚fC3‹ÈÔ Â((iÃ;
+ÆßÜ'¤p6ËÒ†y*.W—>¸˜ÙjìÅIõ–…©Bê§	¶ĞYàib¤]É)ˆ‹ŒwòÒ±=şR¹HM¿q:T¯}ypîÁîİ¤Ö$pg’öEÉt¹ÕVÜ¥|ÿÍû—~¿¨•¬× Oˆkó´’­^XêwP·ùÃHâU7Ã–Ê#[¥¬	hò¡4xñ¼2sÄëæ”HÉè}Ä¢Âô1ëèq>Ø€ØZ.ßêzJ„ºhØ™®tCŠÓÖDæ–&ì‚A:+Ÿ¸ÃÆ1;7×Ü¸ä¡G1zï´#V$ ‰D¯øåÜ]>94@šæ®-l†À¹†¤xBì¯Ù=NÎşõÕ¥¥î½–•…@“3ãƒ>cævî­/ÅüJ%+ıã™!÷Í™½Ô^K]$2ÀG to BFTProxy
+Sent back envelope @±qˆ‚…!ÔICà„“MäÎ­Ğ§8·sEK®0Ÿ£î¤¤AšlÇLG C€)…\¸½£:
+Ò¶©S¿¦D‘TIÄ I"P”y"S/^Æ¶¢¹”R*zó&CX›¤Æñq”mT2§°ÆĞ³[d•ª–QRò"k¬afdL31£f;ùr,+(S&#Ø ÔuØ®—•dQÜÄR
+ÃBZü[NıWvóyìıfX—‹¹/Ä„Ï-ÚêQ÷ÿ¶ßãòxé0ù¿XÌ©èÍ!Ğ;¿Q=d#bÈ'ÿp¦jc$µ# QH¦X­kÄVFH°®€¤A©m¨b
+Æƒoiç¢ã9ûÊùpcŞ¡î·g¬#MzàÒ\¤ ë­†P-z¤mcûé£Ö$U1=Ìõºk·šÊµ‘öTÃö}iYRµ‚MY£ÏÑ÷nâ°qÙ¹	ÂQö,ÎÈ@òã¬Šmå57a·à>ÏÈn~F[BñhÄêxÉÂx©óO~”|zL˜Ë0-š°|lºÏQ,=°%ß”¯J/…½c¸]5”âàFp6NT®!GiAmé5ZJÍlı¥bôAÒ'XkaÂ&/[Î+ªzd4¥+}ºqJD®N°Ã€ûl¨sO…µ­O"ò&~Ô´r£æbÉ™Ñû	Í#ÒY£#7rlI±Â¹
+XÖ±ox!¡ªiÒ'w)ìjXb\êC†ÁöÅ¿N/6X¹Yõôs~K‡™üéh·cúäªÔ££ãÛ€ÆOšˆ°µ‚¸°¿£$pó{šÂpô}X/@H^=Ó¯üíç{íÓZ9:âÂûÒA°JiÍaZ8C¬l}cB@ŞE°‰tŠÜÅÈqvBĞÈåÛTÌì<?Gõp¥>hv¬z]€zFWşÀÀ,VtÅù(³Èçƒ°œÓ¤à”ÆlŸ¥5s£º¾óÜKÍ^ÍAÏA)­»øTôºÛ|Xåu–x Ä]¿¢øq$¹$uKƒâÏ_c/Ì®M×3ÄüŠ¨µK³¿Êà,¾\Ù[‚˜Y‰S€`%ü“>ĞÖÑúSjöò¾,tR¤~ºK,Š4–ò…ŞƒÎùıÁ%0CR›Nš9¥Zr0™šE¼5šÛOºÖvÁ¡²©%–Ş*”æ%éß¥€N¤‘uÓ¡‰Elş±ªƒé%qDÑ&Üp®•œó%£“Ò¶õÈ‘+Å to BFTProxy
+Sent back envelope :uÑ°ÄznQ,.3…ıù°&+ãD(~ŠÒş	+—D’øBµ“×!Äöû ï‰®ì9GCëk´" R”“·ZßîÀ&ˆfI&>\-'¨FùA¡5Â-uRAU|(¾‹;{ĞV0#TRÏ@}×ÒÇ„Kg4·Cƒ6å?¡óÊUH³k›y÷%(M)ª¤÷§yê»|TĞn_ÚC±ÇĞ-+tƒR»†¥+Óa‚^k¬ĞÇî¥]ÂÓ¢â¤êK\3‡âª6­z }O§?z&;»nĞ®ÑâH|Á•kÁˆ¾ ”ñrÿa@	Vòm>gÀ¿ŒlÄ+‘¾Y J¿ra,gÂ]ÏŸª  6Áõ}3GZ]ÂÇ¡ÿ£ôã,Ş÷£‹ƒ¬-BËƒ¤I@w >èú¦è>‚4ŠTÀıÙ ¬‚MÌvì€X*ø£Eı,²Â«åk_'dÎ™Nu…“¶ŒñÆWªÇ úİ,ı‹€·’±=Ëó…‹KcánÈfNıOÜ÷¶«)j@8¤‡‘nô”yJş¨
+¦¼PÜ®òÜ ‰1
+,¥+oín"	öSìù>|ñÍáŠßYàià%;İ5ë
+Ÿç]ÁšÖ)E­à8µ8T¥Ç¥yfGo·C¸€U×ŒªïıCÛœ|fró'h¤.<Ü`á*iw~C Çaõ®B~‡È´’©k,˜AbUæ$ÕÙ©±‡4(²Rx´­)Öd¢¹]€o²˜Ù7˜ÇJq«ëää¢sm&KPºçjÑnäñ‰Y”Ş³7HèxT]ÁÁwì&ìÍ¸Ïv„qóÖéÙÔ›dîì‘C=È_Éş×%yk.PCõ#ƒ* Ö‹ƒ¶B^Ö,Á¶w‚ô/·§Ã‘F¹Ã/1£ÀÚVİ¬5^Eî´6«IsÑ‚wâ‰B8 ‚œ£³ŸĞ¸„´¯Z	(!d4']²mÆU”<“å1¢šØ\»ÅXSeÇy>Ò¼¿°w@Iòãyœ³¡4¤0ò^âäRÒ$7 ¿ı¹I"V5A>cä>¶Tj¬Àtæ\[NÁYóŒQœ.£Áà‘~ÇllTuõH=Ä£#˜Ï–û‘ÈjxJ3`2FIƒ¥[_Ğwî’%ÒS˜/çR2âm_ç"$üVÚòD1K{Y˜Ä	èQ[ÕPD_Â€Mû‚àIPÔı¤9<ÒPŞ#®>ºÇ±‡ to BFTProxy
+Sent back envelope IOŠ†Ü!Œ ÃÜN|şlñåfÏ(n;v…?İ¥G² ‡~şwC~]1ÿ€¿Ÿûãc”1ÇÕ‘ß‡õ¸$mèg°DÛ¿ÀéPv`a$îz7g1v8r±E›Í Í²*0ˆGÓUk¯\öşÂPº›áPÆQ,+s‹ÈCŞ4q•R{ö>1–QcÅz(YŸÕ„ë´Õ{µ}oŒ qÌĞC+#–ûÍ1)FÆZCeİ–¬P úÊc|ÖÂÉ·[¢3ØÍV›ä–gTçA>mœ6¦Ú´åÿJ®eä@‘4n!^QéBÍ”ÔÎÑ‘Ğ³€yñHğ\ÄÓ4‹¸µyIênt.‡J›9ãHÒœwMîcú¸¹Vå¤dz¼Úbêo~áiG‚­™‰{–°ıßˆ×ÒPY¤Ÿ8ÄÉÖ“{=\PBUm Cdj3{;×³V–p¬îqóÔ¬Ù{‚Ú£‰"R¹¿ŒSÙ[É{NŒÁÑ›gøıG©=ÄÛ‡nXèÓéQİ_q¾•?kÁ	}­¸Û‡¨lS·6ˆÀ¡“«Jrq/ hÏX”VÓ€?ŞkÁ½!ş2=§”şÕH`©i—İ¹;ÎRcsô'‰ìÿL¨ô!¬vRˆúï¼ÔÌ¡€…-LfôİĞù¤i°	Aıg”‘xªoÌcÎÛo/Ş¢4v6¬ÈòÛ&^Pv¹Nâß•S€Õü¦µ›94_'OË#ĞûlÌi<SÏ¿N|<æiM½Srá+›ÕıÄÚ+ÇÙİàwœßR×­ñ„E.Úà¨SÜš„'î³· Ccf×rÎğ®$á›¢ñ?ÎÁ0}w›[¸ıEn‰í8—ä¼›+B$£vf+n‰šzUû²µáÊÂ±œxZÇU%Lp^UÉ­5Ï%P›ËfU%5Ë¶‹×RbîVô
+—şi£öŒƒ>¼õğ\ò‘çÿà?bÿÃŸŒŠ2äÆÑ—vBü Ì
+¶Û÷°Œ!fşÅ×Ô¿š‹q-Íğ,Î5Û* GˆShùœ,1Í˜ÉšÁÚ®*ÿÓ¾ä¹j2*Ğ#Näí¢ñ!È=Âa+cÇßËöİË–£°!*'š›–(§ùudÅã2Œb]¢¶’rL”¥;*d#~ƒ»ŞÌïAåöôÃÀZ=ôíIËgı˜Ì-]Ã Í\Qâ‘ÓµÑùcºŸ\1;e‡ to BFTProxy
+Sent back envelope ›ßr(PËúzáXç‚oõv ²²…¸Õóı•‡b›úH·¯—50#è[C¿¤LMĞ&Ìkó~À½#o©Wïs ÄÇÂÚD]X´ vé}G’aôwGÛĞº*„c^æÃ	S±gjU†	¾Eg¥×Š¢ƒ&jƒEéU}rü"•D8ôQÇHQ(â´)šd§Ò.Eb	‰÷aïfî’1ı”¯ÿ×¿hïÓ”Ai¡ZQŒú‚Vh{¤ÇhR´Y·•èÀÓ-sÉ¿‰¹€T:ù‚_å%Í1Fw¤=ş/ÄL“ä»èÊ'¦sÒÙÛ—Åó®ù¥£ù‚)uº˜9|Ê–ÎÛŞ'oéI›Üg‘P€¯Ry¤L=Â°ÁtqÌµ„]£_ß²Ó0ô<s/ª$¬4 V¡„Êà¦‘Á~?­¥%0Z&T‚Ô¸V_E}ÛNêâ0®¥û•³·”îòÃ–[NúÛß‡ÖaÆ*sÀˆ§îß¹¿;*E ŞÌí®Ítãåigs6Cô–Ù<Õ^Ç^Ú{®Óˆ(Ñ@ş9Kñ@Ç=]ĞkmDúõ+" kË1å€çåÈ‰¾ÁlÜ«5İv…d‚#¯‰âM>%Nşõ“ÛÏçÓ	 ¾tÌšdë
+t–f4å–G3=ì"yŞrpgøgœç%qEtÛìjn™Õ“4è-oÀëß•ºş
+‰ä÷çÇĞ¾S>\vÌÏ$sDT`ıaú2”„à=§\ã–ëxs×ñ§øÜ×t¾¶ä»ÏÆğ°cQAcÒÂîGß%H‘¿¤\İ¥Tá‰Œ5N·¹Ïb(W§óÉ+0ê…Tv1V/†9„mÇÑ§£\±£Õƒ2nú¶˜u&4PóƒÍ5‰(8œO<!@É27¦'Ü‡@…íØÉR[M–.·p/Â£ûÍŸKü¤Ë«"Ö±²Uã80Iè4T^±Òó†‡Zê+İ<0mù†x*¼9WøÚ‡Ø¶OÎl´{Zí€–¿\Å}ÑS6²›2|e[ áß«qO0®â­ÿÇs¡ùÌà˜Ãò¯@å ±=|²&¹©)¬ Á(Ô‡îq1²°ÜœqfËÒ~¬¥»ëæ¡-éiEÄ¢ÁAÄ™·ÓÀ¾‘ª‘â“ç±8ÂêKXáÕşyàëEõ!ôÎÃäRñûX˜ˆÒ@}%ÆÓ~8û›fg—¼LU4Îßï to BFTProxy
+Sent back envelope R{N±‡ã˜à{ØFN­À‰ÂÖYÔç=l•~@CíL™JjÀ×¢şø¼ÒTßöÌ2o¯À´†ºi»ÛĞ­–xN9áûïÕÁH°õ¬m ÂFä¶*Ÿğ&Îi4Ö’-DG»dpÆƒMyŠoÚeı(DaÎ¨³¾İÓd¼Â5êñ+5&q¹áZ¥Ş¹F³„=SÈ°oÁBß¼çasÛë¶¶Göâôû¢£Óûğ·×¾3ãƒ?¥ë*õ‰¤$ø#T9Ñş¡·RDÁo ×“êÅ°%÷ÅX­+}~EÚR1hdªÌL)hƒºĞ“ÅxvdÌw}ÜĞ@i¦â¢ç-ô,ûAcõÆ?<ÃB Gc´**šuÀd+Y©/“Ô§éåš ÓgÈJı	 5jcê»xÌ‹<˜¸ı'MËŞ&êÛƒ’é×"AL0-IOü—Sf.ÔŞ=)?wOi>ùQ½D?léV²¿¬!Œm¤¤ïVæU=p›ëü7ÖNFÇ‘˜`7Öµ=v8“rKÀp1S8KWU|º…¼Î¹¤>^u_­ºÏ}£0ÑÈÍ?Ñµu`tîX°<ÁûÚ<?±Ÿ¾‘…®+ïƒ‡Äú]I±viKÿY8ÍğªÈ—sŸ²¾¶¨§`‚ bæ=ñĞê¼D¯ºÁ#¬760s1Åu¶Ñ.¿´òãŞ˜I›Úş±•øí
+Ğ©ş
+jÁwlÿ'7Âğ_˜'ÀòÙ=2»¢eë^ÏaÒi[3Òa8EØÆ!ˆ‡ı]¶z~	a_CÿŠš1İNTßu™Q6_íU5EÚÅ`Z³,ÚÑ
+›êÉt‹7Ó§ğ{•„œbpQ‰wÊ¾½Ñ«ô¾«…‡a]†·á}A\]ŸœlÇ®U* ®8§‡ˆÿ9\œ~*ñÓI3ÎÏ¨ÒXš±×öw%úi[m`Ò‘ ¨ôµ±"÷,Z‰”Ì´r3œaw£í¿\± `Ù¿’ZMÛÎ{à¦QíO)9ï‰ŠyÅ”ä~&nWÙhß½+_9ŠE 0Òø·´ca?{ğ×xO:c4?`ú:üµª”ÆáÖd4šÉã~ùÔÁ¢ëG~V00³k>2ÚOÊ¥ıµé9ê‰®ö€>ò4Ë+PIæÁÇ;ÿ\ŠU:â»‹5\Ó#³{ğwd!K¹ìÎ@ÌjÙ¦)8€ †Úmä75êó;2­ to BFTProxy
+[5] 16 distinct tx synced and 0 tx left in the pool.
+Concensus Finished
+timestampE (7, 1554830644.285767)
+Sent back envelope öMÀ]ïjFşÉkÎUB1D˜<E–ë]ú%<VpŠÛ²IÁD—™€É Rï>]´Ù/aXî†@§†ì{ÄG«¶§G+sxËz¯tåz¢Ë4vh·Æ ŒıåğPHõaR¨Û¡ĞÚ%¨¨	"­“8Àm:rÕ¼#šÒ¥çã:3°\Cv©,$t®À& )sÇÈ qõf5ìá£w³à/ç‚‘nÕÙ(…}y§•–øZS±üµİX{ßæß„«Ù(õj^jX²$287ï¤¡ÄD­¨CÍiİ‚Ïø™wÎ¸ş,VC«Ç›$-®±oQ)¦"E,•õ€sF¯S—*ÜşRˆÉo;lëô°¤õ¤‚&íH#…™ôèìĞ`†gÅ‡@—Ÿ¿ÁÔ
+:?E§2Î@1]B&â,÷x1ËVLAÌçBÚc61Œ¹¦³›Ş4&ë;g¨Ãó.jÊ€ÔyzÄí:iÓb2UéÉÊPŸ2Û +“àNÌİNÆ€J/˜À¿¬¤`ñ‡üI¼ûa’e‡$’@à(X/,é`dşgA%œÏB °'”L	×şšÃO'üqİ²	I0QéÄñàjï^¼ÀÚq/ß¶’Äf<ı´şåí1hM/®92Z#¹n+íü¿úº3U™×r„à¯W×
+ º†~C’Ì:™DÊÒáêõøBzÛ¤d*s—½Dáª|NzÅ+øŞü7æÒÂ_èîYÍ¾ü$óZ>M3O\ğd›{™Ë›hZ— Ğ
+¯OğKãìØÊÒ?d¹×Li”¹ªxU}”v]QÌëƒ¯$éÍ¹¤Ëêê÷øPmDFŒ~éÙ$Ã«tHof„]†Q¬®üÍuìëQM~_dÓÁè»¯ŒõÂÉéö"øŠbÍ×ØØá„oê&Kk÷_ïá ;¼ëˆtDÀÄ ÑÃ'“JÔÜº=23"¥FM+A£o½†N–]h	ìmİ‰ğ-®¯„ç·ğˆ•µÂÄt“Ò¢÷Vù"
+±ã\ùˆ°“µ’¶ß+ø—ˆETYšåª¡˜i	¿EÖ4…8"/«úKE£zê@Öp2´ÚÒöN‰Ú¦Yä1Hß±Ñ$ÑÑi;ZÂœ2óz¨#kÔÆ¦ÿg2nÎsXCL>|jÇ#9~Å‹ßBzıÌ~3„·úñGÏñ.À_X#BÒÇÙİæugC:N¤Oq¹Â to BFTProxy
+Sent back envelope  `ÿú&hˆÀí5¸“`¾ê.A\¤^Ûe¢_çÜ‘)V}Ş|„º>˜c/tÏX˜ƒ­ÉöÈäı'ÊkÓ»_5ê‘cF…ü1%‘¼NıÔAù®â–Mó`Ràã:'jë&âÍõßi2&g8n}Ã@ïŠRuÉt0C²é>8Â¯`¢+íh—×Hå²4Ü>’@ûÂZAĞ»Ç²¼P\µdO3—C§ÿ¶/©.ªLFpó¢7X¨èÊé!Ä:—™Û]šÿÍ•O¨*0"ô'Ì'‘0Ê>´§8Ş›ßø9ü®xè9Øœ’¼¦{³øİ…@+è_%Â‚Â±ª S°Oß¼9Qá0W?T}.÷ˆé$Ë »ÊëR[)¿èZç3Qó˜‚•hâÏEçÁhïÈöù¨¥]ƒUÚF¿Ÿ0­Ïys¢<·Nã¸;ùÙ´KƒXÂÎó Ñ:Aê:Ê–ñWıĞCÌâ¹¦Œÿ·*Ûò· ˆo}Ùf îØuA„ä<X“˜VÌux·’¦oššùRZ±X‹İ1{#éÆí9’óÀÛ¼SaB­ˆwZ¦_k:˜D³´•¨Gõ[×n1µ	.É¬ì–y™šDÑ‡"à¶?GAwiì£rÁı¶‚ê?© ^°g¿–P¤}S…;+7F`¿Y•{…UQId²L§€zÆˆx)…{×ñn¤¦Ä|ÌóO˜EÅG3E-¼([ê3jë„ÈÛâèm!œF"cXïk·„ì.?T_^nÃ B*ùW Å‹¸#44¥Ge1
+›şÓöáØ´	$6*ØŞ¶d–§ç#!ÎèÓ%ç¦=¬„1t”sÉğÉ±™`ƒ}¼[H§êr\“ß«O¸=Ó{îâÎ¢Ûx«Œ«†¿IÓ`–õ7ê ĞÌîş•W"if ›~h¶7ğ= ÚÂÈg‡Ut4W! ş5ì“W…¨¼ÛM
+¡c±±¬ÿ¸Œ'7â`U¯·z:½ö<Ã€G›E›3¢”zB-Öd‹{„ù†ÎyµSÉó{“ÃI‹´•¿|Úé¦E‡u¹´çä3yÔ`=~œd-úÂ—œt,Ô£N f2¯nÚó|µİ@—¹Ğv95…ş >M$UUP";,mrFá>Ê­å›bl‚’pš»\ ØoÌÿK^°¯rPZf	Ö~o0]·Õ'OÍÂ~)õí˜ to BFTProxy
+Sent back envelope ‡?PQò
+ıÚ/ªşÏ'«ÆğCüvFĞ+ôóÙm®73ÿ”TÚxŒ/W4“áı|dÅ±ßòƒfŸc!šÅádF>ùàÉŸÇ§—9kµ<¥@|()¹Ê4|I|£ó›‹_Ö8S{|‡/e®¾üw¡ô5eYé}æ4…úŒTšï;jNE1šr¥\×‡"¿É×H(ñ*¤Ät÷>­f†JÆ†œÜ~©¯²;®àÔ¤E;ïb¸X3®£7T²ç{®qˆÙÊ(Šİ‹‘/_ë­ ş}Ğ¥İãÁ8¥Ş«zâó0ÊÂ›Õ-¡!fÔÆ•zÕ]¾±^SÌÅ¤71U¿&œ(È˜+¡t*!m@ƒ4°ök‰¥¬p\"´ëœwŸKÕ / •-Jõ¦½L7ûò¢€¢oêUÿÃ>çÎ€H@leä:â5‡¬`M[¨ ¤j¸¿é‰ì'MùÑ¤¨¶ãõ]pÚuƒœ<0 +V—à9(6wâfúQ¢‡RÖÂŠ&ğ‘IÑæÎ–$?5;6æñ‡nÑD’öª-.Ûª* «Úªsuå“å»ØÂïŸ„šHé™u¡¸úã—ÑÎ‹…
+Íÿóoƒİ€¯ÜuZ¸ÈyïgÅ*•„oöLaŸGÍÓ‡+«ë«›Àã¨p±¥Yë£¡Ò¿Ğ5óõ6zÆ¯M.H>r s—¬r¶€UD§^ÄX:aVx-Pã«¬=(’rî[/˜æÁg‡Ş,÷ĞRjÖÎ„L*Àşl5b«Ÿøsíè{ªkH9($cE.ó¡Ğr×!KÍpP,#«S¢YÄj,œo 'ÒŸÅˆÚ)'m0&å=e†Ş°ñ¨„.‹ÒXdÈíÄÂiµu|6¿×Ùl÷!£Z,UbB
+|˜š*ÈåäĞ>å¼qòºfqÔ—/Âåò<ù{²‡ø'hu±Vˆä¯mƒ%ÆN*Òü‡51{¶=­6î¹œ¨£PR
+eFo#œaô$±ÛÆóLëYFX‡ú2¦—Øë!$WÛ'Ÿ‚Aô ĞßÃ®·@3¬bË¤Œ©¿HÜ†x” IOfâÌù&áÅ?;6ƒ§¿á¤ğË¢u6£kr¡@G§ºå>©½Ø ì¦¡¶êØbµ+ad.ÙŸ—zft×S‘E…}ÌŞw ©µ8±‚yHHı¦˜t¼8eW#?êHÜÛkğ€iiùUa¦ÀÄmúò­œ™y§¡ to BFTProxy
+Sent back envelope ‹ÃpŸ,„kÛ&3ÚSš¯‘wj}4®lypy‡ëé_?[†³?¥×xıò%çOŒÍÚP[ÔğK‚c¤5­+¶'¤PqGì­sUeéñç>Q.€n
+r'÷a	½wH Â¯QÒÁÈİãw)¼Ü§…ò‰'­…v&¢Ÿ®|=©if½(2YÖ)M¡õ!"Ñ]¤|ÃnäµP3©MŸÍ´'ä(¹*Wâ­Ÿ~RôÔUpÄ6~°à+€ı‘+Z’9Æ¿Z	ËÃŒw™Dáaeü®·àç³Ú6°´×X¾²ûm}O¶J³S"íõCŒcC?’>¯Ç¿¬tc äêÜõ–ÈÒ‘ZRMÀÚOãÖO4,QÂwê‚ÎAeŸ%íïC)äş5§¨&{ÅˆNvI¤£å‚\ÂæEÚ@Âí½XÌ–…€Z&üİ¨ç¶ko\mê-ótâ õYS$wKĞ9YCMĞÌ¢.¦ßöÎ ½OÈŠWXİòó×ÿ¸]fúİhØªÔ·N<6ğt@á¯ÙéÍ¬›v5/aÉá»fÖñ‰uë¥„PB<CÃÚEUó"–ã†ãüÁB_ ”Ş‡E^”¼«j#ğ$ÊòSwğk<ùrŞÅa§[»©sš·åÔ@`5Vn¯lgÃ›ªiÆ\zˆSÒM”`ğÄv,÷[‰ƒIcîã{åìŞëñîo3n¿ì}CQi úššR¨¢ğ°8vUo‰’˜N&î!ÀıUÓ»Y»aLê$$ 3ìGjÊk—®vlÜA6Üî¤a‰ˆÃŠ©]lÁí©L]nAú1s™\É’qİŸÕì(/É„íhZ_Äô76s‚°â1z°Ï·çâ¤åË¹ÖÜygA²ãˆœ) kÖÆ^¶#ÑÔU¸#$Ó	zóQ°T¾Âˆ3“E¢k^-åCÜW¾^± ŸïïïÆÙñÊÓæ7 ‡Œ§Š|s'®‡…=ì5`Sìí£ËÏZœ6lKˆ±b”f)¸ìé4 ‘¥ÔˆÕ´¨÷H«IgñÅ!n«  Do·"`tş›\ @LU	yHJ¬Û‹¯¾éboiï LÍË¾ş…ö¤¢kà›ÌH~òÙÄ7^×®áŞM.'&‡9On^9óÅÒü¡:nü´9ã
+’§Ş2ÆŒ»®•Åz~‰(©ùÜÕHú‘/ to BFTProxy
+Sent back envelope ÊÉ¹FëbZ&‰àš¡Ú2©£s>&Æl–²B¨úÃœÑÌş­ÂÁÉ¨Ó^ÌíÏw”|¥	NdNÄ>ÒLT¨…¡À¶–¦ÊãnFm •*(AzCßıNè, VkúµE@›Îšt$	£ğ¯œR«_?§ß!éŞ“RdÕLã2Ò$gı-×G!±6]ÄËøßw‰kÈ6ûúø1¿è]=#S+ ™A½£…ËD|ómu¸~eebI£,Vìd”@¨‰š÷pWá€Xq´pÑîâr	E’1–£©CÆMbuy±ä¢ä†Â.Cú¹9göËIs¹YÍÜØQÜã¶VRĞÏßï¡·òËS&Â“ßª¾’€ÀØ…ÆÕ$Á-Á/ÃH.ó)b§`¤_A¸àÍM_°9ê/>ö¯ñ¦í§P¼8ôæ«cæ?öTÄÑ‰E¯ñuŞÄò+Ù;½¯šóÁ	—ÀáÚJéÄN\{ë€ƒQ¨bcBá¡‹$W@~üùÕûî¸h‚oˆ­ÙÖ«ômîMjD@ù•G&§qÈL
+"äÿ\„s RÊ«–ÂšTØƒ‹«K¤mUaİ:t8!İ|ÉßmáfC€Ú¯6f;”3ò6•´mÇy_‚åu F¦¿¡É#x6'ôn¿6˜½6ynçT	Õã4F‚Û®ş:wn;È¡pŸÇÏÜÈoĞÓvo!‡ÊH)æ§äııÊŠmÈ',—–3ÜÌ÷ş5¾*?ĞæS¿¾ª¶Ùkï3¾Aƒ[©=ÑzºG8Ğ{tuüÒ–Ùšëí· |õV2·éWüÍt¥7G{v0¹zBïöN™+U6T@>Ñè WjpºGÇp˜$mø†¡¨å¿VÀ£x_M3A¡ W:…>#óè¿øâ”Ìƒ¯ŒˆNî@‘Í"ıQ¿ÁA/âÍGß&ÓòDEIÔ.T/õwÑÄ<¢0™Õ€u«I¥(„“3ã'—zˆ•åÌ¦Ó¿î0Úµÿ¿Úwòê3«.D‹O‰Ù$
+o+ä#hbš6¶.¥“ ö‘Ñ`\}3ÆuŞ#K˜ ‹˜@B’ImMd|jNDÁ›Óáb)%fkÄyÖ™'VÌÁÙ¾õa˜œëóö`HÀÂ¦>Zk\oğc÷ŒÍa÷‰äÿAö“¬ˆRaÆMœZ„W×å*|-Køœâú¨Ğçs­/„Â_:®Q5¡ to BFTProxy
+Sent back envelope ”ç%£äò®[½Tï>ìcZûÙvZªùSV/ŠMõŸä”õıüqInc ÚO&“ë4:†Î˜UH{MPä§¹Mğv¦ŸBt|yÀÑ,ÑÖ¥÷€WxÊhv$©W|z¿Õ9FPJ±?ÇÑÿƒI€¦ã<Nçí
+Öª¯ÅD»…+9idÕŠ¶·¹SwçÓûáÌIğb>^Ük¶tˆn óFEÀcé~Çf.,J³a€üóLP:Dl+²-AæéJù>€Öõ£àj	°õqf²8aG¬W~‹÷ï*ª!İP¨ÖÊBş&á½pNÔoe3Â+¡‚L$ãlçªÍ<x FNtŒeèÚ´K(±H''a[õÃÌÅK»0WàÛ¸ª¦‰‡ì‘ĞÅL­‚3O
+x˜ÁZZÍzÍR\Ú'Ø¯„B€9q9.§6¦OØÏ·GÕ°j7`•<ÒmâÍšøHVø(e6J~o…b=¸Ü°{ÒŸH%æqö»ÄÜªØ`~%›LÜiPÏ;‚D´7‰c
+‡£‹Ee¶ıª´½â‚ÚÚáIˆz„ˆÜŠøØ#–;™sŒİ‰mŠ	&Uu}8%Ó–0Ì:ĞAğà•hğ–.Ëa’°È¸1?l.¯cÀ£g‘+deÚ‚e&ÑÚ-à˜–ŸÄ+p
+¶8)î8âªÔV’ğ)g„Äjã%-‚»P{£HÈë•‰åç8.OBº#§ñ)óÇ×·‹QZM´N&ª§hı.?A6)"<¥p¼<Z8¸¦ë\S×“º Ë½¼ìÓQÓ÷9F&°Ïuš²/ï&5Ã“D9³Œí•6±«n†™]Iø°¦ÈÈôÎĞxnd¹JÿEfD¸ÍT
+Ì“âì¾i|vmë*`
+­o X®	•%\kPêÂ±F@òÙ‚È2}y=_€½[”ë»€=£­Ë°QÙ§z<éÂqlx¤elïù)ş–ÂŸÎÛJ4{úíŒ›ıa±ˆÄÁ
+\&=ëÔ}ÄÂ™©hV¤t)¨cĞ-0Å/+rÖ‘g/°Æ/dZØç•½ì:İNÍ²Œó—16N9
+$ZT;À¡Hi¶‘™ØJÿ|ºØ ]Ú¼Cm»ÏJ¯ÎHSUVÂ’~ÍO“£;Q½y¿búw… =´#©^YâN‹/98ó«éC5¥Èé$/*oïZ V{H to BFTProxy
+Sent back envelope cé“xRgéKZ6EŒçrÆ>(%
+Ïxı5¢	¥©$OmÉ“Ó5“r¸EèMZY8	·óGzAFÿ}lËPÔ
+ÍÀÚ ‚fÏ‘;<ÈÁ¼Ái½L†ğÂ²Ù¿AåökpôåHßÅ0øvÑÄ0l¸Ûñêıõ¥ò¯¨WUL‡Î÷ëz&hƒ÷ÿWo­,O#ãsÉĞ1ê}Â1I°­ÊOâp¾E§Mç¸Ô®"^e²rÇUŞÇNä½2ã±÷WÃ¥[FîÍß\J¶¥5ïøH:àz_ìp¾Ët´Z{FÏ8|:T†{­¸úÅÌ	,¾ä JÕ!ñ¹‡ &d¥sŠÔfë‘Õ.ˆåº.ÔòäÒ£–ÄçNS5ÇKwÛéÊİ·¤ñ°¯†#}.(ãËEİ¯«ŞEÇ³Oó{İÏ9ígÉ^qÕûC1_‚óçtsí{KuâRòÜJßÅ„*(;|
+»'™ÛÔnÒo`í.•‰`9m¦Š®»Éµ‡?Vmİ€; `»_ù%½^¾ml%Ûx¯¨ˆœ:*C/„¬fšPàQïÿÇÌæµãOÔ^^Z[˜K0n1‡½”j"o-åšô‰\yh«REI0]ÛÒc5[Æ“J¼’Œ<-š`~ Å=‘I Ji±ò‹àylqÀÇúz¢%ÎÙÛN{§À…qAÓ'ŞŒÆøSíĞÖd6@|©óï!jâ·$hU˜™]V¬Ò‰W>AGïy‡t»
+Y´ìO<#&ƒ
+¾—ÔmEÌˆ“d„}ÖRMy„½5GâÕOngtUãPpaÃx¼å	(²½Ù/õ-Ë}vÔü\èÀYõåı -z•à*IÓgú÷]òaşñÅLÌß%›ã´Ü
+Ñ¢O©†;¨*:$Öu¢šl‚IBìnkÚyÅP&8&cÀ¦¯H¹”åí«`{wpM¢¤®Ñó¹óø=f¹¯¾±ÖI‰¦j­5|®rl‚š³—‘C|—»EÔ*˜,Ç¼-ç{ï³Ì®qpq³/l ¸¸=ÓƒÃhOÒnqptá5mÚ†˜PlU:è>šaŸ®·hB,µJrõÿX=p–¯è84ÄW\Ş‰ù±^ÏÂ“©Ÿ›d7ZLwŒQÇßŞz]9P«N…™Ì›ubæuHégU‹ts!,r“Ó(±T—ñòáÑCÜO“7ç¸z£J:Ç1ÔDô° to BFTProxy
+Sent back envelope $ÿ^Ó8}ñM¶ÇPÜ¾à¥(—ÈLw„Ô}ÏÿÿGC‰ııZN÷_4:ÙÁ­s`-»B2>Ñãšgòì{
+qñ‰›GÊÂ
+î“˜Sò[¼38Ük¢Ã£×tÁ‚›ıõ" ™å6s]¼Æ_áK´–wğ~ù§I7ö›t]²…
+ôÍãË¦Õ¥¡QAÑïfó”´Ì3`°(ø|åë½lê¾Ôa|U,”lIÄŒz¬ˆ¼JõOÚäıÿaïåƒ]ˆlB”¼ }3P„‰Â;<‹)EóÁÕ-9(6ú»mİšIBw¾¾aU „¦îÕzBŠ¤ˆoê&ª|¾ù¬¶l€Ù+»ø)UÚoÌ7-Ã™mcå&eÓ†u’nlc¢Ñƒ3…6q)İöSëßOàB"N,Ü@Ô-nğEôZXØã–SÑn<*}¸74É(×@o*¤ïöY(éRKÅoCĞceB'ww{ëÚèP…Å¡¿”íËGnŒ÷šËÈ»ÂK!u^rF¿¥nQµÁs¢TZVø]{+èäÕd‘ÚV\jæÖ$‚0û({‘Òˆ¥š2*=ôİ’¹Ï|-‡[ZÌj8½k\á!·‘@ñ‘­<T-ÉÄãty€3ßòk$Çº9\‘Ú¿Ùnm?äÂı­eK |ßÊ)Öuı.»,Q¿Ç®¬-"NÛ7”ã'ƒxîÃyÔIb™ßÚÓ³—;o½œ1äZğä6ÒÃ)~k‘ú—:~NéĞXŠMG ú'V£rÆe4M>q‚E†ƒO#Vh€‘úlß–¢^$F­9…ÿ2);vE#:0…ôè$ñ®ûWÛğÎ¹×õ…ì
+y–µ6cş\Ik(ÅÓstôùz|ÀwÄµ“RZ…‡J]Ø×€0^ ^ôÎ> Œ”ã˜½OøÜÈ9ƒ!;)×N}zû>&íÇ=UR}üãî+ø×BÇ©<­ XÆØË¶Èw?ïm"õÚÖtä 	Í#ˆQ(LïÈÊ¹‹Õ“'$°â†LÕêê½ü¡¡toº°ø¡F&ş²–³,Ìà-hŒ.Ù³úwáäzµ¡åÌ+~bJ¹-…GãB:ÎsE4AâØÊ¹¿¶rä+Gü#³Š„EÿVœD‚í˜…`ÿdƒ#õ&0Ö o8Fb”‹ØŒr9ÃŞ«öÓFëlS to BFTProxy
+Sent back envelope 6.Fq‚‘Ì÷¨Ü‹Ó’Šè’²é=¤¥¯æZæºıÃÄÕ2»¤6¥7[÷ªRäÎì;lı)(ı0›Æ.—€iæEæö<ÃÕü©Ôİà{vCË²@}s…E4$µ²M®ˆŒ¡ñõuH‚ìmZÂ*:[y˜tÈ ±(|µŒ’›²t£’Ã¡qXzdk9Ğkß‘Í¥›•¿¢™­h”%ˆÑGµ$’¢ÂNõ%ËNB­ëAèB¬	­úVâWPÖÁ×e]×gõos)›a€p2òËbÜoS 9dM¡ªp(&}‚7‡À¤: éLµ•,İí‹'0wcº`K!‰±ıQ½Ùg¯/kãİ)$İŸ’C…]Ì²x„Ué4çÏóú°.]„.ÎÊÕ¶¶	äö +ö>êËJL˜““ª•®Ós6¹_£\NÒ#¶ÊÙæ²ášìÊê ÓÛºÔ ûç³™ö‹)ìF1Ÿ³xÚ‹]Ò¨Ó£Iay•×Z«3ğâU#§&^œ<w€O¯”¿Eà{)¶uY³íÂ(mÈùıA-ø«rº-pĞóÄ%'ü%˜scâ[­3’Â¤\¦º!YsÛşP®vç­Çh­ÀECU¾/_Ú.f(°ÂüpÒIs".UÉ	€V=ŞæÂ4Xp…‰Ğ3À¨(5§Q8g²‘§+ÛÛå€f±2¥.z½ØâÊI˜ >q³üoÍÏ¿òùş~î‡$ıõùŸÔv–şGµ³á™já…ˆ	w[Ô4Uq—:ö|öN¢Œ7°G½‘,æA°7#à7¸H˜v&±¹sÌO»b\ÖlÀšMÂ¥sşe£kê_XFÓ¿B‘èï®Bğ@’•e×zg€¯äL'xí¤y’ë‡?Î$7b	Şl¹gö&uÎ¶™øvy2~ÅœM¥rL¸XZÚ W9Nêêİ|§2©ºÕ˜†ê3¼¬Mg·#JºZqÉF„xr>ëÏ‘ğ‚N6¶¢Á?JE¾€-¸Ëİ~&¡Õ•ù¨Ë]ˆŸÛuÛxhÊÓÜ… CÒÈ_–ä‹X‘ƒøÀWË±Ï½äHGx bÊj¬‰äì²q@â]ı›©‰¤]°¿st#,'î‡Æ<­aÍµ·3£e fœqóùmKxà>f2_z æÛôİŠZ­Ó¾j.ëËØí9©ãï£,>|y€5Á}Ó¶_ to BFTProxy
+Sent back envelope ƒ@Øüu¹{ŠÀ¥¯dx	ˆÌA„=s/Êa/XÁ¯UÂ¬ó©Ö'ÙöâOö>Ÿ)[ªš„éÁïJo+r–‰Ø&¤qaŞ»£)Ü1lØWÇ×G)Ã Ü´ø‡MQEã‰"•}Ég¨II+%¿À(Ó+j\–Ì~)¿vù¿ô‡æ|¶Ì©äuÖ>0\w<NU”NîNñQ“*K€tú)™“ÑŒØr‰±>æÃ:^3k©“ l¨j’¥„ZpA8ù¿Aû2×úwĞÑÌÜthª™TŒzşG_Äß–Ÿ¨ Ìâ—¨©0œÔdæğİ‚¢ÿ‘®è¡g@D&ŸİÇ16ñJòØñÓ`÷Û¿ÙÒˆàI¯ÙŒ°ÙTP¥‹éÌ|œ)÷1¨áß2aäqÜyÍépcèï©È<~ròZÛJ’aÖîç¦É>(nµÎËÇ™ïæ”­EÜáu)ùEìuGkÜ²l¥G=¹GŞŠæ'6?=İ#ÅÉRÎ'_{\`òİÿÛFej$û!¿bĞèşìhrâÉÿºs–7YÍè§ºDó0ŒMHbœ’¸
+(| Ñ"Z˜¸dÄ_#:¹Ç-ğæeù-æ­‡ß’bÈº™=3cA]¿Áëş»”'…÷öl[ã‡äPC÷·³ÎLÿù§û®EEN[B-¼X¸RÆ¡Ëa6²•›F¸ŞµÃ¤×úW]{D‰å›[UÅ‰­¯Ê àPŠ^Ë»Ví”.Ç©„¾Ë™9½Ê½±óô¥W¦z0ü /Z	Ã–¡J_Zÿ»fÕxpñG£P3^ëÄyÒPllîi8mÉ¿)b`»0ÿ@±u$NÜØÜ©oê¸DW8óïÓˆnOZŸæì’MS°RÆ.®H*Ç¢ØæØHıİ‡Â+Lf…ò®"öDœÚ]ÑADóè©ù»ÁÜà@6?¹zÿ®`G÷¯9ÊdñO«?¿lØ³‚|5–Lã&¸®0'C¹~ı‡oëÇ—æÉ¨íÖá…ğR2ï9NÒû|²Ää“Œßâ–p„¼£ú6DCå0âŒBœeMQeåL†÷V`™Òı¯rJ"Âí{3AøzU`k\V˜kè@õ¶øŞğ|Pu˜oÌDAASwéJNàvnÏ8ìA”EÌ5€ßÀ!ÄæL‚ìtÅÖ<”—„Æ¿,l¨€ùÀÑè}#ñ¿ç to BFTProxy
+Sent back envelope å™„{õÕø³²35Ê °Øß­À¿ö+çÃÈgHz,™ó0İ”–·?\³şxùw#"1ıİÓ!rÕNÔTIh3{ e½S*ö?zPdG1dıú|29UU¦l¨d{	Õ%^G¢j­È&ª¿ÛÄ_GÒ÷tØ.ş‘G	‘Œİ<î?ËdlrSuEÕ¹]Fè¼”DÀåf´ÜÌ*#Ue[Ì-TË/ÂáYìQ´›‘\¾d<tçÑu:é™W\ö¥Ò¬qÃ~
+wëÆ¯´|Lé:wŠk–Ÿı=€ór2øÏ9Ü‹r¾ë v{n¼ø.Õ¡qË~¤™ú/á®sâ®°ZjÔ‹O'Äè{p`ú©3Œ[¨W‘°£S”prs;tEÃ:
+ReÛª‚¹±Ë"6¿Z¶z„ì4s¦ SÇ;¯:Íğ»}F”¬¨¡Qf3mŠßÁıBì)o8¨‡æ	.Ü	4\k‘ı²¢7²Œ|üÑ®+Ï„Ïbè=½øWªù%báÓ £4ªR€Q]ÀÆ]é®ÊŞ=AäGûIª¨3awÖ&E®~„	¸±u¨îµÂñÒ¢g“cwÒ¯ÉÒOe”s¹ÂVÆí3‰3Áh2Æa·y“ƒ
+Ã ËO‚Íß¥œÛ‰şØ?e$lìr&$DÌïfÉéãôLî–_Ê§° #œ€‡½ôeÙO÷XS	mE™*6nXt1ƒ4}£9XŸ,‚ ”	ùŸÄ1_ùÓÈÂu{{ÕRö^ãÖ@^TÅoí]ºz±‚fC3‹ÈÔ Â((iÃ;
+ÆßÜ'¤p6ËÒ†y*.W—>¸˜ÙjìÅIõ–…©Bê§	¶ĞYàib¤]É)ˆ‹ŒwòÒ±=şR¹HM¿q:T¯}ypîÁîİ¤Ö$pg’öEÉt¹ÕVÜ¥|ÿÍû—~¿¨•¬× Oˆkó´’­^XêwP·ùÃHâU7Ã–Ê#[¥¬	hò¡4xñ¼2sÄëæ”HÉè}Ä¢Âô1ëèq>Ø€ØZ.ßêzJ„ºhØ™®tCŠÓÖDæ–&ì‚A:+Ÿ¸ÃÆ1;7×Ü¸ä¡G1zï´#V$ ‰D¯øåÜ]>94@šæ®-l†À¹†¤xBì¯Ù=NÎşõÕ¥¥î½–•…@“3ãƒ>cævî­/ÅüJ%+ıã™!÷Í™½Ô^K]$2ÀG to BFTProxy
+Sent back envelope @±qˆ‚…!ÔICà„“MäÎ­Ğ§8·sEK®0Ÿ£î¤¤AšlÇLG C€)…\¸½£:
+Ò¶©S¿¦D‘TIÄ I"P”y"S/^Æ¶¢¹”R*zó&CX›¤Æñq”mT2§°ÆĞ³[d•ª–QRò"k¬afdL31£f;ùr,+(S&#Ø ÔuØ®—•dQÜÄR
+ÃBZü[NıWvóyìıfX—‹¹/Ä„Ï-ÚêQ÷ÿ¶ßãòxé0ù¿XÌ©èÍ!Ğ;¿Q=d#bÈ'ÿp¦jc$µ# QH¦X­kÄVFH°®€¤A©m¨b
+Æƒoiç¢ã9ûÊùpcŞ¡î·g¬#MzàÒ\¤ ë­†P-z¤mcûé£Ö$U1=Ìõºk·šÊµ‘öTÃö}iYRµ‚MY£ÏÑ÷nâ°qÙ¹	ÂQö,ÎÈ@òã¬Šmå57a·à>ÏÈn~F[BñhÄêxÉÂx©óO~”|zL˜Ë0-š°|lºÏQ,=°%ß”¯J/…½c¸]5”âàFp6NT®!GiAmé5ZJÍlı¥bôAÒ'XkaÂ&/[Î+ªzd4¥+}ºqJD®N°Ã€ûl¨sO…µ­O"ò&~Ô´r£æbÉ™Ñû	Í#ÒY£#7rlI±Â¹
+XÖ±ox!¡ªiÒ'w)ìjXb\êC†ÁöÅ¿N/6X¹Yõôs~K‡™üéh·cúäªÔ££ãÛ€ÆOšˆ°µ‚¸°¿£$pó{šÂpô}X/@H^=Ó¯üíç{íÓZ9:âÂûÒA°JiÍaZ8C¬l}cB@ŞE°‰tŠÜÅÈqvBĞÈåÛTÌì<?Gõp¥>hv¬z]€zFWşÀÀ,VtÅù(³Èçƒ°œÓ¤à”ÆlŸ¥5s£º¾óÜKÍ^ÍAÏA)­»øTôºÛ|Xåu–x Ä]¿¢øq$¹$uKƒâÏ_c/Ì®M×3ÄüŠ¨µK³¿Êà,¾\Ù[‚˜Y‰S€`%ü“>ĞÖÑúSjöò¾,tR¤~ºK,Š4–ò…ŞƒÎùıÁ%0CR›Nš9¥Zr0™šE¼5šÛOºÖvÁ¡²©%–Ş*”æ%éß¥€N¤‘uÓ¡‰Elş±ªƒé%qDÑ&Üp®•œó%£“Ò¶õÈ‘+Å to BFTProxy
+Sent back envelope :uÑ°ÄznQ,.3…ıù°&+ãD(~ŠÒş	+—D’øBµ“×!Äöû ï‰®ì9GCëk´" R”“·ZßîÀ&ˆfI&>\-'¨FùA¡5Â-uRAU|(¾‹;{ĞV0#TRÏ@}×ÒÇ„Kg4·Cƒ6å?¡óÊUH³k›y÷%(M)ª¤÷§yê»|TĞn_ÚC±ÇĞ-+tƒR»†¥+Óa‚^k¬ĞÇî¥]ÂÓ¢â¤êK\3‡âª6­z }O§?z&;»nĞ®ÑâH|Á•kÁˆ¾ ”ñrÿa@	Vòm>gÀ¿ŒlÄ+‘¾Y J¿ra,gÂ]ÏŸª  6Áõ}3GZ]ÂÇ¡ÿ£ôã,Ş÷£‹ƒ¬-BËƒ¤I@w >èú¦è>‚4ŠTÀıÙ ¬‚MÌvì€X*ø£Eı,²Â«åk_'dÎ™Nu…“¶ŒñÆWªÇ úİ,ı‹€·’±=Ëó…‹KcánÈfNıOÜ÷¶«)j@8¤‡‘nô”yJş¨
+¦¼PÜ®òÜ ‰1
+,¥+oín"	öSìù>|ñÍáŠßYàià%;İ5ë
+Ÿç]ÁšÖ)E­à8µ8T¥Ç¥yfGo·C¸€U×ŒªïıCÛœ|fró'h¤.<Ü`á*iw~C Çaõ®B~‡È´’©k,˜AbUæ$ÕÙ©±‡4(²Rx´­)Öd¢¹]€o²˜Ù7˜ÇJq«ëää¢sm&KPºçjÑnäñ‰Y”Ş³7HèxT]ÁÁwì&ìÍ¸Ïv„qóÖéÙÔ›dîì‘C=È_Éş×%yk.PCõ#ƒ* Ö‹ƒ¶B^Ö,Á¶w‚ô/·§Ã‘F¹Ã/1£ÀÚVİ¬5^Eî´6«IsÑ‚wâ‰B8 ‚œ£³ŸĞ¸„´¯Z	(!d4']²mÆU”<“å1¢šØ\»ÅXSeÇy>Ò¼¿°w@Iòãyœ³¡4¤0ò^âäRÒ$7 ¿ı¹I"V5A>cä>¶Tj¬Àtæ\[NÁYóŒQœ.£Áà‘~ÇllTuõH=Ä£#˜Ï–û‘ÈjxJ3`2FIƒ¥[_Ğwî’%ÒS˜/çR2âm_ç"$üVÚòD1K{Y˜Ä	èQ[ÕPD_Â€Mû‚àIPÔı¤9<ÒPŞ#®>ºÇ±‡ to BFTProxy
+Sent back envelope IOŠ†Ü!Œ ÃÜN|şlñåfÏ(n;v…?İ¥G² ‡~şwC~]1ÿ€¿Ÿûãc”1ÇÕ‘ß‡õ¸$mèg°DÛ¿ÀéPv`a$îz7g1v8r±E›Í Í²*0ˆGÓUk¯\öşÂPº›áPÆQ,+s‹ÈCŞ4q•R{ö>1–QcÅz(YŸÕ„ë´Õ{µ}oŒ qÌĞC+#–ûÍ1)FÆZCeİ–¬P úÊc|ÖÂÉ·[¢3ØÍV›ä–gTçA>mœ6¦Ú´åÿJ®eä@‘4n!^QéBÍ”ÔÎÑ‘Ğ³€yñHğ\ÄÓ4‹¸µyIênt.‡J›9ãHÒœwMîcú¸¹Vå¤dz¼Úbêo~áiG‚­™‰{–°ıßˆ×ÒPY¤Ÿ8ÄÉÖ“{=\PBUm Cdj3{;×³V–p¬îqóÔ¬Ù{‚Ú£‰"R¹¿ŒSÙ[É{NŒÁÑ›gøıG©=ÄÛ‡nXèÓéQİ_q¾•?kÁ	}­¸Û‡¨lS·6ˆÀ¡“«Jrq/ hÏX”VÓ€?ŞkÁ½!ş2=§”şÕH`©i—İ¹;ÎRcsô'‰ìÿL¨ô!¬vRˆúï¼ÔÌ¡€…-LfôİĞù¤i°	Aıg”‘xªoÌcÎÛo/Ş¢4v6¬ÈòÛ&^Pv¹Nâß•S€Õü¦µ›94_'OË#ĞûlÌi<SÏ¿N|<æiM½Srá+›ÕıÄÚ+ÇÙİàwœßR×­ñ„E.Úà¨SÜš„'î³· Ccf×rÎğ®$á›¢ñ?ÎÁ0}w›[¸ıEn‰í8—ä¼›+B$£vf+n‰šzUû²µáÊÂ±œxZÇU%Lp^UÉ­5Ï%P›ËfU%5Ë¶‹×RbîVô
+—şi£öŒƒ>¼õğ\ò‘çÿà?bÿÃŸŒŠ2äÆÑ—vBü Ì
+¶Û÷°Œ!fşÅ×Ô¿š‹q-Íğ,Î5Û* GˆShùœ,1Í˜ÉšÁÚ®*ÿÓ¾ä¹j2*Ğ#Näí¢ñ!È=Âa+cÇßËöİË–£°!*'š›–(§ùudÅã2Œb]¢¶’rL”¥;*d#~ƒ»ŞÌïAåöôÃÀZ=ôíIËgı˜Ì-]Ã Í\Qâ‘ÓµÑùcºŸ\1;e‡ to BFTProxy
+Sent back envelope ›ßr(PËúzáXç‚oõv ²²…¸Õóı•‡b›úH·¯—50#è[C¿¤LMĞ&Ìkó~À½#o©Wïs ÄÇÂÚD]X´ vé}G’aôwGÛĞº*„c^æÃ	S±gjU†	¾Eg¥×Š¢ƒ&jƒEéU}rü"•D8ôQÇHQ(â´)šd§Ò.Eb	‰÷aïfî’1ı”¯ÿ×¿hïÓ”Ai¡ZQŒú‚Vh{¤ÇhR´Y·•èÀÓ-sÉ¿‰¹€T:ù‚_å%Í1Fw¤=ş/ÄL“ä»èÊ'¦sÒÙÛ—Åó®ù¥£ù‚)uº˜9|Ê–ÎÛŞ'oéI›Üg‘P€¯Ry¤L=Â°ÁtqÌµ„]£_ß²Ó0ô<s/ª$¬4 V¡„Êà¦‘Á~?­¥%0Z&T‚Ô¸V_E}ÛNêâ0®¥û•³·”îòÃ–[NúÛß‡ÖaÆ*sÀˆ§îß¹¿;*E ŞÌí®Ítãåigs6Cô–Ù<Õ^Ç^Ú{®Óˆ(Ñ@ş9Kñ@Ç=]ĞkmDúõ+" kË1å€çåÈ‰¾ÁlÜ«5İv…d‚#¯‰âM>%Nşõ“ÛÏçÓ	 ¾tÌšdë
+t–f4å–G3=ì"yŞrpgøgœç%qEtÛìjn™Õ“4è-oÀëß•ºş
+‰ä÷çÇĞ¾S>\vÌÏ$sDT`ıaú2”„à=§\ã–ëxs×ñ§øÜ×t¾¶ä»ÏÆğ°cQAcÒÂîGß%H‘¿¤\İ¥Tá‰Œ5N·¹Ïb(W§óÉ+0ê…Tv1V/†9„mÇÑ§£\±£Õƒ2nú¶˜u&4PóƒÍ5‰(8œO<!@É27¦'Ü‡@…íØÉR[M–.·p/Â£ûÍŸKü¤Ë«"Ö±²Uã80Iè4T^±Òó†‡Zê+İ<0mù†x*¼9WøÚ‡Ø¶OÎl´{Zí€–¿\Å}ÑS6²›2|e[ áß«qO0®â­ÿÇs¡ùÌà˜Ãò¯@å ±=|²&¹©)¬ Á(Ô‡îq1²°ÜœqfËÒ~¬¥»ëæ¡-éiEÄ¢ÁAÄ™·ÓÀ¾‘ª‘â“ç±8ÂêKXáÕşyàëEõ!ôÎÃäRñûX˜ˆÒ@}%ÆÓ~8û›fg—¼LU4Îßï to BFTProxy
+Sent back envelope R{N±‡ã˜à{ØFN­À‰ÂÖYÔç=l•~@CíL™JjÀ×¢şø¼ÒTßöÌ2o¯À´†ºi»ÛĞ­–xN9áûïÕÁH°õ¬m ÂFä¶*Ÿğ&Îi4Ö’-DG»dpÆƒMyŠoÚeı(DaÎ¨³¾İÓd¼Â5êñ+5&q¹áZ¥Ş¹F³„=SÈ°oÁBß¼çasÛë¶¶Göâôû¢£Óûğ·×¾3ãƒ?¥ë*õ‰¤$ø#T9Ñş¡·RDÁo ×“êÅ°%÷ÅX­+}~EÚR1hdªÌL)hƒºĞ“ÅxvdÌw}ÜĞ@i¦â¢ç-ô,ûAcõÆ?<ÃB Gc´**šuÀd+Y©/“Ô§éåš ÓgÈJı	 5jcê»xÌ‹<˜¸ı'MËŞ&êÛƒ’é×"AL0-IOü—Sf.ÔŞ=)?wOi>ùQ½D?léV²¿¬!Œm¤¤ïVæU=p›ëü7ÖNFÇ‘˜`7Öµ=v8“rKÀp1S8KWU|º…¼Î¹¤>^u_­ºÏ}£0ÑÈÍ?Ñµu`tîX°<ÁûÚ<?±Ÿ¾‘…®+ïƒ‡Äú]I±viKÿY8ÍğªÈ—sŸ²¾¶¨§`‚ bæ=ñĞê¼D¯ºÁ#¬760s1Åu¶Ñ.¿´òãŞ˜I›Úş±•øí
+Ğ©ş
+jÁwlÿ'7Âğ_˜'ÀòÙ=2»¢eë^ÏaÒi[3Òa8EØÆ!ˆ‡ı]¶z~	a_CÿŠš1İNTßu™Q6_íU5EÚÅ`Z³,ÚÑ
+›êÉt‹7Ó§ğ{•„œbpQ‰wÊ¾½Ñ«ô¾«…‡a]†·á}A\]ŸœlÇ®U* ®8§‡ˆÿ9\œ~*ñÓI3ÎÏ¨ÒXš±×öw%úi[m`Ò‘ ¨ôµ±"÷,Z‰”Ì´r3œaw£í¿\± `Ù¿’ZMÛÎ{à¦QíO)9ï‰ŠyÅ”ä~&nWÙhß½+_9ŠE 0Òø·´ca?{ğ×xO:c4?`ú:üµª”ÆáÖd4šÉã~ùÔÁ¢ëG~V00³k>2ÚOÊ¥ıµé9ê‰®ö€>ò4Ë+PIæÁÇ;ÿ\ŠU:â»‹5\Ó#³{ğwd!K¹ìÎ@ÌjÙ¦)8€ †Úmä75êó;2­ to BFTProxy
+[7] 16 distinct tx synced and 0 tx left in the pool.
+Exception KeyError: KeyError(140690810150096,) in <module 'threading' from '/usr/lib/python2.7/threading.pyc'> ignored

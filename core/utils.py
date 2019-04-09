@@ -133,7 +133,7 @@ def encodeTransaction(tr, randomGenerator=None, length=TR_SIZE):
 
 def encodeMyTransaction(tr):
     encodedEnvelope = tr.envelope.SerializeToString()
-    return encodedEnvelope + os.urandom(TR_SIZE - len(encodedEnvelope))
+    return struct.pack('<H', tr.id) + encodedEnvelope + os.urandom(TR_SIZE - len(encodedEnvelope) - 2)
 
 
 # assumptions:
