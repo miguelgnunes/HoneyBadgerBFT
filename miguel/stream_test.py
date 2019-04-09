@@ -23,7 +23,7 @@ import math
 from ..commoncoin.boldyreva_gipc import initialize as initializeGIPC
 
 from google.protobuf.internal import encoder
-import proto.envelopewrapper_pb2.py as envelopewrapper
+import proto.envelopewrapper_pb2 as envelopewrapper
 
 USE_DEEP_ENCODE = True
 QUIET_MODE = True
