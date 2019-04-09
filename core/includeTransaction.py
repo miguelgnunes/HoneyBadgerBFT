@@ -268,7 +268,8 @@ finishcount = 0
 lock.put(1)
 
 @greenletFunction
-def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
+def honestParty(pid, N, t, controlChannel, broadcast, receive, send, port, B = -1):
+# def honestParty(pid, N, t, controlChannel, broadcast, receive, send, port, B = -1):
     # RequestChannel is called by the client and it is the client's duty to broadcast the tx it wants to include
     if B < 0:
         B = int(math.ceil(N * math.log(N)))
