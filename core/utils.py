@@ -19,6 +19,8 @@ from io import BytesIO
 
 from ..miguel.proto import envelopewrapper_pb2 as envelopewrapper
 from google.protobuf.internal.encoder import _VarintBytes
+from google.protobuf.internal.decoder import _DecodeVarint32
+
 
 nameList = open(os.path.dirname(os.path.abspath(__file__)) + '/../test/names.txt','r').read().strip().split('\n')
 
@@ -148,10 +150,13 @@ def encodeMyTransaction(tr):
 
 def decodeMyTransaction(byteStr):
 
-    byteStream = io.BytesIO(byteStr)
 
-    dataToRead = struct.unpack("H", byteStream.read(2))[0]
-    data = byteStream.read(dataToRead)
+    msg_len, new_pos = _DecodeVarint32(byteStr, 0)
+
+    byteStream = io.BytesIO(byteStr)
+    byteStream.read(new_pos)
+
+    data = byteStream.read(msg_len)
 
     env = envelopewrapper.EnvelopeWrapper()
     env.ParseFromString(data)
