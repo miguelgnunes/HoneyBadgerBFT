@@ -17,7 +17,7 @@ from ..threshenc.tpke import serialize, deserialize0, deserialize1, deserialize2
 import io
 from io import BytesIO
 
-import ..miguel.proto.envelopewrapper_pb2 as envelopewrapper
+from ..miguel.proto import envelopewrapper_pb2 as envelopewrapper
 from google.protobuf.internal.encoder import _VarintBytes
 
 nameList = open(os.path.dirname(os.path.abspath(__file__)) + '/../test/names.txt','r').read().strip().split('\n')
