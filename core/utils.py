@@ -150,7 +150,7 @@ def decodeMyTransaction(byteStr):
 
     byteStream = io.BytesIO(byteStr)
 
-    dataToRead = struct.unpack("H", byteStream.read(4))[0]
+    dataToRead = struct.unpack("H", byteStream.read(2))[0]
     data = byteStream.read(dataToRead)
 
     env = envelopewrapper.EnvelopeWrapper()

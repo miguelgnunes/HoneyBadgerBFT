@@ -187,7 +187,7 @@ def client_test_freenet(N, t, options):
 sock = None
 
 def receive_envelope():
-    # dataToRead = struct.unpack("H", socket.read(4))[0]
+    # dataToRead = struct.unpack("H", socket.read(2))[0]
     # data = socket.read(dataToRead)
     #
     # env = envelopewrapper.EnvelopeWrapper()
