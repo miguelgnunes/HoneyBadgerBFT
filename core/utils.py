@@ -148,7 +148,7 @@ def encodeMyTransaction(tr):
 
 def decodeMyTransaction(byteStr):
 
-    byteStream = io.StringIO(byteStr)
+    byteStream = io.BytesIO(byteStr)
 
     dataToRead = struct.unpack("H", byteStream.read(4))[0]
     data = byteStream.read(dataToRead)
