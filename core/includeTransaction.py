@@ -4,7 +4,7 @@ from gevent import Greenlet
 from gevent.queue import Queue, Empty
 from bkr_acs import acs
 from utils import mylog, MonitoredInt, callBackWrap, greenletFunction, \
-    greenletPacker, getEncKeys, Transaction, getECDSAKeys, sha1hash, TR_SIZE
+    greenletPacker, getEncKeys, Transaction, decodeMyTransaction, getECDSAKeys, sha1hash, TR_SIZE
 from collections import defaultdict
 import zfec
 import hashlib
@@ -13,6 +13,8 @@ from utils import serializeEnc, deserializeEnc, ENC_SERIALIZED_LENGTH
 import random
 import itertools
 import gevent
+
+from google.protobuf.internal.encoder import _VarintBytes
 
 def calcSum(dd):
     return sum([x for _, x in dd.items()])
@@ -365,9 +367,10 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
 
                 for transaction in rtx:
                     if transaction not in sentTx:
-                        sentTx.add(transaction)
+                        decoded_transaction = decodeMyTransaction(transaction)
+                        sentTx.add(decoded_transaction)
                         # send_envelope(socket, transaction.envelope)
-                        mylog("Sent back envelope %d to BFTProxy" % len(transaction), verboseLevel=-2)
+                        mylog("Sent back envelope %s to BFTProxy" % decoded_transaction, verboseLevel=-2)
 
             mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
             lock.get()
@@ -380,7 +383,7 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
 
 def send_envelope(socket, env):
     envelope = env.SerializeToString()
-    delimiter = encoder._VarintBytes(len(envelope))
+    delimiter = _VarintBytes(len(envelope))
     message = delimiter + envelope
     msg_len = len(message)
     total_sent = 0

@@ -14,7 +14,11 @@ import os
 from ..commoncoin import boldyreva as boldyreva
 from ..threshenc.tpke import serialize, deserialize0, deserialize1, deserialize2, TPKEPublicKey, TPKEPrivateKey, group
 
+import io
 from io import BytesIO
+
+import ..miguel.proto.envelopewrapper_pb2 as envelopewrapper
+from google.protobuf.internal.encoder import _VarintBytes
 
 nameList = open(os.path.dirname(os.path.abspath(__file__)) + '/../test/names.txt','r').read().strip().split('\n')
 
@@ -59,24 +63,27 @@ id = 0
 class Transaction:  # assume amout is in term of short
     def __init__(self):
         self.envelope = None
-        self.id = ++id
+        # self.id = ++id
     # def __repr__(self):
     #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
     #
 
     def __repr__(self):
-        return bcolors.OKBLUE + "{{Transaction with id %d and envelope %s }}" % (self.id, self.envelope) + bcolors.ENDC
+        # return bcolors.OKBLUE + "{{Transaction with id %d and envelope %s }}" % (self.id, self.envelope) + bcolors.ENDC
+        return bcolors.OKBLUE + "{{Transaction with envelope %s }}" % (self.envelope) + bcolors.ENDC
 
     def __eq__(self, other):
         if isinstance(other, self.__class__):
-            return self.id == other.id and self.envelope == other.envelope
+            # return self.id == other.id and self.envelope == other.envelope
+            return self.envelope == other.envelope
         return False
 
     def __ne__(self, other):
         return not self.__eq__(other)
 
     def __hash__(self):
-        return hash(self.envelope) ^ hash(self.id)
+        # return hash(self.envelope) ^ hash(self.id)
+        return hash(self.envelope)
 
 
 def randomTransaction(randomGenerator=random):
@@ -132,8 +139,25 @@ def encodeTransaction(tr, randomGenerator=None, length=TR_SIZE):
 
 
 def encodeMyTransaction(tr):
-    encodedEnvelope = tr.envelope.SerializeToString()
-    return struct.pack('<H', tr.id) + encodedEnvelope + os.urandom(TR_SIZE - len(encodedEnvelope) - 2)
+    envelope = tr.envelope.SerializeToString()
+    delimiter = _VarintBytes(len(envelope))
+    message = delimiter + envelope
+
+    # return struct.pack('<H', tr.id) + message + os.urandom(TR_SIZE - len(message) - 2)
+    return message + os.urandom(TR_SIZE - len(message))
+
+def decodeMyTransaction(byteStr):
+
+    byteStream = io.StringIO(byteStr)
+
+    dataToRead = struct.unpack("H", byteStream.read(4))[0]
+    data = byteStream.read(dataToRead)
+
+    env = envelopewrapper.EnvelopeWrapper()
+    env.ParseFromString(data)
+    newTr = Transaction()
+    newTr.envelope = env
+    return newTr
 
 
 # assumptions:
