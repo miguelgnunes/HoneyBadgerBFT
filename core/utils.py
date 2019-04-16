@@ -74,7 +74,7 @@ class Transaction:  # assume amout is in term of short
     #
 
     def __repr__(self):
-        return bcolors.OKBLUE + "{{Transaction with id %d and envelope channel Id %d }}" % (self.id, self.envelope.channelId) + bcolors.ENDC
+        return bcolors.OKBLUE + "{{Transaction with id %d and envelope channel Id %s }}" % (self.id, self.envelope.channelId) + bcolors.ENDC
         # return bcolors.OKBLUE + "{{Transaction with envelope %s }}" % (self.envelope) + bcolors.ENDC
 
     def __eq__(self, other):
