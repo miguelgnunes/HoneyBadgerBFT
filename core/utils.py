@@ -65,27 +65,27 @@ id = 0
 class Transaction:  # assume amout is in term of short
     def __init__(self):
         self.envelope = None
-        # self.id = ++id
+        self.id = ++id
     # def __repr__(self):
     #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
     #
 
     def __repr__(self):
-        # return bcolors.OKBLUE + "{{Transaction with id %d and envelope %s }}" % (self.id, self.envelope) + bcolors.ENDC
-        return bcolors.OKBLUE + "{{Transaction with envelope %s }}" % (self.envelope) + bcolors.ENDC
+        return bcolors.OKBLUE + "{{Transaction with id %d and envelope %s }}" % (self.id, self.envelope) + bcolors.ENDC
+        # return bcolors.OKBLUE + "{{Transaction with envelope %s }}" % (self.envelope) + bcolors.ENDC
 
     def __eq__(self, other):
         if isinstance(other, self.__class__):
-            # return self.id == other.id and self.envelope == other.envelope
-            return self.envelope == other.envelope
+            return self.id == other.id and self.envelope == other.envelope
+            # return self.envelope == other.envelope
         return False
 
     def __ne__(self, other):
         return not self.__eq__(other)
 
     def __hash__(self):
-        # return hash(self.envelope) ^ hash(self.id)
-        return hash(self.envelope)
+        return hash(self.id)
+        # return hash(self.envelope)
 
 
 def randomTransaction(randomGenerator=random):
@@ -145,23 +145,24 @@ def encodeMyTransaction(tr):
     delimiter = _VarintBytes(len(envelope))
     message = delimiter + envelope
 
-    # return struct.pack('<H', tr.id) + message + os.urandom(TR_SIZE - len(message) - 2)
-    return message + os.urandom(TR_SIZE - len(message))
+    return struct.pack('<H', tr.id) + message + os.urandom(TR_SIZE - len(message) - 2)
+    # return message + os.urandom(TR_SIZE - len(message))
 
 def decodeMyTransaction(byteStr):
 
+    id = struct.unpack("<H", byteStr.ready(2))[0]
 
-    msg_len, new_pos = _DecodeVarint32(byteStr, 0)
+    msg_len, new_pos = _DecodeVarint32(byteStr, 2)
 
-    byteStream = io.BytesIO(byteStr)
-    byteStream.read(new_pos)
-
-    data = byteStream.read(msg_len)
+    data = byteStr[new_pos:new_pos + msg_len]
 
     env = envelopewrapper.EnvelopeWrapper()
     env.ParseFromString(data)
     newTr = Transaction()
+
+    newTr.id = id
     newTr.envelope = env
+
     return newTr
 
 
