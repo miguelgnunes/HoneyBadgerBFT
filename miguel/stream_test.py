@@ -193,6 +193,7 @@ def receive_envelope():
     # env = envelopewrapper.EnvelopeWrapper()
     # env.ParseFromString(data)
     env = envelopewrapper.EnvelopeWrapper()
+    env.channelId = 2
     return env
 
 def connect_socket(port):
