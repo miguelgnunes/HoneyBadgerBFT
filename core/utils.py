@@ -150,7 +150,7 @@ def encodeMyTransaction(tr):
 
 def decodeMyTransaction(byteStr):
 
-    id = struct.unpack("<H", byteStr[0:1])[0]
+    id = struct.unpack("<H", byteStr[:2])[0]
 
     msg_len, new_pos = _DecodeVarint32(byteStr, 2)
 
