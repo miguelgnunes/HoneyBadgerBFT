@@ -365,7 +365,7 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             for rtx in recoveredSyncedTxList:
                 finishedTx.update(set(rtx))
 
-                for transaction in rtx:
+                for transaction in finishedTx:
                     decoded_transaction = decodeMyTransaction(transaction)
                     if decoded_transaction not in sentTx:
                         sentTx.add(decoded_transaction)
