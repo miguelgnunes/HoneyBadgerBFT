@@ -366,8 +366,8 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
                 finishedTx.update(set(rtx))
 
                 for transaction in rtx:
-                    if transaction not in sentTx:
-                        decoded_transaction = decodeMyTransaction(transaction)
+                    decoded_transaction = decodeMyTransaction(transaction)
+                    if decoded_transaction not in sentTx:
                         sentTx.add(decoded_transaction)
                         # send_envelope(socket, transaction.envelope)
                         mylog("Sent back envelope %s to BFTProxy" % decoded_transaction, verboseLevel=-2)
