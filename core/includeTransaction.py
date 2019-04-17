@@ -372,6 +372,10 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
                     # send_envelope(socket, transaction.envelope)
                     mylog("Sent back envelope %s to BFTProxy" % decoded_transaction, verboseLevel=-2)
 
+            for tr in finishedTx:
+                decoded = decodeMyTransaction(tr)
+                mylog("[finishedTx] Sent back envelope %s to BFTProxy" % decoded, verboseLevel=-2)
+
             mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
             lock.get()
             finishcount += 1
