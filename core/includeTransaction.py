@@ -378,8 +378,8 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             lock.get()
             finishcount += 1
             lock.put(1)
-            if finishcount >= N - t:  # convenient for local experiments
-                sys.exit()
+            # if finishcount >= N - t:  # convenient for local experiments
+            #     sys.exit()
     mylog("[%d] Now halting..." % (pid))
 
 
