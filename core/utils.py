@@ -76,7 +76,7 @@ class Transaction:  # assume amout is in term of short
 
     def __eq__(self, other):
         if isinstance(other, self.__class__):
-            return self.trId == other.trId and self.envelope == other.envelope
+            return self.trId == other.trId
             # return self.envelope == other.envelope
         return False
 
