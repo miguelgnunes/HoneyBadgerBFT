@@ -277,7 +277,7 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
         B = int(math.ceil(N * math.log(N)))
     transactionCache = []
     finishedTx = set()
-    sentTx = set()
+    sentTx = {}
     proposals = []
     receivedProposals = False
     commonSet = []
@@ -367,8 +367,8 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
 
                 for transaction in finishedTx:
                     decoded_transaction = decodeMyTransaction(transaction)
-                    if decoded_transaction not in sentTx:
-                        sentTx.add(decoded_transaction)
+                    if decoded_transaction.trId not in sentTx:
+                        sentTx[decoded_transaction.trId] = decoded_transaction
                         # send_envelope(socket, transaction.envelope)
                         mylog("Sent back envelope %s to BFTProxy" % decoded_transaction, verboseLevel=-2)
 
