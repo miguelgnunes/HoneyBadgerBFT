@@ -64,25 +64,25 @@ sys.path.append(os.path.abspath('../commoncoin'))
 idCounter = 0
 
 class Transaction:  # assume amout is in term of short
-    def __init__(self, id = -1):
+    def __init__(self, myid = -1):
         global idCounter
         self.envelope = None
-        if id == -1:
-            self.id = idCounter
+        if myid == -1:
+            self.trId = idCounter
             idCounter += 1
         else:
-            self.id = id
+            self.trId = myid
     # def __repr__(self):
     #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
     #
 
     def __repr__(self):
-        return bcolors.OKBLUE + "{{Transaction with id %d and envelope channel Id %s }}" % (self.id, self.envelope.channelId) + bcolors.ENDC
+        return bcolors.OKBLUE + "{{Transaction with id %d and envelope channel Id %s }}" % (self.trId, self.envelope.channelId) + bcolors.ENDC
         # return bcolors.OKBLUE + "{{Transaction with envelope %s }}" % (self.envelope) + bcolors.ENDC
 
     def __eq__(self, other):
         if isinstance(other, self.__class__):
-            return self.id == other.id and self.envelope == other.envelope
+            return self.trId == other.trId and self.envelope == other.envelope
             # return self.envelope == other.envelope
         return False
 
@@ -90,7 +90,7 @@ class Transaction:  # assume amout is in term of short
         return not self.__eq__(other)
 
     def __hash__(self):
-        return hash(self.id)
+        return hash(self.trId)
         # return hash(self.envelope)
 
 
@@ -151,7 +151,7 @@ def encodeMyTransaction(tr):
     delimiter = _VarintBytes(len(envelope))
     message = delimiter + envelope
 
-    return struct.pack('<H', tr.id) + message + os.urandom(TR_SIZE - len(message) - 2)
+    return struct.pack('<H', tr.trId) + message + os.urandom(TR_SIZE - len(message) - 2)
     # return message + os.urandom(TR_SIZE - len(message))
 
 def decodeMyTransaction(byteStr):
