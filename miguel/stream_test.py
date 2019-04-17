@@ -155,7 +155,7 @@ def client_test_freenet(N, t, options):
 
     for j in range(int(options.tx)):
 
-        transaction = Transaction()
+        transaction = Transaction(j)
         transaction.envelope = receive_envelope()
 
         for z in range(N):

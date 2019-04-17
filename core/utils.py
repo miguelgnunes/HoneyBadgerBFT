@@ -61,17 +61,11 @@ import os
 sys.path.append(os.path.abspath('../commoncoin'))
 
 
-idCounter = 0
-
 class Transaction:  # assume amout is in term of short
     def __init__(self, myid = -1):
         global idCounter
         self.envelope = None
-        if myid == -1:
-            self.trId = idCounter
-            idCounter += 1
-        else:
-            self.trId = myid
+        self.trId = myid
     # def __repr__(self):
     #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC
     #
@@ -152,7 +146,6 @@ def encodeMyTransaction(tr):
     message = delimiter + envelope
 
     return struct.pack('<H', tr.trId) + message + os.urandom(TR_SIZE - len(message) - 2)
-    # return message + os.urandom(TR_SIZE - len(message))
 
 def decodeMyTransaction(byteStr):
 
