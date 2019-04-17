@@ -363,18 +363,16 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             gevent.joinall(thList)
             mylog("timestampE (%d, %lf)" % (pid, time.time()), verboseLevel=-2)
             for rtx in recoveredSyncedTxList:
-                finishedTx.update(set(rtx))
+                finishedTx.update(set([decodeMyTransaction(tr) for tr in rtx]))
 
             for transaction in finishedTx:
-                decoded_transaction = decodeMyTransaction(transaction)
-                if decoded_transaction.trId not in sentTx:
-                    sentTx[decoded_transaction.trId] = decoded_transaction
+                if transaction.trId not in sentTx:
+                    sentTx[transaction.trId] = transaction
                     # send_envelope(socket, transaction.envelope)
-                    mylog("Sent back envelope %s to BFTProxy" % decoded_transaction, verboseLevel=-2)
+                    mylog("Sent back envelope %s to BFTProxy" % transaction, verboseLevel=-2)
 
             for tr in finishedTx:
-                decoded = decodeMyTransaction(tr)
-                mylog("[finishedTx] Sent back envelope %s to BFTProxy" % decoded, verboseLevel=-2)
+                mylog("[finishedTx] Sent back envelope %s to BFTProxy" % tr, verboseLevel=-2)
 
             mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
             lock.get()
