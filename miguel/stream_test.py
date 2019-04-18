@@ -144,7 +144,7 @@ def client_test_freenet(N, t, options):
     # transaction = Transaction()
     # transaction.envelope = receive_envelope()
 
-    transaction_set = set([Transaction(j, receive_envelope()) for j in range(int(options.tx))])
+    transaction_set = set([encodeMyTransaction(Transaction(j, receive_envelope())) for j in range(int(options.tx))])
 
     for i in range(N):
         bc = makeBroadcast(i)
