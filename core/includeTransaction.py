@@ -309,21 +309,22 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
     Greenlet(listener).start()
 
     while True:
-            op, msg = controlChannel.get()
-            if op == "IncludeTransaction":
-                if isinstance(msg, Transaction):
-                    # transactionCache.add(msg)
-                    transactionCache.append(msg)
-                elif isinstance(msg, set):
-                    for tx in msg:
-                        transactionCache.append(tx)
-                elif isinstance(msg, list):
-                    transactionCache.extend(msg)
-            elif op == "Halt":
-                break
-            elif op == "Msg":
-                broadcast(eval(msg))  # now the msg is something we mannually send
-            mylog("timestampB (%d, %lf)" % (pid, time.time()), verboseLevel=-2)
+            if len(transactionCache) < B/N:
+                op, msg = controlChannel.get()
+                if op == "IncludeTransaction":
+                    if isinstance(msg, Transaction):
+                        # transactionCache.add(msg)
+                        transactionCache.append(msg)
+                    elif isinstance(msg, set):
+                        for tx in msg:
+                            transactionCache.append(tx)
+                    elif isinstance(msg, list):
+                        transactionCache.extend(msg)
+                elif op == "Halt":
+                    break
+                elif op == "Msg":
+                    broadcast(eval(msg))  # now the msg is something we mannually send
+                mylog("timestampB (%d, %lf)" % (pid, time.time()), verboseLevel=-2)
             if len(transactionCache) < B:  # Let's wait for many transactions. : )
                 time.sleep(0.5)
                 print "Not enough transactions", len(transactionCache), "-", B

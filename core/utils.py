@@ -62,9 +62,9 @@ sys.path.append(os.path.abspath('../commoncoin'))
 
 
 class Transaction:  # assume amout is in term of short
-    def __init__(self, myid = -1):
+    def __init__(self, myid = -1, envelope = None):
         global idCounter
-        self.envelope = None
+        self.envelope = envelope
         self.trId = myid
     # def __repr__(self):
     #     return bcolors.OKBLUE + "{{Transaction from %s to %s with %d}}" % (self.source, self.target, self.amount) + bcolors.ENDC

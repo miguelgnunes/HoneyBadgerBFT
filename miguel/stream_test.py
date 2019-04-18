@@ -144,22 +144,19 @@ def client_test_freenet(N, t, options):
     # transaction = Transaction()
     # transaction.envelope = receive_envelope()
 
+    transaction_set = {([Transaction(j, receive_envelope()) for j in enumerate(int(options.tx))]}
+
     for i in range(N):
         bc = makeBroadcast(i)
         recv = recvWithDecode(buffers[i])
         # th = Greenlet(honestParty, i, N, t, controlChannels[i], bc, recv, makeSend(i), socket, options.B)
         th = Greenlet(honestParty, i, N, t, controlChannels[i], bc, recv, makeSend(i), options.B)
-        # controlChannels[i].put(('IncludeTransaction', transaction))
+
+        controlChannels[i].put(('IncludeTransaction', transaction_set))
+
+       # controlChannels[i].put(('IncludeTransaction', transaction))
         th.start_later(random.random() * maxdelay)
         ts.append(th)
-
-    for j in range(int(options.tx)):
-
-        transaction = Transaction(j)
-        transaction.envelope = receive_envelope()
-
-        for z in range(N):
-            controlChannels[z].put(('IncludeTransaction', {encodeMyTransaction(transaction)}))
 
     try:
         gevent.joinall(ts)
