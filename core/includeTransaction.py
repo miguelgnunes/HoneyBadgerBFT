@@ -223,7 +223,9 @@ def includeTransaction(pid, N, t, setToInclude, broadcast, receive, send):
 
     def _listener():
         while True:
+            mylog("[%d] includeTransaction, before receive()." % pid, verboseLevel=-2)
             sender, (tag, m) = receive()
+            mylog("[%d] includeTransaction, after receive()." % pid, verboseLevel=-2)
             if tag == 'B':
                 greenletPacker(Greenlet(CBChannel.put, (sender, m)),
                     'includeTransaction.CBChannel.put', (pid, N, t, setToInclude, broadcast, receive)).start()
