@@ -325,10 +325,10 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
                 elif op == "Msg":
                     broadcast(eval(msg))  # now the msg is something we mannually send
                 mylog("timestampB (%d, %lf)" % (pid, time.time()), verboseLevel=-2)
-            if len(transactionCache) < B:  # Let's wait for many transactions. : )
-                time.sleep(0.5)
-                print "Not enough transactions", len(transactionCache), "-", B
-                continue
+            # if len(transactionCache) < B:  # Let's wait for many transactions. : )
+            #     time.sleep(0.5)
+            #     print "Not enough transactions", len(transactionCache), "-", B
+            #     continue
 
             oldest_B = transactionCache[:B]
             selected_B = random.sample([encodeMyTransaction(tr) for tr in oldest_B], min(B/N, len(oldest_B)))
@@ -383,7 +383,8 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             for tr in finishedTx:
                 mylog("[finishedTx] Sent back envelope %s to BFTProxy" % tr, verboseLevel=-2)
 
-            mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
+            mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache)), verboseLevel=-2)
+            # mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
             mylog("[%d] Locking lock" % pid, verboseLevel=-2)
             lock.get()
             mylog("[%d] Unlocked lock" % pid, verboseLevel=-2)
