@@ -4,7 +4,7 @@ from gevent import Greenlet
 from gevent.queue import Queue, Empty
 from bkr_acs import acs
 from utils import mylog, MonitoredInt, callBackWrap, greenletFunction, \
-    greenletPacker, getEncKeys, Transaction, decodeMyTransaction, getECDSAKeys, sha1hash, TR_SIZE
+    greenletPacker, getEncKeys, Transaction, decodeMyTransaction, getECDSAKeys, sha1hash, TR_SIZE, encodeMyTransaction
 from collections import defaultdict
 import zfec
 import hashlib
@@ -331,7 +331,7 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
                 continue
 
             oldest_B = transactionCache[:B]
-            selected_B = random.sample(oldest_B, min(B/N, len(oldest_B)))
+            selected_B = random.sample([encodeMyTransaction(tr) for tr in oldest_B], min(B/N, len(oldest_B)))
             print "[%d] proposing %d transactions" % (pid, min(B/N, len(oldest_B)))
             aesKey = random._urandom(32)  #
             encrypted_B = encrypt(aesKey, ''.join(selected_B))
@@ -364,9 +364,6 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             gevent.joinall(thList)
             mylog("timestampE (%d, %lf)" % (pid, time.time()), verboseLevel=-2)
             for rtx in recoveredSyncedTxList:
-                for tr in rtx:
-                    transactionCache.remove(tr)
-                    
                 finishedTx.update(set([decodeMyTransaction(tr) for tr in rtx]))
 
             for transaction in finishedTx:
@@ -374,6 +371,14 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
                     sentTx[transaction.trId] = transaction
                     # send_envelope(socket, transaction.envelope)
                     mylog("Sent back envelope %s to BFTProxy" % transaction, verboseLevel=-2)
+
+            newTransactionCache = []
+            for tr in transactionCache:
+                if(tr.id not in sentTx):
+                    newTransactionCache.append(tr)
+
+            transactionCache = newTransactionCache
+
 
             for tr in finishedTx:
                 mylog("[finishedTx] Sent back envelope %s to BFTProxy" % tr, verboseLevel=-2)
