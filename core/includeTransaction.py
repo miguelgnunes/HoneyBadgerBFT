@@ -376,7 +376,9 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
                 mylog("[finishedTx] Sent back envelope %s to BFTProxy" % tr, verboseLevel=-2)
 
             mylog("[%d] %d distinct tx synced and %d tx left in the pool." % (pid, len(finishedTx), len(transactionCache) - len(finishedTx)), verboseLevel=-2)
+            mylog("[%d] Locking lock" % tr, verboseLevel=-2)
             lock.get()
+            mylog("[%d] Unlocked lock" % tr, verboseLevel=-2)
             finishcount += 1
             lock.put(1)
             # if finishcount >= N - t:  # convenient for local experiments
