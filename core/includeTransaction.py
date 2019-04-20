@@ -374,7 +374,7 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
 
             newTransactionCache = []
             for tr in transactionCache:
-                if(tr.id not in sentTx):
+                if(tr.trId not in sentTx):
                     newTransactionCache.append(tr)
 
             transactionCache = newTransactionCache
