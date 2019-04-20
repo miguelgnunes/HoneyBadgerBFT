@@ -368,11 +368,11 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             for rtx in recoveredSyncedTxList:
                 finishedTx.update(set([decodeMyTransaction(tr) for tr in rtx]))
 
-            # for transaction in finishedTx:
-            #     if transaction.trId not in sentTx:
-            #         sentTx[transaction.trId] = transaction
-            #         # send_envelope(socket, transaction.envelope)
-            #         mylog("Sent back envelope %s to BFTProxy" % transaction, verboseLevel=-2)
+            for transaction in finishedTx:
+                if transaction.trId not in sentTx:
+                    sentTx[transaction.trId] = transaction
+                    # send_envelope(socket, transaction.envelope)
+                    # mylog("Sent back envelope %s to BFTProxy" % transaction, verboseLevel=-2)
 
             newTransactionCache = []
             for tr in transactionCache:
