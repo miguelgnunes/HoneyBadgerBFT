@@ -364,6 +364,9 @@ def honestParty(pid, N, t, controlChannel, broadcast, receive, send, B = -1):
             gevent.joinall(thList)
             mylog("timestampE (%d, %lf)" % (pid, time.time()), verboseLevel=-2)
             for rtx in recoveredSyncedTxList:
+                for tr in rtx:
+                    transactionCache.remove(tr)
+                    
                 finishedTx.update(set([decodeMyTransaction(tr) for tr in rtx]))
 
             for transaction in finishedTx:
